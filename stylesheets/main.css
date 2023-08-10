@@ -1,0 +1,43 @@
+body {
+  background-color: #dbe4ba;
+}
+
+
+.center-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #48386F;
+  }
+
+ul.navbar li a {
+    font-size: 43px; /* You can adjust the font size as needed */
+}
+  
+  li {
+    float: left;
+    border-right: 1.5px solid #8BC9D6;
+  }
+  
+  li a {
+    display: block;
+    color: #8BC9D6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  
+  li:last-child {
+    border-right: none;
+  }
