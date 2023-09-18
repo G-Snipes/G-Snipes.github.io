@@ -1,11 +1,86 @@
 body {
-  background-color: #dbe4ba;
+  /*background-color: #dbe4ba;*/
+  margin: 5; /* Remove default margin to ensure full coverage */
+  padding: 5; /* Remove default padding */
+  background-image: url("background.jpg");
+  background-size: cover; /* Adjust to your preference */
+  background-repeat: no-repeat; /* Prevent image from repeating */
+  background-attachment: fixed; 
+  display: flex;
+  flex-direction: column; /* Ensure a column layout */
+  min-height: 100vh;
 }
-
 
 .center-image {
   max-width: 100%;
   max-height: 100%;
+}
+
+/* Footer styles */
+footer {
+  background-color: #48396F; /* Background color of the footer */
+  color: #fff; /* Text color */
+  padding: 1px; /* Spacing inside the footer */
+  text-align: center; /* Center-align the text */
+  margin-top: auto; /* Push the footer to the bottom */
+}
+
+/* Style the anchor (@g_snipe_) if needed */
+footer a {
+  color: #fff; /* Link color */
+  text-decoration: none; /* Remove underlines from links */
+}
+
+/* Center the gallery */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Style each image */
+.gallery img {
+  width: 300px; /* Adjust the image size */
+  height: 400px; /* Adjust the image size */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  margin: 5px; /* Add some spacing between images */
+  border: 2px solid #8BC9D6; /* Add a border for visual separation */
+}
+
+.navbar {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  height: 80px; /* Adjust the desired height of the navbar */
+  background-color:  #48386F; /* Example background color */
+}
+
+.navbar-link {
+  display: inline-flex;
+  align-items: center;
+  height: 100%; /* Ensure the link takes the full height of the navbar */
+  padding: 0 15px; /* Add padding as needed */
+}
+
+.navbar-image {
+  width: 100%;
+  height: 100%;
+  width: 60px; /* Adjust image size */
+  height: 60px; /* Adjust image size */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  margin: 1px; /* Add some spacing */
+  border-radius: 50%; /* Make it a circle */
+  animation: rotate 5s linear infinite; /* Apply rotation animation */
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 ul {
@@ -36,8 +111,8 @@ ul.navbar li a {
   li a:hover {
     background-color: #111;
   }
-
   
   li:last-child {
     border-right: none;
   }
+
