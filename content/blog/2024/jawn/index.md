@@ -2,8 +2,7 @@
 author: Gary Snipes
 date: '2024-04-26'
 summary: |
-  Java applications under Wayland seemed to have all different sizes of cursors, but
-  some were way, way, too big. 🐘
+  Java 
 tags: 
   - fedora
   - java
@@ -18,4 +17,4 @@ coverCaption: |
 ---
 
 
-Yo please work
+Yo please work plase
