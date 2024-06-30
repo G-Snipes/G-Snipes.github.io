@@ -12,6 +12,8 @@ title = ""
   rtl = false
   dateFormat = "2 January 2006"
 
+  description = "G Snipe personal website. I blog everything from the Philly DIY scene, to my personal life, to blockchain technology, web 3.0. rabbit holes, global affairs, music I make, projects I work on, my band (Dimmer), weird stuff, and obscure thoughts about the underground music world. Also I provide services for music, video, webbuilding, and modeling!"
+
   mainSections = ["blog"]
   # description = "G Snipe personal website"
 
@@ -19,6 +21,7 @@ title = ""
   name = "Gary Snipes (G Snipe)"
   image = "img/me.jpeg"
   headline = "Creator & Artist"
+  bio = "I make stuff."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

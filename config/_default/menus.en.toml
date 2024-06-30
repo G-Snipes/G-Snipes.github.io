@@ -31,7 +31,7 @@
 
 [[main]]
   name = "Services"
-  pageRef = "categories"
+  pageRef = "services"
   weight = 10
 
 [[main]]
@@ -41,7 +41,7 @@
 
 [[main]]
   name = "Contact"
-  pageRef = "posts"
+  pageRef = "contact"
   weight = 20
 
 [[main]]
