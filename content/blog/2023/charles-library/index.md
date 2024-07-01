@@ -5,6 +5,7 @@ summary: |
   A little rant at Charles library. You can probably skip this one. 
 tags: 
   - college
+  - journaling
 title: Charles Library
 coverCaption: |
   
