@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: 'YYYY-MM-DD'
 summary: |
-  Start here. 
+  Start here.
 tags: 
   - 
 title: 
