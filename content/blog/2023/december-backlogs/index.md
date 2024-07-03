@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: '2023-12-01'
 summary: |
-  All of my December blogs rolled into one. 
+  All of my December blogs rolled into one. I talk about YT, X (Twitter), and Tagabow. 
 tags: 
   - YouTube
   - Twitter
@@ -44,18 +44,16 @@ I saw one of my favorite shows to date last night. First Unitarian Church. A ver
 
 The two guys from SPIRIT OF THE BEEHIVE opened the show as their duo act called Draag Me. I believe that’s what to call them. I went hard in the pit for TAGABOW. Overall, like I said this show was one of my favorites to date. Full Body 2 was great. I met some cool people. Some of the homies from Kicker were there. Ben’s glasses got broken in the pit and he lost his vape. But he did find it later and he did fix his glasses. 
 
-Sameera and Brittaney from Ratpie were there too. They interviewed Doug. I recommend hearing the things he had to say and mention. Not just people into music and the underground but anyone alive out there. Read it here: 
-
-[Unraveling They Are Gutting A Body Of Water's Blissful Universe](ratpiefriends.com)
+[Unraveling They Are Gutting A Body Of Water's Blissful Universe](https://www.ratpiefriends.com/post/they-are-gutting-a-body-of-water-expansion-pak)
 
 ``` QUOTE
-“You learn everything from the mirrors of other people. You learn everything through other people. Just having friends is dope, it's a blessing truly."
+“You learn everything from the mirrors of other people. You learn everything through other people. Just having friends is dope, it's a blessing truly." ~ Douglas Dulgarian
 ```
 
 ### 12/21/2023 Towed
-My car got towed last night yay! I parked in a handicapped spot in Chinatown. Totally my fault but the fact that I had no idea where it went, the fact that the phone number on the sign wasn’t working, and the fact that it cost me $500 to get it back has made me decide to one day destroy the Philadelphia Parking Authority. If you think they’re any kind of entity other than pure evil do a quick Google search. 
+My car got towed last night yay! I parked in a handicapped spot in Chinatown. Totally my fault but the fact that I had no idea where it went, the fact that the phone number on the sign wasn’t working, and the fact that it cost me $500 to get it back has made me decide to one day destroy the Philadelphia Parking Authority. 
 
-They are a private entity sucking money out of the hard-working people of Philadelphia. I’m not saying I should’ve parked in that spot. What I am saying is that if I was someone else I could’ve been completely screwed.
+A quick Google search made me see that they're a force of pure evil. They are a private entity sucking money out of the hard-working people of Philadelphia. I’m not saying I should’ve parked in that spot. What I am saying is that if I was someone else I could’ve been completely screwed.
 
-I never condone parking in handicapped spots. I think people who do that are awful and think they are privileged. I was being an idiot. The sign had a lot of stuff on it and I was just excited because I was on my way to a meetup. 
+I never condone parking in handicapped spots. I think people who do that are awful and think they are privileged. I was being an idiot. The sign had a lot of stuff on it. I was just excited because I was on my way to a meetup. 
 
