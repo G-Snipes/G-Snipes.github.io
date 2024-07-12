@@ -4,6 +4,6 @@
 ---
 
 ```console
-                                      gsnipe721@gmail.com
-
+    gsnipe721@gmail.com
 ```
+

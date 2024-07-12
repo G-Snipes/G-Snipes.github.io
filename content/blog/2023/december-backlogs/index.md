@@ -4,11 +4,11 @@ date: '2023-12-01'
 summary: |
   All of my December blogs rolled into one. I talk about YT, X (Twitter), and Tagabow. 
 tags: 
-  - YouTube
-  - Twitter
-  - Tagabow
   - Draag Me
   - Philly
+  - Tagabow
+  - X (Twitter)
+  - YouTube
 title: December Backlogs
 coverCaption: |
   [Max Blaise](https://www.democratandchronicle.com/story/news/2015/02/06/snowman-irondequoit-hoover-road-max-blaise/22991071/) via democratandchronicle.com
@@ -23,32 +23,37 @@ I think that YouTube is kind of splitting off into a literal red-pill and blue-p
 
 Content has gotten too saturated and honestly annoying. I won’t write an essay right now. YouTube is not the same. I actually touched on this in my video, but I think we need to get back to reality. We need more videos of just people being people. And that’s what Sam Salek does well. I don’t think people are even there for the workout advice as much as they are the down to earth inspirational vibes he gives off. 
 
-Exercise is a cure all solution in my book. We weren’t meant to be sitting down all day doing little physical motion. It's bullshit. Get the endorphins pumping. I’ve never finished a workout and felt more upset mentally than I did before. It just doesn’t happen. WE are made up of chemistry. Our bodies want to help us. The physical and mental are one in the same in a lot of ways. If you want to be better and you feel down. I guarantee you that picking up some weights, or doing cardio will change that. You have to give it a real try. I always say that two weeks of dedication is all you need to know if it is really working or not. More often than not when I see people pick up weights, they do not put them down.
+Exercise is a cure all solution in my book. We weren’t meant to be sitting down all day doing little physical motion. It's bullshit. Get the endorphins pumping. I’ve never finished a workout and felt more upset mentally than I did before. It just doesn’t happen. WE are made up of chemistry. Our bodies want to help us. The physical and mental are one in the same in a lot of ways. If you want to be better and you feel down, I guarantee you that picking up some weights, or doing cardio will change that. You have to give it a real try though. I always say that two weeks of dedication is all you need to know if it is really working or not. More often than not when I see people pick up weights, they do not put them down.
 
 ### 12/6/2023 X (twitter)
 No, not ecstasy. X, formerly Twitter, is a platform I thought to thoroughly revisit last night. The last time I feel like I truly dabbled with Twitter was either freshman year of college, or sometime before. I hated it then, I don’t know why I thought it would be better now. It felt like a giant filthy stew of dogshit. Featuring the best and worst of humanity, sometimes one after the other. I saw  the scum of the internet. People with egos and self-images so big they probably think they are God itself. I saw devastating headlines, as well as graphic videos of pornography, violence, and death. 
 
 I’m probably exaggerating. There are probably controls I can set on my feed so I don’t see any NSFW content. I’m glad that the freedom on the platform provides accuracy to headlines, but there was too much nonsense for me to sift through.
 
-It's made me hate myself too. Because I couldn’t look away. It was so exhilarating and tragic that I couldn't stop. Fear is one of our first emotions. When we are scared or shocked to our core by news, we automatically think that it is of the most importance. Not that people dying or stuff like that is something to gloss over, but my point is that we are wired to be drawn to that. The mainstream media knows it. When there is a war or conflict that the U.S. is somewhat attached to, that’s all we will see. There is a lot of money to be made in war. And they know it. That’s why they’ll make sure it's your favorite show. They know you’ll think it's of the utmost importance. Again, not that it surely isn’t important, but they know you’ll be hooked. The military industrial complex will make a lot of money.  
+It's made me hate myself too. Because I couldn’t look away. It was so exhilarating and tragic that I couldn't stop. Fear is one of our first emotions. When we are scared or shocked to our core by news, we automatically think that it is of the most importance. Not that people dying or stuff like that is something to gloss over, but my point is that we are wired to be drawn to that. The mainstream media knows it. When there is a war or conflict that the U.S. is somewhat attached to, that’s all we will see. There is a lot of money to be made in war. And they know it. That’s why they’ll make sure it's your favorite show. They know you’ll think it's of the utmost importance. Again, not that it surely isn’t important, but they know you’ll be hooked. The military industrial complex will be more allowed to make more money.  
 
-I was on X for about an hour before bed last night and I felt physically ill. I think I was disgusted that a platform like that exists. It felt like the closest you can get to playing GTA VI without actually playing it. It’s unfiltered chaos. It’s everything that humanity has to offer in its purest form. I may return and adjust my feed, but it won’t be for a while. We are a wild species. 
+I was on X for about an hour before bed last night and I felt physically ill. I felt overwhelmed. It felt like the closest you can get to playing GTA VI without actually playing it. It’s unfiltered chaos. It’s everything that humanity has to offer in its purest form. I may return and adjust my feed, but it won’t be for a while. We are a wild species. 
 
-The only time I will ever use Twitter, or X, is to catch up on what Tagabow is saying. Or perhaps I’ll get sucked into crypto again. Overall, I’m scared of it, but I wasn’t a fan but I understand its importance. 
+The only time I will ever use Twitter, or X, is to catch up on what Tagabow is saying. Or perhaps I’ll get sucked into crypto again. Overall, I’m scared of it, I'm not a fan but I understand its importance. 
 
 ### 07/02/2023 Real quick
 I have X (twitter) now. So much for that rant. 
 
 ### 12/19/2023 Tagabow at First Unitarian Church
-I saw one of my favorite shows to date last night. First Unitarian Church. A very legendary venue. Figuring out how to get in there felt like a Dark Souls map. John from Julia’s War (not sure his last name) tried to jip me $20 <3.
+![](fullbody.png)
+Full Body 2 at First Unitarian Church
 
-The two guys from SPIRIT OF THE BEEHIVE opened the show as their duo act called Draag Me. I believe that’s what to call them. I went hard in the pit for TAGABOW. Overall, like I said this show was one of my favorites to date. Full Body 2 was great. I met some cool people. Some of the homies from Kicker were there. Ben’s glasses got broken in the pit and he lost his vape. But he did find it later and he did fix his glasses. 
+I saw one of my favorite shows to date last night. Tagabow's last leg of tour at First Unitarian Church. A very legendary venue. Figuring out how to get in there felt like a Dark Souls map. That dude John from Julia’s War (not sure his name) tried to jip me $20. (As a joke <3.)
+
+The two guys from SPIRIT OF THE BEEHIVE opened the show as their duo act called Draag Me. I believe that’s what to call them. I went hard in the pit for TAGABOW. Overall, like I said this show was one of my favorites to date. Full Body 2 was great. I met some cool people. Some of the homies from Kicker were there. Ben’s glasses got broken in the pit, but they got fixed.
 
 [Unraveling They Are Gutting A Body Of Water's Blissful Universe](https://www.ratpiefriends.com/post/they-are-gutting-a-body-of-water-expansion-pak)
 
 ``` QUOTE
 “You learn everything from the mirrors of other people. You learn everything through other people. Just having friends is dope, it's a blessing truly." ~ Douglas Dulgarian
 ```
+
+![](kicker.png)
 
 ### 12/21/2023 Towed
 My car got towed last night yay! I parked in a handicapped spot in Chinatown. Totally my fault but the fact that I had no idea where it went, the fact that the phone number on the sign wasn’t working, and the fact that it cost me $500 to get it back has made me decide to one day destroy the Philadelphia Parking Authority. 
