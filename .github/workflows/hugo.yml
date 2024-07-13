@@ -34,6 +34,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: ./hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.ref == 'refs/heads/main' }}
@@ -41,3 +47,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          
