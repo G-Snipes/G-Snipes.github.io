@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://github.com/G-Snipes/GSnipe-Website/"
+# baseURL = "https://G-Snipes.github.io/GSnipe-Website/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
