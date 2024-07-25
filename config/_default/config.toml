@@ -4,7 +4,7 @@
 
 baseURL = "https://G-Snipes.github.io/"
 defaultContentLanguage = "en"
-
+title = "G-Snipes"
 enableGitInfo = true
 
 enableRobotsTXT = true
