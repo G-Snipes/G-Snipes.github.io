@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hot Mulligan on </title>
+    <link>http://localhost:1313/tags/hot-mulligan/</link>
+    <description>Recent content in Hot Mulligan on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hot-mulligan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Almost Turkey Day</title>
+      <link>http://localhost:1313/blog/2023/almost-turkey/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/almost-turkey/</guid>
+      <description>Start here.</description>
+    </item>
+  </channel>
+</rss>

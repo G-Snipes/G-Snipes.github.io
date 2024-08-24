@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celebritisation on </title>
+    <link>http://localhost:1313/tags/celebritisation/</link>
+    <description>Recent content in Celebritisation on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/celebritisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Julie Aftermath &amp; Artist Celebritisation</title>
+      <link>http://localhost:1313/blog/2023/celebritisation/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/celebritisation/</guid>
+      <description>I talk about how much I love Julie and my struggles and thoughts of celebritising artists. Especially local ones.</description>
+    </item>
+  </channel>
+</rss>

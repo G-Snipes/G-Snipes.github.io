@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Run for Cover on </title>
+    <link>http://localhost:1313/tags/run-for-cover/</link>
+    <description>Recent content in Run for Cover on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/run-for-cover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waveform &amp; Wallace</title>
+      <link>http://localhost:1313/blog/2023/waveform-wallace/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/waveform-wallace/</guid>
+      <description>Waveform, Dimmer demos, and Wallace, Tonight. I also debate if I should write a book.</description>
+    </item>
+  </channel>
+</rss>
