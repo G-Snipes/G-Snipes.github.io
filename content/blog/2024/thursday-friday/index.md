@@ -9,7 +9,7 @@ tags:
   - capitalism
   - Mental Health
   - Work Hard
-title: My Thursday/Friday & Ephiphanies
+title: My Thursday Friday & Ephiphanies
 coverCaption: |
   CO, just southwest of Estes Park. Shot by me. 
 ---
