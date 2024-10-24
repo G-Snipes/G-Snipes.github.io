@@ -16,7 +16,7 @@ coverCaption: |
 
 ### 8/31/24 Bare Minimum
 
-Holy crap Lois. I've been suffering the effects of being chronically on the internet and staring at a screen for hours everyday since I was a child. 
+Holy crap Lois. I've been suffering the effects of being chronically on the internet and staring at a screen for hours everyday since I was a child. s
 
 I just listened to “I am Mothman" by Buice. Also I’m relistening to Census Designated by “Jane Remover”. I don’t know if I’m into the whole digicore thing, maybe I need to give it some relistens. I like the emotions pouring out. “I am Mothman” is an absolute crescendo of experimental noise and energy screaming out of Hayden and the rest. I just fucking love music. I can’t believe that anyone can make it at the level we do now. There has never been a better time to make music than right now. I think everyone should start doing as much as they can of whatever they want before A.I. ruins everything. 
 

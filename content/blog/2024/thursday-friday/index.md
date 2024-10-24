@@ -20,7 +20,6 @@ Big epiphany time…
 
 Last Thursday I woke up bright and early and went to the local gym in Ocean City, NJ where I paid for a day pass to get access to their gym. I woke up at 6:30am and went to the Atilis gym. I was in Ocean City because I was on vacation with my family. I got back to our hotel and showered quickly, packed up, and then proceeded to Glen Mills, PA. 
 
-
 It was there I had a meeting with a modeling agency. I scheduled an appointment with a barbershop in the same plaza the agency had their office at. I had some downtime in between appointments so I walked over to the Hilton nearby to do some nomad work in their lobby. While I was in the lobby I did some work on my website. I wanted to fix some issues I had with it and I eventually fixed all of them. After all this it was about 6pm and at that point I headed to Swarthmore college as there was a show happening there. Cats on Mushrooms was playing with Supermarket Parking Lot and Prisoners of Love. They were all phenomenal to say the least. I got to hop up on stage and sing Head in the Ceiling Fan with Matt. 
 
 I snapped a few pics and talked to the owner of the venue. It's called Warehouse 3. I made a new page on the phillyscene.net site for it. 
