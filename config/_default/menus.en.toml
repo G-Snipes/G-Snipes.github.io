@@ -12,11 +12,11 @@
 
 
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/G-Snipes"
+  name = "Discord"
+  url = "https://discord.gg/RG4xVUKs"
   weight = 5
   [main.params]
-    icon = "github"
+    icon = "discord"
     showName = false
     target = "_blank"
 
