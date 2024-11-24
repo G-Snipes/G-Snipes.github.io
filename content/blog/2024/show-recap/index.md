@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: '2024-11-23'
 summary: |
-  Show recap for SHBTVG, Wallace, Tonight!, All the Flower, and Mormon Toasterhead @OverYonder
+  Show recap for SHBTVG, Wallace, Tonight!, All the Flowers, and Mormon Toasterhead @OverYonder
 tags: 
   - music
   - live music 
@@ -12,6 +12,7 @@ tags:
   - Wallace, Tonight!
   - All the Flowers
   - Mormon Toasterhead
+title: SHOW RECAP 1 "Going Over Yonder"
 coverCaption: |
   My roommate's head is in this shot. 
 ---
