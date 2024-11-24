@@ -68,7 +68,7 @@ Bennett Hammy, my good friend, [yueblum](https://www.instagram.com/yueblum/) leg
 
 The tones, the vibe, everything sounded awesome. The sound levels in general were good throughout the whole night. Just ask the stupid grins on my and John from Wallace, Tonight’s face. They’ve been playing a lot of their new unreleased stuff which I like and which Bennett won’t leak to me no matter how much I ask him. I’ll give him a pass for playing well. Especially during the jam session they had at the end of their set, which might have ended up being my favorite part. Either that or them referencing Infinite Jest. Although after reading their bio on Spotify the reference lines up. 
 
-Listening to their music, I find it so refreshingly original, uplifting, and fantastic! My favorite song is “Butterfly Museum”. I hope they play it one day. Listen to their new album “Free Wheel”! 
+Listening to their music, I find it so refreshingly original, uplifting, and fantastic! My favorite song is “Butterfly Museum”. I hope they play it live one day. Listen to their new album “Free Wheel”! 
 
 [Mormon Toaster Head IG](https://www.instagram.com/mormontoasterhead/)
 
