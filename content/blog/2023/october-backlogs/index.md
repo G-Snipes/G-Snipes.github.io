@@ -8,7 +8,7 @@ tags:
   - julie
   - office job
   - philly
-  - wallace, tonight
+  - wWllace, Tonight!
   - work hard
 title: October Backlogs
 coverCaption: |
