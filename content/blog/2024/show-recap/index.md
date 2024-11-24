@@ -32,7 +32,7 @@ Perhaps the most mysterious band on the bill to me, as friends of the Machine, I
 
 With one guitarist, one drummer, and two line-outs, I was so happy to see this band match the exact energy I imagined an act called “Small Head Big Torso Vicious Grip” would exude. And that is what punk music is about. Its losing one’s voice by the end of the set from screaming, having “FUCK” and “gentrification” stickers on their gear, dragging a rack tom into the audience for people to smack as they please, and sprinkling some Unwound in there indeed. If you see this band, do them a favor and bring your energy. Oh, and earplugs. 
 
-[IG](https://www.instagram.com/shbtvg.band/)
+[SHBTVG IG](https://www.instagram.com/shbtvg.band/)
 
 # Wallace, Tonight!
 
@@ -44,9 +44,9 @@ Sonically speaking Wallace, Tonight is tight, energetic, and captivating. Will t
 
 With the return of Grace, I’m excited to see what these guys cook up in the coming months. I love Wallace, Tonight!. Sue me. 
 
-(Also shoutout their YouTube channel some of them run: [Wallace, Watches](https://www.youtube.com/@whatwallacewatches/featured) You can check out all kinds of live sets there, as well as all the sets from tonight. Go listen to Wallace, Tonight! tonight!)
+(Also shoutout their YouTube channel some of them run: [Wallace, Watches!](https://www.youtube.com/@whatwallacewatches/featured) You can check out all kinds of live sets there, as well as all the sets from tonight. Go listen to Wallace, Tonight! tonight!)
 
-[IG](https://www.instagram.com/wallacetonight/)
+[Wallace, Tonight! IG](https://www.instagram.com/wallacetonight/)
 
 # All the Flowers
 
@@ -58,7 +58,7 @@ But no seriously… they’re music is beautiful, and it made me cry. Their part
 
 If you like their music on streaming, they sound awesome live! They know how to put on a show. I love when all of them sing into the microphone at the same time. <3
 
-[IG](https://www.instagram.com/alltheflowersband/)
+[All the Flowers IG](https://www.instagram.com/alltheflowersband/)
 
 # Mormon Toasterhead
 
@@ -70,7 +70,7 @@ The tones, the vibe, everything sounded awesome. The sound levels in general wer
 
 Listening to their music, I find it so refreshingly original, uplifting, and fantastic! My favorite song is “Butterfly Museum”. I hope they play it one day. Listen to their new album “Free Wheel”! 
 
-[IG](https://www.instagram.com/mormontoasterhead/)
+[Mormon Toaster Head IG](https://www.instagram.com/mormontoasterhead/)
 
 Go listen to the livesets if you want here -> [Link](https://www.youtube.com/@whatwallacewatches/featured) 
 
