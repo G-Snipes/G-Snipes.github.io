@@ -54,7 +54,7 @@ There was a time when All the Flowers was not on my conscience. Like I guess eve
 
 Am I getting too dramatic? 
 
-But no seriously… they’re music is beautiful, and it made me cry. Their particular shade of instrumentals, combined with the very honey and relatable lyrics, and well sung vocal harmonies led me straight to my feelings. Instrumentally, there are not too many bands in Philly, or bands in general I know of that have a violinist. They did. (I apologize if it's actually a viola, my dumbass doesn’t know the difference.) And for me it applies as the perfect cherry on top of everything else they got going on. 
+But no seriously… they’re music is beautiful, and it made me cry. Their particular shade of instrumentals, combined with the very honest and relatable lyrics, and well sung vocal harmonies led me straight to my feelings. Instrumentally, there are not too many bands in Philly, or bands in general I know of that have a violinist. They did. (I apologize if it's actually a viola, my dumbass doesn’t know the difference.) And for me it applies as the perfect cherry on top of everything else they got going on. 
 
 If you like their music on streaming, they sound awesome live! They know how to put on a show. I love when all of them sing into the microphone at the same time. <3
 
