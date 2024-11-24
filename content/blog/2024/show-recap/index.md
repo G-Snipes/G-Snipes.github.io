@@ -26,7 +26,7 @@ Please note that I am not a critic, I am recapping the shows and mentioning my p
 
 Last night on Friday 11/22/24 I saw a show at a Temple house show venue called [Over Yonder](https://www.instagram.com/overyonder.phl/). I think it has become the best house show venue in Philly, (at least in North), that gets as professional as one can be in this setting, with a good emphasis on sound control and making sure the neighbors are okay with it. The name of this venue is probably one of the most clever I’ve heard, and not to be a suck up, but I think this idea speaks to the ingenuity, and energy that is [the Machine](https://www.instagram.com/themachinephilly/). The Machine is a promoter/community collective in Philly that books all kinds of shows, but I would say, and they’d probably agree, that they gravitate more to the rave, dj, and electronic scene. This show however, was a classic 4 band basement bill with an eclectic cast. Prior to this show I have been referring to this bill as the “homie show” hence why I’m eager to blog about it. I love all these bands and all my friends who play in them. 
 
-# Small Head Big Torso Vicious Grip
+### Small Head Big Torso Vicious Grip
 
 Perhaps the most mysterious band on the bill to me, as friends of the Machine, I knew I was in for a treat. I’ve briefly spoken to the guitarist, Gio, as well as seen them around a lot. Particularly one time at an Unwound show in Jersey City. From my brief interactions, I’ve sensed the moral convictions within them that they strive to uphold, and they’re determination certainly poured out explosively into their performance and the music itself.  
 
@@ -34,7 +34,7 @@ With one guitarist, one drummer, and two line-outs, I was so happy to see this b
 
 [SHBTVG IG](https://www.instagram.com/shbtvg.band/)
 
-# Wallace, Tonight!
+### Wallace, Tonight!
 
 The Philly House show scene would not feel the same to me without the presence of Wallace, Tonight!. Performing as a five piece at this show due to the fabulous return of their drummer Grace, they proved that they can, and will, rock your house down if you ask them. I’ve been blessed over the past couple years to be able to converse and hang out with all five of them at some point or another and I just wanted to mention that as far as people go they are all absolute lads. Plus they’re great musicians. 
 
@@ -48,7 +48,7 @@ With the return of Grace, I’m excited to see what these guys cook up in the co
 
 [Wallace, Tonight! IG](https://www.instagram.com/wallacetonight/)
 
-# All the Flowers
+### All the Flowers
 
 There was a time when All the Flowers was not on my conscience. Like I guess everything is initially. That was until I was smacked in the face with their EP “Those You’ve Known and Loved”. Okay I might’ve lied, I think I knew a crumb of information, and that was that that one guy from RowTone, (who I now know as Ryan), played in this band. I now know more though. I now know that All the Flowers set a personal music record for me, and that is the fact that they made me cry. 
 
@@ -60,7 +60,7 @@ If you like their music on streaming, they sound awesome live! They know how to 
 
 [All the Flowers IG](https://www.instagram.com/alltheflowersband/)
 
-# Mormon Toasterhead
+### Mormon Toasterhead
 
 I first saw Mormon Toaster Head in a really hot and humid basement in South Philly two summers ago. What I left with was a minor state of shock as I couldn’t comprehend what their frontman and guitarist Benzo Von Vivant was doing, and how the hell it was working so well!? A lot of conceptions I had of how one should play guitar got thrown out the window. I hate the word “should”. Anyways, what I just said is a bit of an overstatement. I’m being dramatic. However if there was ever a local band that threw me for a loop because of their live performance, it would be Mormon Toaster Head. 
 
