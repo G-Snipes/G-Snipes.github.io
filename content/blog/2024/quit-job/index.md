@@ -36,8 +36,6 @@ I can do anything, but I can’t do everything.
 
 I know I want to get into great physical condition. And I know I want to show my progress to some degree. I know I want to eat healthy and get my protein and other nutrients to carve out the body I know I deserve for myself. Shoutout to my personal trainer Sammy. He's  [uncl3slam](https://www.instagram.com/uncl3slam/) on IG. 
 
-Ok, so that settles that. We’re doing that. Preferably every morning first thing. 
-
 I know at night I want to read and journal to wind down, instead of going on my phone. I want to plug it in across my room with a 6am alarm on. 
 
 I know I want to be in a band. I’m still working on figuring that out. I want to make stuff in the evening. Just start making shit and see what happens. I have all the instruments I want. All the technology and resources I need. The creativity and vision is in me. There is commitment from my bandmates. Support from the community. And it satisfies my spirit on a whole different plane. 
