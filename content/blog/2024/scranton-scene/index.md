@@ -25,7 +25,7 @@ tags:
   - Bullied By the Elderly 
   - Wild Red
   - V Spot
-title: The Scranton Scene & Show Recap 2
+title: The Scranton Scene & SHOW RECAP 2
 coverCaption: |
   A picture from Good Things Are Happening Fest via [James Barrett](https://www.instagram.com/jamesbarrettpa/) from IG. 
 ---
