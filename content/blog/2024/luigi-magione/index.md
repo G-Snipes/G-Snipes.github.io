@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: '2024-12-10'
 summary: | 
-    Upon the recent shooting of UHC CEO being shot dead in the street I've felt extreme conviction to vent my thoughts and feelings about it and about the alleged assailant Luigi Mangione.
+    Upon the recent shooting in the street of UHC CEO, I've felt extreme conviction to vent my thoughts and feelings about it and about the alleged assailant Luigi Mangione.
   
 tags: 
   - Capitalism
