@@ -53,13 +53,15 @@ I don’t like using the word “should”. But when I think about it, yeah, we 
 
 So why are we cruel and uncaring to him? Why are we showing vague excitement about this? Why is it online that I see some of us are encouraging the act of murdering more CEOs? 
 
+___
+
 Well did you figure out why? It is not rocket science to any proletariet. Maybe you caught the answer already in my words. 
 
-It’s all in the “we” here folks. It is not right vs. left. It never was and never will be. It is up vs. down. It is the millions and millions of hardworking blue collar and white collar individuals slaving away so that they may make a living, forced to do so because the wealth is NOT trickling down in enough fashion. Wealth trickling down can look like stopping inflation, not funding genocides, raising wages, more stimulus checks, literal wealth being passed down to others, etc, etc… You can only push a person so far. 
+It’s all in the “we” here folks. It is not right vs. left. It never was and never will be. It is up vs. down. It is the millions and millions of hardworking blue collar and white collar individuals slaving away so that they may make a living, forced to do so because the wealth is NOT trickling down in enough fashion. Wealth trickling down can look like stopping inflation, not funding genocides, raising wages, more stimulus checks, literal wealth being passed down to others, etc, etc… You can only push a person so far. Everyone works harder and longer hours yet receives less compensation.
 
 It's the secert underlying existential and dreadful problem in everybody's lives: the green paper. 
 
-Quick rant.
+Quick rant:
 
 When I and others use the words “wealthy elite”, do me a favor and in your mind don’t picture the rich neighbor who lives down your street. Don’t picture the guy who’s got two houses, four cars, and goes on vacations ten times a year because he got into a drop shipping niche. 
 
@@ -79,7 +81,7 @@ With companies continuing to not be held accountable for actions that hurt socie
 
 ### NYC
 
-I was in NYC quite recently on a little day trip, and no I did not stroll by the Hilton December 4th with a vengeance. The blatant and obvious classism that was put on display in this city was very disturbing to me.  I saw all walks of life for sure, it’s why I have a love for New York. But since I’m not from there, it stuck out like a sore thumb. And also I will mention that I was only in Manhattan, so perhaps these observations are only about Manhattan. 
+I was in NYC quite recently on a little day trip, and no, I did not stroll by the Hilton December 4th with a vengeance. The blatant and obvious classism that was put on display in this city was very disturbing to me.  I saw all walks of life for sure, it’s why I have a love for New York. But since I’m not from there, it stuck out like a sore thumb. And also I will mention that I was only in Manhattan, so perhaps these observations are only about Manhattan. 
 
 For example, I saw teenagers walking around dressed in outfits most people can’t afford. Right after that that, a block away, I saw an entire homeless family with little children. I don’t know if those kids were the oblivious type of ultra wealthy kin I unfortunately took them for, and I don’t know if that homeless family actually needed the help they said they did on their cardboard sign. The fact I can’t swallow is that both of these parties existed right next to each other. 
 
@@ -92,7 +94,7 @@ Online, the wave of class consciousness I’ve seen, and the paragraphs and para
 ![](luigi.png)
 I want to talk about Luigi Mangione. After I read all the information people have found online about him, I’ve concluded that he is 100% a sane person. In fact, he is a model citizen. High school valedictorian, Ivy League graduate, CS major, dedicated to personal development and working out, described as an articulate and compassionate person who founded and held a bookclub.
 
-Whether he killed this CEO or not, his social profile conveys a lot of valid thoughts and convictions that can be backed up by factual data and well-acclaimed allegorical literature. 
+Whether he killed this CEO or not, his social profile conveys a lot of valid thoughts and convictions that can be backed up by factual data and well-acclaimed allegorical literature. He appears to have struggled with extreme backpain that's dramatically changed the course of his life and left him in shambles. 
 
 A huge problem with our society's laws, with our human perception, is the idea of when things happen directly and indirectly. I’m going to get long-winded here, but bear with me because some people don’t actually understand this. 
 
@@ -130,16 +132,17 @@ Most citizens don’t spend their free time taking any real measures to change t
 
 The fabric of society is held together by our imaginations. The veil is thin. In fact, the veil doesn’t actually exist. 
 
-So many aspects of how we live are backwards and misaligned with how humans work biologically, physically, spiritually, etc.. But that’s a topic I’m not going to chase at this moment. 
+It's a clear, obvious, and intense intution I have. How when we wake up sleep-deprived for work at 6am, drive to a job that we don't get any satisfaction doing, meanwhile being psychologically bombarded by constant ads on highways and screens, and having to drive cars everywhere while we also don't know if we're going to make rent next month, is not normal. This is not how humans are supposed to live. This state of having constant microstresses. 
 
-### Luigi’s Review of John Kacynzki’s Manifesto.
+So many aspects of how we live are backwards and misaligned with how humans work biologically, physically, spiritually, etc.. But that’s a topic I’m not going to chase to much at this moment. 
+
+### Luigi’s Review of Ted Kacynzki’s Manifesto.
+
+If you don't know who Ted Kacynzki is, look him up. 
 
 Luigi wrote this after reading the Unabomber’s manifesto: 
 
 ![](goodreads.png)
-
-
-If you don't know who Ted Kacynzki is, look him up. 
 
 I think if Luigi is the assailant, I believe he acted this way out of good faith. I think he did it from a place I can relate to. One desiring hope that a vile action can cause change that will better humanity. In fact it already has. Killing that CEO was a symbol FOR morality, not against it. 
 
@@ -151,7 +154,7 @@ Violence is and always will be a part of nature, and a part of our nature. It ha
 
 I don’t see it as that. I simply see it as a symptom. A natural symptom to something bigger. The bigger thing being the true violence happening upon whoever through that brick. There is violence happening to them and it is the reason they were overcome by conviction to throw it through a window. They enacted direct violence as a result of indirect violence, but violence is all the same. 
 
-Make no mistake, there is no difference between them. Almost all indirect violence is systemic.   
+Make no mistake, there is no difference between them. This indirect violence I'm talking about is systemic.   
 
 Here are some examples of indirect/systemic violence: 
 
@@ -159,7 +162,7 @@ Here are some examples of indirect/systemic violence:
 
 - Oil companies polluting the environment, and ravaging the earth so much so that the world will be uninhabitable in due time. But that’s not violence. 
 
-- Nestle is responsible for horrific crises of obesity, nutrition, and water in the U.S. and around the world. So much that there is a whole community around it with 275k followers: [r/fucknestle](https://www.reddit.com/r/FuckNestle/) But that’s not violence. 
+- Nestle is responsible for horrific crises of obesity, nutrition, and water in the U.S. and around the world. So much that there is a whole community with 275k followers dedicated to boycotting them: [r/fucknestle](https://www.reddit.com/r/FuckNestle/) But that’s not violence. 
 
 - United Healthcare rejected 32% of claims, over half the industry average, and made billions. But that’s not violence. 
 
@@ -184,7 +187,7 @@ ___
 
 He said it first, at this point “it is not an issue of awareness…”. I agree. I think that given all the media everyone’s been forced to swallow in the 21st century, you either have the awareness of the true evil that exists, the actual evil that plagues our world, or you don’t. 
 
-Most people do though. Most people are aware. Again, it’s why no one cares about this CEO. It’s why everyone hates most corporations. It is either simple math to someone as to why this is, or you’re they're lost.  
+Most people do though. Most people are aware. Again, it’s why no one cares about this CEO. It’s why everyone hates most corporations. It is either simple math to someone as to why this is, or they're [indecipherable].  
 
 ### Why I Don't Care
 
@@ -193,11 +196,13 @@ I’ll be honest folks. I want to tell you the reason I don’t spread awareness
 I’m going to tell you why, and I bet it’s why many people like me are the same. 
 I see a lot of people on social media who are politically charged. And I’d say I feel just as charged if not more than them. But not politically speaking. 
 
-Democrat vs. Republic politics have long been a joke to me, secretly being America’s real pastime. I try my best to not ever pay attention, except for when I laugh at the absurdism of the presidential debates for entertainment purposes. I do think our government can make real change happen if those in our government acted in the true interests of their constituents and country, and weren’t corrupted, or blackmailed into obeying. 
+Democrat vs. Republic politics have long been a joke to me, secretly being America’s real pastime. I try my best to not ever pay attention, except when I laugh at the absurdism of our presidential debates. I do think our government can make real change happen if those in our government acted in the true interests of their constituents and country, and weren’t corrupted, or blackmailed into obeying. 
 
 ``` Power tends to corrupt and absolute power corrupts absolutely.```
 
 Stimulus checks were real, progressive amendments have been passed, but I don’t ever tell myself that they’ll be reliable when the real sh*t hits the fan. In my eyes they’ve already failed us. It’s too late. The silver lining of Trump to me is that I think he'll speed up this collapse. 
+
+That's how I honestly feel, I wish I thought differently. 
 
 Insurance companies alone have spent over 100 million dollars lobbying.
 
@@ -209,19 +214,19 @@ What I’ll say though, is that I am charged in general.
 
 Deep down I always am, and I think I always will be. I refuse to sink into a life of ignorance where my soul’s subconscious begs to have its sins purged. 
 
-It’s not right and left issues. Most policy discussion fodder to me. Not that I don’t care about women’s rights, or trans rights, or the border-crisis, etc. I voted for Kamala Harris mainly to protect women’s rights to abortion. I care, and it’s obvious to me who around me also does. I am part of the lgbt+ and although I wish the world was more understanding and accommodating, lgbt+ concerns are far from the forefront of my mind. It’s not that I don’t care, I care a whole lot, but in my mind we’ll get to them once more pressing problems get fixed. 
+It’s not right and left issues. Most policy discussion is fodder to me. Not that I don’t care about women’s rights, or trans rights, or the border-crisis, etc. I voted for Kamala Harris mainly to protect women’s rights to abortion. I care, and it’s obvious to me who around me also does. I am part of the lgbt+ and although I wish the world was more understanding and accommodating, lgbt+ concerns are far from the forefront of my mind. It’s not that I don’t care, I care a whole lot, but in my mind we’ll get to them once more pressing problems get fixed. 
 
 The problems with the powers that be. 
 
-If only we can learn to handle them one at a time. 
+If only we can learn to focus on them one at a time. 
 
 You see, because of technology, so many people have finally been given agency to talk about social problems not talked about before. This has given all kinds of minority groups a chance to speak up and have more agency than ever before. I fully support that and encourage it. I mean who wouldn’t?!
 
 The elite at play aren’t entirely stupid though. They have control and influence and teams of people helping them combat class consciousness. 
 
-They know this would happen with modern technology, so they make sure to control all major communication/media platforms as much as they can. It's why not a single major media outlet is addressing the morale and ethos of the American people following this killing. 
+They know this would happen with modern technology, so they're trying as much as they can to control all major communication/media platforms. It's why not a single major media outlet is addressing the morale and ethos of the American people following this killing. 
 
-They are bought and sold. If you pay attention, for once FOX and CNN are agreeing on something. Because they represent their corporate and wealthy owners. This should disturb you. 
+They are bought and sold. If you pay attention, for once FOX and CNN are agreeing on something. Because they represent their corporate/elite owners. This should disturb you. 
 
  They control these outlets so that they can continue to convince us that our neighbor is to blame for the injustice and decay that’s happening before our eyes and not them. This brainwashing is rampant everywhere, on most platforms to some degree, but is the most prevalent on mainstream media outlets, and top social media sites. It will never work in the long run, but they’ve been buying themselves time while everyone is amusing themselves to death and distracted by nonsense. 
 
@@ -229,9 +234,9 @@ So no, I don’t make posts or stories anymore about atrocities our government m
 
 I don’t go to protests, I don’t keep myself constantly informed on global, national, or even local news. I don’t do these things, because I don’t think they do anything but waste our time. I don’t think it brings about the real change we need.
 
-Awareness is good, but like I said I've seen enough to know. I know other like-minded people are spreading awareness for me and I salute them. 
+Awareness is good, but like I said, I've seen enough. I know enough, I remember enough. When things happen that need the public eye on it, I know other like-minded people are spreading the awareness needed. I salute them. 
 
-I think it is more productive to do other things. To focus on yourself and your community. Become the best you can be, so that you may be the best “you” to help others. Do things you enjoy for yourself. Give back to others. Do things because you want to, and not for money. Do as much of those things as you can. No one is here forever.  
+I think it is more productive to do other things. To focus on yourself and your community. Become the best you can be, so that you may be the best “you” to help others. It's not selfish. Do things you enjoy for yourself. Give back to others. Do things because you want to, and not for money. Do as much of those things as you can. None of us are here forever.  
 
 ___
 
@@ -245,5 +250,5 @@ I do not condone violence, but if someone else decides to carry out a form of it
 
 ` Boardrooms, not classrooms. `
 
-Now get back to work!
+Now go get back to work!
 
