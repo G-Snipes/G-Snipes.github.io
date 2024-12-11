@@ -9,8 +9,9 @@ tags:
   - UHC CEO
   - Brian Thompson
   - Luigi Mangione
+  - NYC
   - Violence
-title: Understandable Convictions with Luigi Mangione
+title: The Understandable Convictions of Luigi Mangione
 coverCaption: |
   Picture of the assailant in Starbucks before the shooting who I think doesn't look like Luigi Mangione.
 ---
@@ -21,7 +22,9 @@ I wanted to talk about the recent occurrence of the fatal shooting of United Hea
 
 It is not confirmed if Luigi did it, it “appears” that there is a lot of evidence stacked against him at the moment. I must mention that the way he was caught and the evidence he had on him was very suspicious. Everything about him tells me that he is not a stupid person. I don’t know how so many pictures of him are appearing, but that’s not usually what happens when these kinds of things go down. 
 
-Nonetheless, he has been arrested, and he is now the primary suspect in this case. I want to make stuff when I feel extreme convictions to do so. I’d be lying to myself if I haven’t been having a lot of strong feelings and opinions that are resurgent and resonating from the core of my being because of all this. 
+Nonetheless, he has been arrested, and he is now the primary suspect in this case. 
+
+I want to make stuff when I feel extreme convictions to do so. I’d be lying to myself if I haven’t been having a lot of strong feelings and opinions that are resurgent and resonating from the core of my being because of all this.
 
 I feel for the CEO’s family, but I truly don’t have any empathy or care for him. I don’t care that he got killed or for the way he got killed. 
 
@@ -242,4 +245,5 @@ I do not condone violence, but if someone else decides to carry out a form of it
 
 ` Boardrooms, not classrooms. `
 
-Now get back to work. 
+Now get back to work!
+
