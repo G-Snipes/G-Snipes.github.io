@@ -134,7 +134,7 @@ Most citizens don’t spend their free time taking any real measures to change t
 
 The fabric of society is held together by our imaginations. The veil is thin. In fact, the veil doesn’t actually exist. 
 
-It's a clear, obvious, and intense intution I have. How when we wake up sleep-deprived for work at 6am, drive to a job that we don't get any satisfaction doing, meanwhile being psychologically bombarded by constant ads on highways and screens, and having to drive cars everywhere while we also don't know if we're going to make rent next month, is not normal. This is not how humans are supposed to live. This state of having constant microstresses. 
+It's a clear, obvious, and intense intution I have. How when we wake up sleep-deprived for work at 6am, drive to a job that we don't get any satisfaction doing, meanwhile being psychologically bombarded by constant ads on highways and screens, and having to drive cars everywhere while we also don't know if we're going to make rent next month, is not normal. This is not how humans are supposed to live, this state of having constant microstresses. 
 
 So many aspects of how we live are backwards and misaligned with how humans work biologically, physically, spiritually, etc.. But that’s a topic I’m not going to chase to much at this moment. 
 
@@ -178,7 +178,7 @@ https://nitter.poast.org/PepMangione
 
 Go check out what he spread awareness on and what he talked about. Think for yourself. I’ve read Brave New World and 1984. There’s a reason they’re popular in grade school education here in the west. Read them and think for yourself. 
 
-Luigi isn’t some bum. He did everything he was supposed to as a young person, despite many health odds stacked against him, and yet he felt incapable of producing the real change he wanted to see. Change that a model citizen like him should have the agency to do.  
+Luigi isn’t some bum. He did everything he was supposed to as a young person, despite many health odds stacked against him, and yet he felt incapable of producing the real change he wanted to see. Change that a model citizen like him should feel like he has the agency to do.  
 
 I just got his manifesto after writing all this. Here it is:
 
@@ -226,11 +226,13 @@ You see, because of technology, so many people have finally been given agency to
 
 The elite at play aren’t entirely stupid though. They have control and influence and teams of people helping them combat class consciousness. 
 
-They know this would happen with modern technology, so they're trying as much as they can to control all major communication/media platforms. It's why not a single major media outlet is addressing the morale and ethos of the American people following this killing. 
+They know this would happen with modern technology, so they're trying as much as they can to control all major communication/media platforms. It's why not a single major media outlet is addressing the morale and ethos of the American people following this killing. For once something that happened can't be spun into a culture war, and they're clutching their pearls. 
 
 They are bought and sold. If you pay attention, for once FOX and CNN are agreeing on something. Because they represent their corporate/elite owners. This should disturb you. 
 
  They control these outlets so that they can continue to convince us that our neighbor is to blame for the injustice and decay that’s happening before our eyes and not them. This brainwashing is rampant everywhere, on most platforms to some degree, but is the most prevalent on mainstream media outlets, and top social media sites. It will never work in the long run, but they’ve been buying themselves time while everyone is amusing themselves to death and distracted by nonsense. 
+
+ By prolonging the inevitable change we need, they are only going to make future strife play out in uglier and uglier ways. 
 
 So no, I don’t make posts or stories anymore about atrocities our government makes. Especially when they’re on the same sites that give me an ad for Wendy's right after I post something. I'm sorry not sorry. 
 
