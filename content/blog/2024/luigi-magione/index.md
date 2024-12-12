@@ -85,7 +85,7 @@ I was in NYC quite recently on a little day trip, and no, I did not stroll by th
 
 For example, I saw teenagers walking around dressed in outfits most people can’t afford. Right after that that, a block away, I saw an entire homeless family with little children. I don’t know if those kids were the oblivious type of ultra wealthy kin I unfortunately took them for, and I don’t know if that homeless family actually needed the help they said they did on their cardboard sign. The fact I can’t swallow is that both of these parties existed right next to each other. 
 
-I’m not necessarily talking about those teenagers I saw when I say this, but the sense of benevolence I see in the ultra-wealthy is quite disturbing. They don’t treat and see humans as humans. I’m not sure if they even see themselves as a human.   
+I’m not necessarily talking about those teenagers I saw when I say this, but the sense of dehumanization I see in the ultra-wealthy is quite disturbing. They don’t treat and see humans as humans. I’m not sure if they even see themselves as a human.   
 
 Online, the wave of class consciousness I’ve seen, and the paragraphs and paragraphs of people venting there horrible experiences with health insurance companies is so surreal. From now on, in political arguments, left vs. right, how about we always start here. From here on out let us start with our thoughts and feelings about the killing of the United Healthcare CEO, and why we all unanimously didn’t care and still don’t. 
 
