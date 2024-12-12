@@ -35,7 +35,7 @@ I decided over a year ago to stay away from mainstream media as much as I can. H
 
 When someone who is in a powerful position is targeted and shot dead in the street, and everyone’s reaction, besides the corporate media, is one of rejoice and satisfaction; it tells me that there is something very wrong. To me, it cannot be confirmed any more by anything else that there is something very wrong with the system, with our society’s morale, and where corporations stand. 
 
-(I’d also like to add that the contrast between this case, and the one of the 26 year old choking out a homeless man is astounding.)
+(I’d also like to add that the contrast between this case, and the one of Daniel Penny is astounding.)
 
 I think it might be true that there is nothing but soulless out-of-touch-with-reality individuals at the top. The people that have the most wealth and power are like that. Sociopaths, narcissists, and psychopaths win in this game of “see how much money you can make at all costs”, or “capitalism” for short. Currently money, and fame, but ultimately money, is the principal symbol of power. 
 
