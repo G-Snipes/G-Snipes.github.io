@@ -118,7 +118,7 @@ It’s indirect. It’s legal. So as long as it’s legal, someone being denied 
 
 I know there are a lot of other factors at play that go into financing healthcare. Just remember that the U.S. is the only developed nation without universal care. Our governmental and justice institutions have failed us by allowing this to happen and let it get worse and worse. 
 
-In a way, this company was doing a good job under the eyes of the United States. It was making money, and its supposed to keep growing. That's the desired outcome of any business. 
+In a way, UHC was doing a good job under the eyes of the United States. It was making money, and its supposed to keep growing. That's the desired outcome of any business. 
 
 I think the only reason a health insurance company should deny a claim is if they think it is legitimately fraudulent. Besides the minority of cosmetic purposes, who the hell wants to get a surgery? Who would not just rather be healthy so they don’t have to waste their time and money?
 
