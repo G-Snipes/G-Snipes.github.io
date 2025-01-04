@@ -43,11 +43,11 @@ As a disclaimer this is not an objective view of the scene. This is just what I�
 
 ### Pollen
 
-So as I said a moment ago, while I was home for the holidays I shot a music video for [Pollen](https://www.instagram.com/pollen.music/). I directed it and got all the footage I’ll need. Now it's just time to edit. Music videos take a long time to edit. The boys in Pollen kind of let me do what I wanted, so some main goals with the video for myself were to try and see if I can shoot a long uncut shot, and also try out recording to my family’s old video cassette camcorder. My homie and bass God [Jack](https://www.instagram.com/janson.vhs/) has got the convertor jawn.
+So as I said a moment ago, while I was home for the holidays I shot a music video for [Pollen](https://www.instagram.com/pollen.music/). I directed it and got all the footage I’ll need. Now it's just time to edit. Music videos take a long time kids. The boys in Pollen kind of let me do what I wanted, so some main goals with the video for myself were to try and see if I can shoot a long uncut shot, and also try out recording to my family’s old video cassette camcorder. My homie and bass God [Jack](https://www.instagram.com/janson.vhs/) has got the convertor jawn.
 
-I recently pulled the trigger, and bought the full version of Davinci Resolve for their first ever black Friday deal, so I might take my time to make sure this video is a masterpiece. Also shoutout to Jackie and [Gariepy](https://www.instagram.com/gariepy_/) for being in the video. Thank you guys.
+I'm going to take my time to make sure this video is a masterpiece. Shoutout to Jackie and [Gariepy](https://www.instagram.com/gariepy_/) for being in the video. Thank you guys.
 
-What’s the deal with Pollen? Do I even like them? Will they ever figure out its me who leaked their CC numbers and SSNs?
+What’s the deal with Pollen? Do I even like them? Will they ever figure out it was me who leaked their CC numbers and SSNs?
 
 I call them the Scranton supergroup because they have musicians that all play in other notable bands. They got Albert from [Bullied by The Elderly](https://www.instagram.com/bulliedbytheelderly/) on guitar, Timmy from [All Day Special](https://www.instagram.com/alldayspecial69/) on bass, Ian from [Channel 65](https://www.instagram.com/channel65pa/)  on drums, and Caleb from Texas. And no not Texas the band (I don’t know if that exists), Texas the state. I swear this dude came out of nowhere. 
 
@@ -74,7 +74,7 @@ The other bands I was unfamiliar with but they were all nice surprises.
 
 Okay, I lied a bit. I did hear some buzz about [Esta Coda](https://www.instagram.com/estacoda/) through the grapevine long ago. They were good, and they proved that these last three bands were seasoned veterans of their craft. The last three bands all appeared to be friends, with Esta Coda having some of the same vocalists and musicians from the prior two bands come on stage for some songs. (I believe the guitarist may be in both bands.) If I had to bet, this appeared to be a “homie” show for them. The lead singer of [University Drive](https://www.instagram.com/universitydrive/) made an appearance and sang some of the songs with them. (I think their lead singer actually got sick? Don’t quote me on that.) These guys had a very warm vibe, and had the lighthearted stage banter I’ve only ever seen once before when I saw Panchiko. It was a swell time for sure. 
 
-Also props to the sound guy at this jazz cafe for making this night exceptional. 
+Also props to the sound guy at this jazz cafe for making this night exceptional. You know how to do your job. 
 
 ### Wilkes-Barre
 
@@ -88,7 +88,7 @@ I felt like it is essential for me to mention Jess and Rae Meoni of the [Scranto
 
 ### Fests
 
-Before I forget, last September I set up a diy festival by partnering up with [Kayla Grezch](https://www.instagram.com/kayla.grzech/), a local concert photographer and vocalist in [Look Back Luna](https://www.instagram.com/look.back.luna/). We set this up at St. Mary’s Center in the heart of Scranton. We called it "The Show", as I keep referencing, and it was a complete success. I was ecstatic that I got to curate a bill like that. We 100% plan on putting it on again next year and making it an annual thing. There are a bunch of photos and videos on the show's ig ([@theshownepa](https://www.instagram.com/theshownepa/)) in case you want to see what you missed.  Kayla, thank you again for handling the social media and making all the flyers and content. Go follow us so you can get updates on for next year!
+Before I forget, last September I set up a diy festival by partnering up with [Kayla Grezch](https://www.instagram.com/kayla.grzech/), a local concert photographer and vocalist in [Look Back Luna](https://www.instagram.com/look.back.luna/). We set this up at St. Mary’s Center in the heart of Scranton. We called it "The Show", as I keep referencing, and it was a complete success. I was ecstatic that I got to curate a bill like that. We 100% plan on putting it on again next year and making it an annual thing. There are a bunch of photos and videos on the show's ig ([@theshownepa](https://www.instagram.com/theshownepa/)) in case you want to see what you missed.  Kayla, thank you again for handling the social media and making all the flyers and content. Go follow us so you can get updates for next year!
 
 ![](theshow.png)
 

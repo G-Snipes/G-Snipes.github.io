@@ -17,7 +17,7 @@ coverCaption: |
   My roommate's head is in this shot. 
 ---
 
-Welcome to the first ever log in what will hopefully be a series of “show recaps”. Where I recap my thoughts about the acts I see performing live music both large and underground.
+Welcome to the first ever blog in what will hopefully be a series of “show recaps”. Where I recap my thoughts about the acts I see performing live music both large and underground.
 
 I wish I started this sooner as I’ve seen many shows in my day. From dark humid basements, all the way to Wells Fargo Stadium, I’ve seen countless shows. I absolutely do not want to know how much I’ve spent on concert tickets in the last five years of my adolescence. Don’t worry though, I’m financially stable (for the most part) and I’m proud to be a concert junkie. I’m just glad I can provide something like this to other people who might be interested. It’s the least I can do. 
 
@@ -50,7 +50,7 @@ With the return of Grace, I’m excited to see what these guys cook up in the co
 
 ### All the Flowers
 
-There was a time when All the Flowers was not on my conscience. Like I guess everything is initially. That was until I was smacked in the face with their EP “Those You’ve Known and Loved”. Okay I might’ve lied, I think I knew a crumb of information, and that was that that one guy from RowTone, (who I now know as Ryan), played in this band. I now know more though. I now know that All the Flowers set a personal music record for me, and that is the fact that they made me cry. 
+There was a time when All the Flowers was not on my conscience. Like I guess everything is initially. That was until I was smacked in the face with their EP “Those You’ve Known and Loved”. Okay I might’ve lied, I think I knew a crumb of information, and that was that that one guy from [RowTone](https://www.instagram.com/rowtonephl/), (who I now know as Ryan), played in this band. I now know more though. I now know that All the Flowers set a personal music record for me, and that is the fact that they made me cry. 
 
 Am I getting too dramatic? 
 
