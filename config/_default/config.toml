@@ -9,6 +9,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 [languages.de.pagination]
             pagerSize = 10
+pagination = 10
 
 summaryLength = 0
 
