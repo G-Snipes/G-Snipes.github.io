@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: '2025-03-22'
 summary: |
-  My thoughts and confessions of Crime & Punishment.
+  My thoughts and confessions regarding Crime & Punishment.
 tags: 
   - Crime & Punishment
   - Mental Health
