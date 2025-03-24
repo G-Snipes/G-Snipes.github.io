@@ -78,13 +78,13 @@ I now realize what that movie superhero movie *Sky High* was trying to say with 
 
 I can't believe I'm quoting that movie.
 
-Perhaps this blog is ultimately for those who do happen to have the most power. Too bad it's unlikely those individuals will ever read it.
+Perhaps this blog is ultimately for those who happen to have the most power. Too bad it's unlikely those individuals will ever read it.
 
-I realize now that if everyone thought they are righteous to transcend humanity’s collective morals then we would quickly have a world of anarchy. Do I think murder can’t be justified? The Christian Bible allows “killing”, if another person is trying to murder you or someone else, but the butterfly effect of doing that is long and impossible to predict. All I know is that I am empathetic towards those like Raskolnikov and Luigi, (although Luigi hasn’t been officially convicted of murder) because what matters to me is the positive change I believe they had hoped would come about from their vile actions. 
+I realize now that if everyone thought they are righteous enough to transcend humanity’s collective moral compass then we would quickly have a world of anarchy. Do I think murder can’t be justified? The Christian Bible allows “killing”, if another person is trying to murder you or someone else, but the butterfly effect of doing that is long and impossible to predict. All I know is that I am empathetic towards those like Raskolnikov and Luigi, (although Luigi hasn’t been officially convicted of murder) because what matters to me is the positive change I believe they had hoped would come about from their vile actions. 
 
 ### The Bloody Mirror
 
-We have all entertained ourselves at some point in time with the thoughts of killing someone. Children play games all the time where they fight one another and act out dramatic deaths. It's in our nature. It’s in our games, movies, books, and news. Ask yourself, at what point in our imagination does violent entertainment turn into violent considerations? I think society sees violent thoughts as nothing but intrusive thoughts until an actual murder is committed. By this logic you’re either at a 0 or a 100. This leaves all the responsibility on the individual to decide when to seek help for themselves if their mind is unwell. 
+We have all entertained ourselves at some point in time with the thoughts of killing someone. Children play games all the time where they fight one another and act out dramatic deaths. It's in our nature. It’s in our games, movies, books, and news. Ask yourself, at what point in our imagination does violent entertainment turn into violent considerations? I think society sees violent thoughts as nothing but intrusive thoughts until a violent act is actually committed. By this logic you’re either at a 0 or a 100. This leaves all the responsibility on the individual to decide when to seek help for themselves if their mind is unwell. 
 
 Listen, I’m not talking about thoughts of killing someone because you’re a demented serial killer or have a sick fetish. I’m not making a point here on serial killer psychology. 
 
@@ -92,10 +92,10 @@ I’m talking about thoughts where you think if you killed the right person or p
 
 Have you ever thought about going back in time and killing Hitler? If you’ve never thought about killing the right person for the sake of others, ask yourself this:
 
-If you were given a button which when pressed would immediately and painlessly kill Vladamir Putin would you press it? What about all the heads of Mexico's drug cartels? How about a U.S. President? Has this hypothetical ever crossed your mind? Would you press the button for any of them? Would you dare to be God? 
+If you were given a button which when pressed would immediately and painlessly kill Vladamir Putin would you press it? What about all the heads of Mexico's drug cartels? How about a U.S. President? Has this hypothetical ever crossed your mind? Would you press the button for any of them? Would you even hesitate? Would you dare to be God? 
 
 
-It might be in our nature to become God if given the option. How arrogant of a species.  
+It might be in our nature to become God if given the option. How arrogant we are.  
 
 I guess it's been long overdue for me to watch *Death Note*. 
 
