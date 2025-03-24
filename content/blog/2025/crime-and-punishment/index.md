@@ -105,8 +105,7 @@ Determining if someone is truly altruistic in their core, even if their actions 
 
 There is a cathartic moment in the book when Raskolnikov confesses his crime to a girl named Sonya, a person made of selfless love for her family and others. In an even worse financial situation, she never once thinks about murder or even stealing. 
 
-If I were to be in the room with them when he confessed, I know I would have consoled him. I’d console a murderer, because through the inner monologues the author depicts, I found myself in him. I felt bad that his mind went where it did. I’d direct him towards the hope at the bottom of the dreadful box he opened.
-
+If I were to be in the room with them when he confessed, I know I would have consoled him. I’d console a murderer, because through the inner monologues the author depicts, I found myself in him. I felt bad that his mind went where it did. I felt the crippling guilt and anguish and regret. I’d try direct him towards the hope at the bottom of the dreadful box he opened. I'd consider his confession a chance at redemption. 
 _____
 
 I might be getting long winded. This book is the best depiction of criminal psychology I’ve ever read. It’s a great testament against nihilism and how one needs God in their life. (Not the Christian God specifically, but true faith in the idea of one.) 
@@ -121,29 +120,33 @@ I fear that I know far too well how to be someone I’m not. I know far too well
 
 ### Conclusion
 
-I know exactly how to isolate myself and brood over absolutely fucking everything. Dooming myself and the entire world before I’ve even given myself or the world a chance. I’m 23 years old and I’m already being ageist towards myself in the things I want to pursue. I have been largely unemployed for the past year, because of my own will, clinging to morning workout routines the best I can to keep me from being ungrounded and messy. I find it far too easy to slip into unhealthy mindsets and behaviors, and far too hard to at the very least just be grounded and gratuitous.  
+I know exactly how to isolate myself and brood over absolutely fucking everything. Dooming myself and the entire world before I’ve even given myself or the world a chance. I’m 23 years old and I’m already being ageist towards myself in the things I want to pursue. I have been largely unemployed for the past year, because of my own will, clinging to morning workout routines the best I can to keep me from being ungrounded and messy. I find it far too easy to slip into unhealthy mindsets and behaviors, and far too hard to at the very least just be grounded and gratuitous. I'd love to have a solid baseline of positivity. 
  
 I threw myself to the fire believing that I could generate a decent passive income in a year's time.  I wanted and wanted, only to never quite get the discipline I needed, and the focus I needed to actually accomplish that. 
 
-Look, I wanted to try new things to see what I liked and to see what’s practical. I made music. I started this blog. I tried stand-up comedy. I audited acting workshops. I talked to professionals in all kinds of industries and so much more. 
+Look, I tried many new things and I definitely needed to to see what I liked and to see what’s practical. I made music. I started this blog. I tried stand-up comedy. I audited acting workshops. I talked to professionals in all kinds of industries and so much more. 
 
-I wanted to try new things, and I’m glad I did, but as I mentioned, the end goal was to become my own boss and become financially dependent. 
+I’m glad I did these things, but as I mentioned, the end goal was to become my own boss and become financially dependent. 
 
-Desire, desire, desire. I want, I need, I must have or else. Or else I’m a failure. 
+Desire, desire, desire. I want, I need, I must have or else...
 
-Over the past year my desire for financial security obfuscated the truth and purity I wanted in my art, and even more importantly stressed me to the point where I couldn’t be in the moment during anything I did. It gives me this deep and lingering anxiety. 
+Or else I’m a failure. 
 
-I still believe I can do anything I set my mind to, but I still can’t make up my mind on what that thing is. The reality is that you must pursue goals one at a time, especially achieving expertise or proficiency at a craft, hobby, trade, etc. You can be anything, but it must be one at a time. (And you need financial support.) I can’t seem to bring myself to work on the same one thing every single day. I lose my balance constantly. Old fears and new anxieties feel anchored to my psyche. I can’t help but feel that I am what a modern Raskolnikov looks like.
+Over the past year my desire for financial security obfuscated the truth and purity I wanted in my art, and even more importantly stressed me to the point where I couldn’t be in the moment during anything I did. It gives me this deep and lingering anxiety.
 
-I don’t want to feel superior to people. An undeniable aspect of my life that I see as objective is the fact that I have been dealt a really good hand. I graduated university with minimal debt with a STEM degree, I live in a city that is a hub for creatives, I’m young and strong and take care of my body. At times I am showered with compliments. I’m a cis white man. I have support from family and friends. I truly believe that I am the only thing holding myself back. I take responsibility for as much as I can, or at least I always try to take responsibility for how I reacted to a situation.
+I still believe I can do anything I set my mind to, but I still can’t make up my mind on what that thing is. The reality is that you must pursue goals one at a time, especially achieving expertise or proficiency at a craft, hobby, trade, etc. You can be anything, but it must be one at a time. (And you need financial support.) I can’t seem to bring myself to work on the same one thing every single day. I lose my balance constantly. Old fears and new anxieties feel anchored to my psyche. I can’t help but feel that I am what a modern Raskolnikov looks like. I think my ego is wierd and it sucks. 
+
+I don’t want to feel superior to people. An undeniable aspect of my life that I see as objective is the fact that I have been dealt a really good hand. I graduated university with minimal debt with a STEM degree, I live in a city that is a hub for creatives, I’m young and strong and take care of my body. At times I am showered with compliments. I’m also a cis white man. I have support from family and friends. I truly believe that I am the only thing holding myself back. I take responsibility for as much as I can, or at least I always try to take responsibility for how I reacted to a situation.
 
 I have had much success over the past year, but it is so hard for me to see and feel that. Success isn’t linear and is defined by our own personal metrics. 
 
-I constantly fear that I have all this potential and I’m wasting my time doing nothing “real” with it. I’d like to see real change in the world. I’d like to practice proper self-care. I’d love to stop hating myself so much and feeling like I’m just the most toxic person in the world. 
+I constantly fear that I have all this potential and I’m wasting my time doing nothing “real” with it. I’d like to see real change in the world. I’d like to practice proper self-care. I’d love to stop hating myself so much and feeling like I’m just the most toxic person alive. 
 
-Okay, it's getting late now. What’s the final conclusion? Am I going to do something about all this or am I just going to keep venting? 
+Okay, it's getting late now. What’s the final conclusion? Am I going to take action or join the self loathing olympics? 
 
-I’ll try to be honest folks. This world is brutal. My life feels like a huge mess lately and I think my ego can’t stand to admit that. It never has. This book sent me on a spiral that I think I much needed, but a spiral it was indeed. Isolation and loneliness aren’t good ingredients for a good time. But ultimately, I’d like to get better at sharing my feelings. 
+I’ll try to be honest folks. This world is brutal. My life feels like a huge mess lately and I think my ego can’t stand to admit that. It never has. This book sent me on a spiral that I think I much needed, but a spiral it was indeed. 
+
+Isolation and loneliness aren’t good ingredients for a good time. Ultimately however, I’d like to get better at sharing my feelings. 
 
 I want to mature as a person. Need those good old constructive and healthy conversations with like-minded individuals. 
 
