@@ -19,7 +19,7 @@ title = ""
 [params.author]
   name = "Gary Snipes"
   image = "img/me.jpeg"
-  headline = "Human Artist"
+  headline = "Artist"
   bio = "I make stuff."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
