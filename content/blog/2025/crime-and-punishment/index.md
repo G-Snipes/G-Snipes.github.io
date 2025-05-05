@@ -105,7 +105,7 @@ Determining if someone is truly altruistic in their core, even if their actions 
 
 There is a cathartic moment in the book when Raskolnikov confesses his crime to a girl named Sonya, a person made of selfless love for her family and others. In an even worse financial situation, she never once thinks about murder or even stealing. 
 
-If I were to be in the room with them when he confessed, I know I would have consoled him. I’d console a murderer, because through the inner monologues the author depicts, I found myself in him. I felt bad that his mind went where it did. I felt the crippling guilt and anguish and regret. I’d try direct him towards the hope at the bottom of the dreadful box he opened. I'd consider his confession a chance at redemption. 
+If I were to be in the room with them when he confessed, I know I would have consoled him. I’d console a murderer, because through the inner monologues the author depicts, I found myself in him. I felt bad that his mind went where it did. I felt the crippling guilt and anguish and regret. I’d try to direct him towards the hope at the bottom of the dreadful box he opened. I'd consider his confession a chance at redemption. 
 _____
 
 I might be getting long winded. This book is the best depiction of criminal psychology I’ve ever read. It’s a great testament against nihilism and how one needs God in their life. (Not the Christian God specifically, but true faith in the idea of one.) 
