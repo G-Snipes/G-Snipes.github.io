@@ -6,6 +6,9 @@ baseURL = "https://G-Snipes.github.io/"
 defaultContentLanguage = "en"
 enableGitInfo = true
 
+
+ignoreLogs = ['warning-partial-superfluous-prefix']
+
 enableRobotsTXT = true
 [languages.de.pagination]
             pagerSize = 10
