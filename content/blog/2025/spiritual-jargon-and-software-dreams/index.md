@@ -141,6 +141,8 @@ Whatever this perfect alignment is, and how you are staying in alignment, it is 
 
 Preserve it. Keep it safe like its your newborn child. It will grow, and you grow with it. Doing this gets easier as time goes on. The longer you are on the path, the harder it will become to fall off it. That's why it is very important in the beginning to create a gentle atmosphere for yourself. This is why I recommended a healthy self-isolation. As healthy as you can make it. 
 
+The goal is to make space, go to a secluded cabin far away, or simulate that kind of environment as best as you can. The key is to **make space so you stop worrying about other people's problems and what other people think of you.**
+
 That’s the best advice I have for staying on the path. **You must respect who you know yourself to be at all costs.** Finding your path I think may come down to finding your identity and knowing what you are, what you want, and what you believe in. 
 
 
