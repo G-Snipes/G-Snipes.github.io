@@ -12,7 +12,7 @@ title = ""
   rtl = false
   dateFormat = "2 January 2006"
 
-  description = "G Snipe personal website. I blog everything from the music and videos I make, to tech rabbit holes, from the Philly DIY scene, to global affairs, I got it all. And more wierd stuff."
+  description = "G Snipe personal website. I blog everything from the music and videos I make, to tech rabbit holes, from the Philly DIY scene, to global affairs, I got it all. And more wierd stuff. (Interviews, Show Recaps, Hot Takes, Journal Entries, Tech)"
   mainSections = ["blog"]
   # description = "G Snipe personal website"
 
