@@ -16,8 +16,8 @@ coverCaption: |
 
 <head>
   <title>Spiritual Jargon & Software Dreams</title>
-  <meta> name="description" content="Excellent slop from the Brian Withers YT channel."
-  <meta> name="keywords" content="Spirituality, YouTube, Software, Music, Work Hard" 
+  <meta name="description" content="Excellent slop from the Brian Withers YT channel.">
+  <meta name="keywords" content="Spirituality, YouTube, Software, Music, Work Hard">
 </head>
 
 
