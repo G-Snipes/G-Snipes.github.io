@@ -14,6 +14,13 @@ coverCaption: |
   Excellent slop from the Brian Withers YT channel. 
 ---
 
+<head>
+  <title>Spiritual Jargon & Software Dreams</title>
+  <meta> name="description" content="Excellent slop from the Brian Withers YT channel."
+  <meta> name="keywords" content="Spirituality, YouTube, Software, Music, Work Hard" 
+</head>
+
+
 ### Good Morning Starshine!
 The earth says hello!
 
