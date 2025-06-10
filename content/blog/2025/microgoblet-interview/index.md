@@ -270,7 +270,7 @@ ___
 
 **Luke:** So then like my friend, my friend Jonah, well, he wasn't my friend at the time, but he like showed up and we started talking. He was like, "you want to go to Stop and Shop and get some monsters?" I was like, "hell yeah." And the rest was history. 
 
-*So he does DJs?*
+*So he does DJ?*
 
 **Adam:** Yeah, he's good. 
 
