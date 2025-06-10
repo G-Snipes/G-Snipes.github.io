@@ -6,6 +6,11 @@ baseURL = "https://G-Snipes.github.io/"
 defaultContentLanguage = "en"
 enableGitInfo = true
 
+[sitemap]
+changeFreq = "daily"
+filename = "sitemap.xml"
+priority = 0.6
+
 ignoreLogs = ['warning-partial-superfluous-prefix']
 
 enableRobotsTXT = true
