@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cats on Mushrooms on </title>
-    <link>http://localhost:1313/tags/cats-on-mushrooms/</link>
+    <link>//localhost:1313/tags/cats-on-mushrooms/</link>
     <description>Recent content in Cats on Mushrooms on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Aug 2024 22:08:29 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cats-on-mushrooms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cats-on-mushrooms/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Thursday/Friday &amp; Ephiphanies</title>
-      <link>http://localhost:1313/blog/2024/thursday-friday/</link>
+      <title>My Thursday Friday &amp; Ephiphanies</title>
+      <link>//localhost:1313/blog/2024/thursday-friday/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2024/thursday-friday/</guid>
+      <guid>//localhost:1313/blog/2024/thursday-friday/</guid>
       <description>Two epiphanies come together to make me stop and realize I&amp;rsquo;m not going to be that entrepreneur-bro-sigma-male-grindset.</description>
-    </item>
-    <item>
-      <title>November Backlogs</title>
-      <link>http://localhost:1313/blog/2023/november-backlogs/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/november-backlogs/</guid>
-      <description>All my November blogs rolled into one. I talk about underground bands like Julie and Waveform as well as other big bands and artists like Pixies, Dave Grohl, and Tyler, the Creator. All this and I still remain at my corporate job.</description>
     </item>
   </channel>
 </rss>
