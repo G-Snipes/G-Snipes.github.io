@@ -673,7 +673,7 @@ ___
 
 **Myles:** Everything I'm trying to do is trying to sound like a drummer and like an aux percussionist at the same time. I want it to be that busy. But we don't have one of those people to do that. So I'm going to just hit more drums and fill it out because I like maximalism.
 
-Yeah. Like, I want to create, I want to write these poppy songs that we write, but have it just kind of be, like, a wall of momentum and different movement. I want to make it, like, busy in that way. 
+Yeah. Like, I want to create, I want to write these poppy songs that we write, but have it just kind of be, like, a wall of momentum and different movement. I want to make it busy in that way. 
 
 **Luke:** Busy is good. 
 
