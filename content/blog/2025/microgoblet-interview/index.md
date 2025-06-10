@@ -2,7 +2,7 @@
 author: Gary Snipes
 date: '2025-06-04'
 summary: |
-  An interesting inquisitive interview Microgoblet. 
+  An interesting inquisitive interview with Microgoblet. 
 tags: 
   - Microgoblet
   - Music
