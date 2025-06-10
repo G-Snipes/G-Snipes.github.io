@@ -168,7 +168,7 @@ ___
 
 **Myles:** Drew did for a period. 
 
-**Adam:** Yeah, Drew. I mean, [Porcelain](https://www.instagram.com/porcelain_band/). Like, Brenna moved to Philly. I guess bands that are like fully Connecticut bands that people should know about like [Wally](https://www.instagram.com/wallymusicusa/) 
+**Adam:** Yeah, Drew. I mean, [P0rc3laine](https://www.instagram.com/p0rc3laine/). Like, Brenna moved to Philly. I guess bands that are like fully Connecticut bands that people should know about like [Wally](https://www.instagram.com/wallymusicusa/) 
 
 **Myles:** Wally!
 
@@ -238,7 +238,7 @@ ___
 
 **Luke:** Sexton Hill. Which is... Actually... Yeah. 
 
-**Myles:** I played drums in that too. 
+**Myles:** I play drums in that too. 
 
 **Luke:** I'll just say it's a place, because I want to keep that place a secret. Well, it's not really a secret anymore. Actually, it's under a different name. 
 
@@ -536,11 +536,11 @@ For real, I think very little would change if we had unlimited resources except 
 
 **Adam:** Because I don't use pedals, like, that's my sound. 
 
-**Myles:** The jazz chorus amp... It's got a *je ne sais quoi* that you cannot get with his playing without it. 
+**Myles:** The jazz chorus amp... It's got a *je ne sais quoi* that you cannot get without it. 
 
 **Adam:** Specifically, it's the JC-77. 
 ![](jc77.png)
-It's like the old jazz choruses. I use the amp distortion on, like, 3 songs roughly when I play. The amp disotrion on new jazz choruses doesn't sound like that. I don't think it sounds anywhere near that good, so I like specifically need my amp and my guitar but pass that... I couldn't give less of a shit about gear, I like playing music and writing songs, anything else is ancillary. 
+It's like the old jazz choruses. I put the amp distortion at 3 roughly when I play. The amp disotrion on new jazz choruses doesn't sound like that. I don't think it sounds anywhere near that good, so I like specifically need my amp and my guitar but pass that... I couldn't give less of a shit about gear, I like playing music and writing songs, anything else is ancillary. 
 
 **Luke:** I'd get my own Peavey T-40 hahaha!
 
@@ -680,5 +680,7 @@ Yeah. Like, I want to create, I want to write these poppy songs that we write, b
 *All right, word guys. Thank you.*
 
 ![](micro2.JPG)
+
+If you liked this interview and you want more you can always buy me a [sexy coffee](https://ko-fi.com/gsnipe) :)
 
 
