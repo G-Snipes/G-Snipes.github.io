@@ -13,7 +13,7 @@
 
 [[main]]
   name = "Discord"
-  url = "https://discord.gg/RG4xVUKs"
+  url = "https://discord.gg/7a6X2Ffn"
   weight = 5
   [main.params]
     icon = "discord"
