@@ -1,8 +1,0 @@
-# _config.yml
-# Forcing correct MIME types for XML files
-# This helps GitHub Pages serve XML content correctly.
-defaults:
-  - scope:
-      path: "*.xml"
-    values:
-      mime_type: "application/xml"
