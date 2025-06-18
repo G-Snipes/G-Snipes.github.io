@@ -18,11 +18,11 @@ title = ""
 
 [params.author]
   name = "Gary Snipes"
-  image = "img/me.jpeg"
+  image = "img/mainphoto.png"
   headline = "Artist"
   bio = "I make stuff."
   links = [
-      { email = "gsnipe721@gmail.com" },
+  #   { email = "gsnipe721@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
