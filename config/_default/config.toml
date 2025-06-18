@@ -14,8 +14,7 @@ priority = 0.6
 ignoreLogs = ['warning-partial-superfluous-prefix']
 
 enableRobotsTXT = true
-[languages.de.pagination]
-            pagerSize = 10
+
 pagination = 10
 
 summaryLength = 0

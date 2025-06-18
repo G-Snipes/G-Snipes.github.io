@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Title Fight on </title>
-    <link>http://localhost:53598/tags/title-fight/</link>
+    <link>https://G-Snipes.github.io/tags/title-fight/</link>
     <description>Recent content in Title Fight on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:21:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:53598/tags/title-fight/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://G-Snipes.github.io/tags/title-fight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June Backlogs</title>
-      <link>http://localhost:53598/blog/2024/june-backlogs/</link>
+      <link>https://G-Snipes.github.io/blog/2024/june-backlogs/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53598/blog/2024/june-backlogs/</guid>
+      <guid>https://G-Snipes.github.io/blog/2024/june-backlogs/</guid>
       <description>All my June backlogs rolled into one.</description>
     </item>
   </channel>

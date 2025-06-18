@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connecticut on </title>
-    <link>http://localhost:53598/tags/connecticut/</link>
+    <link>https://G-Snipes.github.io/tags/connecticut/</link>
     <description>Recent content in Connecticut on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Jun 2025 17:53:22 -0400</lastBuildDate>
-    <atom:link href="http://localhost:53598/tags/connecticut/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://G-Snipes.github.io/tags/connecticut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Microgoblet Interview</title>
-      <link>http://localhost:53598/blog/2025/microgoblet-interview/</link>
+      <link>https://G-Snipes.github.io/blog/2025/microgoblet-interview/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53598/blog/2025/microgoblet-interview/</guid>
+      <guid>https://G-Snipes.github.io/blog/2025/microgoblet-interview/</guid>
       <description>An interesting inquisitive interview with Microgoblet.</description>
     </item>
   </channel>
