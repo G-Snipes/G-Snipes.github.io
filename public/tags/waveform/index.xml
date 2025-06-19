@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Waveform on </title>
-    <link>http://localhost:49809/tags/waveform/</link>
+    <link>http://localhost:1313/tags/waveform/</link>
     <description>Recent content in Waveform on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:21:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:49809/tags/waveform/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/waveform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>November Backlogs</title>
-      <link>http://localhost:49809/blog/2023/november-backlogs/</link>
+      <link>http://localhost:1313/blog/2023/november-backlogs/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49809/blog/2023/november-backlogs/</guid>
+      <guid>http://localhost:1313/blog/2023/november-backlogs/</guid>
       <description>All my November blogs rolled into one. I talk about underground bands like Julie and Waveform as well as other big bands and artists like Pixies, Dave Grohl, and Tyler, the Creator. All this and I still remain at my corporate job.</description>
     </item>
   </channel>

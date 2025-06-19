@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Show on </title>
-    <link>http://localhost:49809/tags/the-show/</link>
+    <link>http://localhost:1313/tags/the-show/</link>
     <description>Recent content in The Show on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:21:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:49809/tags/the-show/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-show/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Scranton Scene &amp; SHOW RECAP 2</title>
-      <link>http://localhost:49809/blog/2024/scranton-scene/</link>
+      <link>http://localhost:1313/blog/2024/scranton-scene/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49809/blog/2024/scranton-scene/</guid>
+      <guid>http://localhost:1313/blog/2024/scranton-scene/</guid>
       <description>I talk about the Scranton Scene and also squeeze in another show recap. Love Scrantonia, Love my Scrantonians.</description>
     </item>
   </channel>

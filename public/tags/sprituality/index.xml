@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sprituality on </title>
-    <link>http://localhost:49809/tags/sprituality/</link>
+    <link>http://localhost:1313/tags/sprituality/</link>
     <description>Recent content in Sprituality on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 31 May 2025 09:42:16 -0400</lastBuildDate>
-    <atom:link href="http://localhost:49809/tags/sprituality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sprituality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spiritual Jargon &amp; Software Dreams</title>
-      <link>http://localhost:49809/blog/2025/spiritual-jargon-and-software-dreams/</link>
+      <link>http://localhost:1313/blog/2025/spiritual-jargon-and-software-dreams/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49809/blog/2025/spiritual-jargon-and-software-dreams/</guid>
+      <guid>http://localhost:1313/blog/2025/spiritual-jargon-and-software-dreams/</guid>
       <description>I defeat my timid feelings and share a new YT channel I&amp;rsquo;ve been on.</description>
     </item>
   </channel>

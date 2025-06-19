@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Job Quitting on </title>
-    <link>http://localhost:49809/tags/job-quitting/</link>
+    <link>http://localhost:1313/tags/job-quitting/</link>
     <description>Recent content in Job Quitting on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:21:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:49809/tags/job-quitting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/job-quitting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Quit My Job (The Journey Begins)</title>
-      <link>http://localhost:49809/blog/2024/quit-job/</link>
+      <link>http://localhost:1313/blog/2024/quit-job/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49809/blog/2024/quit-job/</guid>
+      <guid>http://localhost:1313/blog/2024/quit-job/</guid>
       <description>I finally quit my job. So I discuss how I feel with where I&amp;rsquo;m at. That includes what I hope to start consistently doing, what I still struggle with, and my philosophies.</description>
     </item>
   </channel>
