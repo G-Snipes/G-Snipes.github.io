@@ -22,7 +22,7 @@ Below is my long conversation with the Philly/Connecticut diy trio [Microgoblet]
 
 _______
 
-*So I guess to start off...*
+**So I guess to start off...**
 ## Q1: What are your names and what instruments do you play? What's your musical background? 
 
 **Luke:** My name is Luke Schroeder. I play the bass in Microgoblet and my musical background is guitar. Hehe. Now I play bass.
@@ -31,7 +31,7 @@ _______
 
 **Myles:** I'm Myles. I play the drums, and the drum set is the first instrument I have ever picked up, so my musical background has been playing that for five years now. 
 
-*Cool. Are you guys all from Connecticut?*
+**Cool. Are you guys all from Connecticut?**
 
 **All:** Yeah.
 
@@ -69,13 +69,13 @@ ____
 
 **Myles:** It's a little brass cup that we found in my basement at one of me and Adam's first practices and it turns out it originated from a doll set one of my ancestors made on my mother's side. I think it might have been her grandfather or great grandfather, but it's a little tiny bronze cup that's like one inch tall. We named it after that basically. 
 
-*So it really is a micro goblet?*
+**So it really is a micro goblet?**
 
 **Myles:** Yeah, it's this one off object. A little cup. That I found.
 
 **Adam:** It just seemed like a good band name. The songs are short. 
 
-*I think it is.*
+**I think it is.**
 
 **Myles:** It just kind of kicked around on the floor in the practice room until it was like, well, there's that thing that we've nicknamed. Call it that. 
 
@@ -91,11 +91,11 @@ ____
 
 **Adam:** Do you know the band [Small head, Big Torso, Vicious Grip](https://www.instagram.com/shbtvg.band/)? 
 
-*Yeah.*
+**Yeah.**
 
 **Adam:** We're always like coming up with new versions of that.
 
-*That's funny.*
+**That's funny.**
 
 **Myles:** Whenever I see Rowan, I just come up with like four variations of it. 
  
@@ -106,7 +106,7 @@ _____
 
 **Myles:** Yeah, I still live in Connecticut. They moved here last year. 
 
-*So how do you guys make that work?*
+**So how do you guys make that work?**
 
 **Myles:** I usually take the bus down once or twice a month and I stay for anywhere from three days to a week. When they're not at work we write and practice and do shows, so I feel its like short bursts of a lot of activity and that keeps it in shape like pretty good.
 
@@ -148,7 +148,7 @@ _____
 
 **Myles:** I just look directly at the snare drum the entire time I'm playing or at my foot. I don't look at the audience or the other band members. Sometimes I look at the other band members, though. Yeah. Like a part that's like... I need to kind of use telepathy to figure out where something's happening.
 
-*You play by ear. That's what it is. Play by feel?*
+**You play by ear. That's what it is. Play by feel?**
 
 **Myles:** Sometimes it really bites me that I don't look at anything when I play because I just, like, forget where a cymbal is or something. 
 
@@ -160,7 +160,7 @@ ___
 
 ## Q6: What are some Connecticut bands that Philly needs to know about? 
 
-*Speaking of... I see that you guys have a show coming up with [Pulsr](https://www.instagram.com/pulsr_/) at Mini Mart.*
+**Speaking of... I see that you guys have a show coming up with [Pulsr](https://www.instagram.com/pulsr_/) at Mini Mart.**
 
 **Myles:** That would be one of those bands. 
 
@@ -174,7 +174,7 @@ ___
 
 **Adam:** Wally for sure, although two of them are gonna move to Europe so they're not gonna be here for much longer haha. Connecticut is a place that you leave you know? 
 
-*Lol.*
+**Lol.**
 
 **Luke:** No offense.
 
@@ -206,7 +206,7 @@ ___
 
 **Luke:** And they cowabunga'd. 
 
-*Oh, can I kill that cockroach?*
+**Oh, can I kill that cockroach?**
 
 **Luke:** I thought I killed that motherfucker!?
 
@@ -242,7 +242,7 @@ ___
 
 **Luke:** I'll just say it's a place, because I want to keep that place a secret. Well, it's not really a secret anymore. Actually, it's under a different name. 
 
-*I was going to ask...*
+**I was going to ask...**
 
 ___
 ## Q7: During one of your live sets, someone named Jonah says he loves you. Who is he? 
@@ -270,11 +270,11 @@ ___
 
 **Luke:** So then like my friend, my friend Jonah, well, he wasn't my friend at the time, but he like showed up and we started talking. He was like, "you want to go to Stop and Shop and get some monsters?" I was like, "hell yeah." And the rest was history. 
 
-*So he does DJ?*
+**So he does DJ?**
 
 **Adam:** Yeah, he's good. 
 
-*Cool.*
+**Cool.**
 
 **Luke:** [Dr. Crode.](https://www.instagram.com/dr._cr0de/) 
 
@@ -322,7 +322,7 @@ ____
 
 **All:** Hahaha. 
 
-*Make a cultural phenomenon.*
+**Make a cultural phenomenon.**
 
 **Luke:** Yeah, hell yeah. And then we recorded a second album to reel-to-reel tape last weekend.
 
@@ -350,11 +350,11 @@ ___
 
 **Adam:** Generally I'm making up the lyrics every time I sing. There's like certain things that I sing the same way every time, but I can't like, remember words. So the vocal lines are the same notes in the same rhythm kind of every time. But I'm freestyling, you know? 
 
-*It's a stream of consciousness?*
+**It's a stream of consciousness?**
 
 **Adam:** Yeah, and there's like sort of general themes that certain songs will have. There's some songs that I kind of sing with the same words every time that I can remember. Yeah...
 
-*No, that's awesome.* 
+**No, that's awesome.**
 
 **Luke:** I think sometimes I try to convey a vibe or a zeitgeist. 
 
@@ -381,19 +381,19 @@ ___
 
 **Adam:** Have you ever watched any of those, like, gamblecore videos? 
 
-*Where they're, like, you're gonna win, just keep playing?*
+**Where they're, like, you're gonna win, just keep playing?**
 
 **Myles:** Yeah and there's like a billion coins popping out of the screen.
 
 **Adam:** It's just like really overstimulating.
 
-*Are these like memes you're talking about?* 
+**Are these like memes you're talking about?**
 
 **All:** Yes.
 
 **Luke:** Casino core rocks Microgoblet loves casinos. Yeah, Point Pleasant Beach arcade games. You know, there's actually a regulation where all arcade games and casino games have to be in compatible keys. They have like three different like pentatonic scales. 
 
-*That's actually really fascinating. How did you find that out?* 
+**That's actually really fascinating. How did you find that out?**
 
 **Myles:** I guess it makes sense so it doesn't create like hella dissonance. 
 
@@ -434,7 +434,7 @@ It's a cool guitar, it plays well. It stays in tune even though I abuse the abso
 
 **Luke:** Yeah, my guitar bridge is shimmed with a coin from my last band. Yeah, I played for, probably a year and a half with a coin under the bridge to hold it together. 
 
-*Really? You jammed it in there?* 
+**Really? You jammed it in there?**
 
 **Luke:** Yeah. It's awesome!
 
@@ -475,7 +475,7 @@ I really zoomed in on the drumming there when I listened to it inherently. It ta
 
 **Luke:** CAN fucks.
 
-*Thanks for the thorough answer. The rest of my questions are just fun ones.*
+**Thanks for the thorough answer. The rest of my questions are just fun ones.**
 
 **Luke:** Hell yeah. 
 
@@ -487,11 +487,11 @@ ___
 
 **Myles:** Does that mean we don't have to work? 
 
-*Yeah.*
+**Yeah.**
 
 **Adam:** Yeah, if I didn't have to work, I would just play music all the time. 
 
-*You have unlimited resources, but they have to be towards this band.*
+**You have unlimited resources, but they have to be towards this band.**
 
 **Adam:** Oh, well, I would just, like, tour all the time. 
 
@@ -501,11 +501,11 @@ ___
 
 **Luke:** I don't know, I feel like no matter what band... Well, actually, that's not true. I could do some ridiculous stage shit. I have an idea. This is, well, it's sort of related to your question, but I want to start fucking around with mylar and one-way mirrors with micro goblets. 
 
-*What's mylar?*
+**What's mylar?**
 
 **Luke:** It's a plastic that is reflective, but also transparent. So, like, it serves as like a one-way... 
 
-*Is that like what's in the monkey mazes at a carnival?*
+**Is that like what's in the monkey mazes at a carnival?**
 
 **Luke:** Maybe. But, just, like, you know, one-way mirrors. So you have the stage lights off and the people out front and it's separated by a sheet of mylar. They would just see a mirror. Then you could turn the house lights off and the stage lights on, and the band appears. The band can't see the audience.
 
@@ -550,7 +550,7 @@ It's like the old jazz choruses. I put the amp distortion at 3 roughly when I pl
 
 **Adam:** Greatest bass ever made. 
 
-*Do you have a bass?*
+**Do you have a bass?**
 
 **Luke:** I don't think I do. I have a bunch of your (Adam's) basses. I don't have a bass. 
 
@@ -568,7 +568,7 @@ ___
 
 **Adam:** Oh, everything. I've read everything there is to read. You know, after we wrote that song, after we started playing, because it was like... I found out about Gene and Andy because I was on a Wikipedia page and I was on the list of named birds and I was like checking all of them out. This is like what I do at work when I have a slow day.  
 
-*That bird is a specific bird.*
+**That bird is a specific bird.**
 
 **Adam:** Yeah, Andy. It's Andy, and then in parenthesis "Goose". That's the name of the [Wikipedia page](https://en.wikipedia.org/wiki/Andy_(goose)). That is one of the only songs that's actually about something. After we wrote that song, then they came out with some big new article about it in some publication. 
 
@@ -582,7 +582,7 @@ ___
 
 **Luke:** That's crazy. 
 
-*My next question is...*
+**My next question is...**
 
 ___ 
 ## Q14: Can you tell me more about this image?
@@ -627,7 +627,7 @@ ___
 
 **Adam:** Here's another thing about this band, we all fish. 
 
-*Oh, cool. I haven't fished in a while.*
+**Oh, cool. I haven't fished in a while.**
 
 **Adam:** There's good fishing in Philly. Our old spot's probably toast now. 
 
@@ -645,7 +645,7 @@ ___
 
 **Luke:** Yeah, listen to Tar-Aiym Krang. 
 
-**Adam:** This is a big deal. This is like the greatest album of all time. It's the album II by Tar-Aiym Krang. 
+**Adam:** *This is a big deal. This is like the greatest album of all time. It's the album II by Tar-Aiym Krang.*
 
 **Myles:** Romen numeral two. 
 
@@ -659,7 +659,7 @@ ___
 
 **Adam:** The songs are so good. 
 
-*Like it's saturated with gold?*
+**Like it's saturated with gold?**
 
 **All:** Yes.
 
@@ -675,9 +675,9 @@ ___
 
 Yeah. Like, I want to create, I want to write these poppy songs that we write, but have it just kind of be, like, a wall of momentum and different movement. I want to make it busy in that way. 
 
-**Luke:** Busy is good. 
+**Luke:** *"Busy is good."* 
 
-*All right, word guys. Thank you.*
+**All right, word guys. Thank you.**
 
 ![](micro2.JPG)
 
