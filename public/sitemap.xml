@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/tags/all-the-flowers/</loc>
     <lastmod>2025-07-02T21:31:08-04:00</lastmod>
     <changefreq>daily</changefreq>
@@ -49,36 +50,65 @@
   </url><url>
     <loc>http://localhost:1313/blog/2025/all-the-flowers-interview/</loc>
     <lastmod>2025-07-02T21:31:08-04:00</lastmod>
+=======
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-06-18T19:13:16-04:00</lastmod>
+>>>>>>> parent of ff7947a (ATF Interview 1)
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/tags/connecticut/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/diy/</loc>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/tags/french-exit/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/interview/</loc>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/tags/microgoblet/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2025-06-18T19:13:16-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/philly/</loc>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/tags/pulsr/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/tags/silver-age-hq/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-18T19:13:16-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/blog/2025/microgoblet-interview/</loc>
-    <lastmod>2025-06-24T14:59:05-04:00</lastmod>
+    <lastmod>2025-06-10T17:53:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
@@ -257,7 +287,17 @@
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url><url>
+    <loc>http://localhost:1313/tags/all-the-flowers/</loc>
+    <lastmod>2025-01-04T17:21:42-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/mormon-toasterhead/</loc>
+    <lastmod>2025-01-04T17:21:42-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/over-yonder/</loc>
     <lastmod>2025-01-04T17:21:42-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
