@@ -1,6 +1,14 @@
 {{ if .Site.Params.homepage.showRecent | default false }}
   <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
   {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
-    {{ partial "article-link.html" . }}
+    {{/* START: TEMPORARY DEBUG LINE TO EXCLUDE HOMEPAGE */}}
+    {{ if ne .RelPermalink "/" }}
+    {{/* END: TEMPORARY DEBUG LINE TO EXCLUDE HOMEPAGE */}}
+
+      {{ partial "article-link.html" . }}
+
+    {{/* START: TEMPORARY DEBUG LINE TO EXCLUDE HOMEPAGE */}}
+    {{ end }}
+    {{/* END: TEMPORARY DEBUG LINE TO EXCLUDE HOMEPAGE */}}
   {{ end }}
 {{ end }}
