@@ -15,19 +15,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # If your repository is private, you might need a token here
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Initialize Hugo Modules if go.mod/module.toml exist
-      # This step handles downloading the theme
-      - name: Initialize Hugo Modules
-        run: hugo mod tidy
-
+      # --- IMPORTANT: Set up Hugo FIRST ---
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.127.0' # Or your desired version, ensure it's >= Congo's min (0.87.0)
           extended: true
+
+      # --- THEN, run hugo mod tidy ---
+      - name: Initialize Hugo Modules
+        run: hugo mod tidy
 
       - name: Build site
         run: hugo --minify --cleanDestinationDir # No --themesDir needed with modules
@@ -37,9 +36,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          # The branch your site will be published to (often gh-pages)
           publish_branch: gh-pages
-          # User/email for the commit
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          force_orphan: true # Recommended for clean deploy
+          force_orphan: true
