@@ -14,44 +14,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-<<<<<<< HEAD
-=======
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Debug List theme contents
-        run: |
-         echo "Listing contents of 'themes/' directory:"
-         ls -alR themes/ # List all files and directories recursively
-
-              # --- NEW DEBUG COMMANDS START HERE ---
-         echo "--- Contents of root themes/ directory ---"
-         ls -al themes/ || echo "themes/ directory is empty or does not exist (expected if only using Hugo Modules for themes)."
-
-         echo "--- Content of root go.mod ---"
-         cat go.mod || echo "go.mod not found or empty."
-
-         echo "--- Content of root module.toml ---"
-         cat module.toml || echo "module.toml not found or empty."
-
-         echo "--- Content of config/_default/config.toml (for theme setting) ---"
-         cat config/_default/config.toml || echo "config/_default/config.toml not found."
-              # --- NEW DEBUG COMMANDS END HERE ---
-
-         echo "--- Submodule Commit Hash on Runner ---"
-         cd themes/congo && git rev-parse HEAD && cd - || echo "Could not get submodule commit hash (directory might be gone, which is okay for modules)."
-         echo "--- End Submodule Commit Hash ---"
-         echo "Checking specific partial file (should not exist if using modules):"
-         ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html NOT found by direct check (expected if using modules)."
-         echo "Permissions for themes/congo/layouts/partials/functions/:"
-         ls -ld themes/congo/layouts/partials/functions/ || echo "functions directory NOT found for permissions check by direct check (expected if using modules)."
-         echo "Permissions for themes/congo/layouts/partials/:"
-         ls -ld themes/congo/layouts/partials/ || echo "partials directory NOT found for permissions check by direct check (expected if using modules)."
-         echo "Permissions for themes/congo/layouts/:"
-         ls -ld themes/congo/layouts/ || echo "layouts directory NOT found for permissions check by direct check (expected if using modules if themes/congo is gone)."
-         echo "--- Content of themes/congo/config/_default/module.toml ---"
-         cat themes/congo/config/_default/module.toml || echo "themes/congo/config/_default/module.toml not found (expected if using modules)."
-         echo "--- End module.toml content ---"
->>>>>>> 9b30449a42d7e50016eb1368739aeb1d6035c29a
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
