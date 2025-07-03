@@ -29,6 +29,19 @@ jobs:
         with:
           hugo-version: "0.145.0"
           extended: true
+
+       - name: Debug: List theme contents
+        run: |
+          echo "Listing contents of 'themes/' directory:"
+          ls -alR themes/ # List all files and directories recursively
+          echo "Checking specific partial file:"
+          ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html not found at expected path"
+          echo "Permissions for themes/congo/layouts/partials/functions/:"
+          ls -ld themes/congo/layouts/partials/functions/
+          echo "Permissions for themes/congo/layouts/partials/:"
+          ls -ld themes/congo/layouts/partials/
+          echo "Permissions for themes/congo/layouts/:"
+          ls -ld themes/congo/layouts/
       
       - name: Build
         run: hugo --minify --themesDir themes
