@@ -6,8 +6,6 @@ baseURL = "https://G-Snipes.github.io/"
 defaultContentLanguage = "en"
 enableGitInfo = true
 
-theme = "congo"
-
 [sitemap]
 changeFreq = "daily"
 filename = "sitemap.xml"
