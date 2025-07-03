@@ -1,70 +1,38 @@
-name: Deploy Hugo site to GitHub Pages
+
+# .github/workflows/gh-pages.yml
+
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - main # Or 'master'
+      - main
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Ensure themes/ directory state and check .gitmodules
-        run: |
-          echo "Attempting to remove entire themes/ directory to ensure no remnants."
-          rm -rf themes/ # Remove the entire themes directory
-          echo "Listing themes/ after aggressive removal (should be empty or non-existent):"
-          ls -al themes/ || echo "themes/ directory is gone or empty (expected)."
-
-          echo "--- Checking .gitmodules file ---"
-          cat .gitmodules || echo ".gitmodules not found (this is desired for Hugo Modules)."
-          echo "--- End .gitmodules check ---"
-
-          # --- RE-ADDING THESE CRUCIAL CONFIG FILE DUMPS ---
-          echo "--- Content of root go.mod ---"
-          cat go.mod || echo "go.mod not found or empty."
-
-          echo "--- Content of root module.toml ---"
-          cat module.toml || echo "module.toml not found or empty."
-
-          echo "--- Content of config/_default/config.toml (for theme setting) ---"
-          cat config/_default/config.toml || echo "config/_default/config.toml not found."
-          # --- END OF RE-ADDED CONFIG FILE DUMPS ---
+        with:
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.111.3' 
+          hugo-version: "0.145.0"
           extended: true
 
-      - name: Clean Hugo Modules Cache
-        run: hugo mod clean || true
+      - name: Build
+        run: hugo --minify
 
-      - name: Explicitly Get Theme Module
-        # IMPORTANT: This command needs to match what's actually in your config.toml and module.toml
-        # Based on your commit message, it's likely 'congo' again.
-        run: hugo mod get github.com/jpanther/congo/v2 
-
-      # --- NEW DIAGNOSTIC STEP: Inspect the module graph ---
-      - name: Inspect Hugo Module Graph
-        run: hugo mod graph
-      # --- END NEW DIAGNOSTIC STEP ---
-
-      - name: Build site
-        run: hugo --minify --cleanDestinationDir --theme "congo" --debug
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
           publish_branch: gh-pages
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          force_orphan: true
+          publish_dir: ./public
