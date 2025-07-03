@@ -45,6 +45,9 @@ jobs:
           ls -ld themes/congo/layouts/partials/ || echo "partials directory NOT found for permissions check by direct check." # Make non-failing
           echo "Permissions for themes/congo/layouts/:"
           ls -ld themes/congo/layouts/
+          echo "--- Content of themes/congo/config/_default/module.toml ---"
+          cat themes/congo/config/_default/module.toml || echo "themes/congo/config/_default/module.toml not found"
+          echo "--- End module.toml content ---"
       
       - name: Build
         run: hugo --minify --themesDir themes
