@@ -20,6 +20,15 @@ jobs:
         with:
           hugo-version: '0.127.0' # Or your desired version
           extended: true
+          
+      # --- NEW STEP: Aggressive cleanup ---
+      - name: Ensure themes/congo is completely gone
+        run: |
+          echo "Attempting to remove themes/congo directory (if any lingering remnants exist)."
+          rm -rf themes/congo
+          echo "Listing themes/ after cleanup attempt:"
+          ls -al themes/ || true # Use || true so this command doesn't fail the job if 'themes/' is empty
+          echo "Cleanup attempt complete."
 
       - name: Initialize Hugo Modules
         run: hugo mod tidy # This command should now successfully download the theme
