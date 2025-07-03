@@ -3,8 +3,7 @@
     h-full
   {{ end }} flex flex-col items-center justify-center text-center"
 >
-  {{!-- This line was causing infinite recursion, remove it --}}
-  {{!-- {{ partial "profile.html" }} --}}
+  {{!-- Delete this line: {{!-- {{ partial "profile.html" }} --}} --}}
   <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
 </article>
 <section>
