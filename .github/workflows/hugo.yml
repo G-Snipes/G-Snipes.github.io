@@ -3,33 +3,29 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main # Change this to your default branch (main or master)
+      - main # Or 'master'
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # To push to gh-pages branch
+      contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --- IMPORTANT: Set up Hugo FIRST ---
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.127.0' # Or your desired version, ensure it's >= Congo's min (0.87.0)
+          hugo-version: '0.127.0' # Or your desired version
           extended: true
 
-      # --- THEN, run hugo mod tidy ---
       - name: Initialize Hugo Modules
-        run: hugo mod tidy
+        run: hugo mod tidy # This command should now successfully download the theme
 
       - name: Build site
-        run: hugo --minify --cleanDestinationDir # No --themesDir needed with modules
+        run: hugo --minify --cleanDestinationDir
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
