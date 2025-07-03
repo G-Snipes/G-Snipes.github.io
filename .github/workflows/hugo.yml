@@ -30,15 +30,15 @@ jobs:
       - name: List Congo Partials for Debugging
         run: |
           echo "Listing contents of themes/congo/layouts/partials/"
-          ls -R themes/congo/layouts/partials/
+          ls -R themes/congo/layouts/_partials/
           echo "--- End of Partials Listing ---"
           # You can also check for specific files if you want:
-          # if [ -f themes/congo/layouts/partials/head.html ]; then
+          # if [ -f themes/congo/layouts/_partials/head.html ]; then
           #   echo "head.html found!"
           # else
           #   echo "head.html NOT found!"
           # fi
-          # if [ -f themes/congo/layouts/partials/functions/warnings.html ]; then
+          # if [ -f themes/congo/layouts/_partials/functions/warnings.html ]; then
           #   echo "functions/warnings.html found!"
           # else
           #   echo "functions/warnings.html NOT found!"
