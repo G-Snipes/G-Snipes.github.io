@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Ensure themes/congo is completely gone # Keep this for robustness, though it's likely not the direct issue now
+      - name: Ensure themes/congo is completely gone
         run: |
           echo "Attempting to remove themes/congo directory (if any lingering remnants exist)."
           rm -rf themes/congo
@@ -29,16 +29,16 @@ jobs:
           hugo-version: '0.127.0' # Or your desired version
           extended: true
 
-      # --- NEW STEP: Clean Hugo Modules Cache ---
       - name: Clean Hugo Modules Cache
-        run: hugo mod clean
-        # This must run AFTER 'Setup Hugo' because it uses the 'hugo' command
+        run: hugo mod clean || true # Keep || true so it doesn't stop the workflow if it still hits the error.
 
-      - name: Initialize Hugo Modules
-        run: hugo mod tidy # This is the step that should now work
+      # --- NEW STEP: Explicitly Get Congo Module ---
+      - name: Explicitly Get Congo Theme Module
+        run: hugo mod get github.com/jpanther/congo/v2
+        # This forces Hugo to download the module from the specified path.
 
       - name: Build site
-        run: hugo --minify --cleanDestinationDir
+        run: hugo --minify --cleanDestinationDir # Keep theme commented out for now
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -49,3 +49,4 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           force_orphan: true
+          
