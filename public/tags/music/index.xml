@@ -6,12 +6,15 @@
     <description>Recent content in Music on </description>
     <generator>Hugo</generator>
     <language>en</language>
-<<<<<<< HEAD
-    <lastBuildDate>Wed, 02 Jul 2025 21:31:08 -0400</lastBuildDate>
-=======
-    <lastBuildDate>Wed, 18 Jun 2025 19:13:16 -0400</lastBuildDate>
->>>>>>> parent of ff7947a (ATF Interview 1)
+    <lastBuildDate>Thu, 03 Jul 2025 15:06:54 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The AlltheFlowers Interview</title>
+      <link>http://localhost:1313/blog/2025/all-the-flowers-interview/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/all-the-flowers-interview/</guid>
+      <description>An absurdly admirable interview with AlltheFlowers.</description>
+    </item>
     <item>
       <title>The Microgoblet Interview</title>
       <link>http://localhost:1313/blog/2025/microgoblet-interview/</link>
