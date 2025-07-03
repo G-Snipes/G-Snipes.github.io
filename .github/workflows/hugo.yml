@@ -34,19 +34,17 @@ jobs:
         run: |
           echo "Listing contents of 'themes/' directory:"
           ls -alR themes/ # List all files and directories recursively
+          echo "--- Submodule Commit Hash on Runner ---"
+          cd themes/congo && git rev-parse HEAD && cd - || echo "Could not get submodule commit hash" # Make this non-failing
+          echo "--- End Submodule Commit Hash ---"
           echo "Checking specific partial file:"
-          ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html not found at expected path"
+          ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html NOT found by direct check." # Changed message
           echo "Permissions for themes/congo/layouts/partials/functions/:"
-          # Added '|| true' to this line to prevent the step from failing if the directory is still missing
-          ls -ld themes/congo/layouts/partials/functions/ || true
+          ls -ld themes/congo/layouts/partials/functions/ || echo "functions directory NOT found for permissions check by direct check." # Make non-failing
           echo "Permissions for themes/congo/layouts/partials/:"
-          ls -ld themes/congo/layouts/partials/
+          ls -ld themes/congo/layouts/partials/ || echo "partials directory NOT found for permissions check by direct check." # Make non-failing
           echo "Permissions for themes/congo/layouts/:"
           ls -ld themes/congo/layouts/
-          echo "--- Submodule Commit Hash on Runner ---"
-          # This command gets the current commit hash of the submodule
-          cd themes/congo && git rev-parse HEAD && cd -
-          echo "--- End Submodule Commit Hash ---"
       
       - name: Build
         run: hugo --minify --themesDir themes
