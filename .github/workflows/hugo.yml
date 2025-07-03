@@ -15,23 +15,27 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Ensure themes/congo is completely gone # Keep this for robustness, though it's likely not the direct issue now
+        run: |
+          echo "Attempting to remove themes/congo directory (if any lingering remnants exist)."
+          rm -rf themes/congo
+          echo "Listing themes/ after cleanup attempt:"
+          ls -al themes/ || true
+          echo "Cleanup attempt complete."
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.127.0' # Or your desired version
           extended: true
-          
-      # --- NEW STEP: Aggressive cleanup ---
-      - name: Ensure themes/congo is completely gone
-        run: |
-          echo "Attempting to remove themes/congo directory (if any lingering remnants exist)."
-          rm -rf themes/congo
-          echo "Listing themes/ after cleanup attempt:"
-          ls -al themes/ || true # Use || true so this command doesn't fail the job if 'themes/' is empty
-          echo "Cleanup attempt complete."
+
+      # --- NEW STEP: Clean Hugo Modules Cache ---
+      - name: Clean Hugo Modules Cache
+        run: hugo mod clean
+        # This must run AFTER 'Setup Hugo' because it uses the 'hugo' command
 
       - name: Initialize Hugo Modules
-        run: hugo mod tidy # This command should now successfully download the theme
+        run: hugo mod tidy # This is the step that should now work
 
       - name: Build site
         run: hugo --minify --cleanDestinationDir
