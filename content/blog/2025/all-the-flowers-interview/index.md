@@ -2,9 +2,9 @@
 author: Gary Snipes
 date: '2025-07-03'
 summary: |
-  An absurdly admirable interview with All the Flowers. 
+  An absurdly admirable interview with AlltheFlowers. 
 tags: 
-  - All the Flowers
+  - AlltheFlowers
   - Music
   - Philly
   - Interview
@@ -14,12 +14,12 @@ tags:
   - Green Day
   - Mumblr
   - Rowtone
-title: The All the Flowers Interview
+title: The AlltheFlowers Interview
 coverCaption: |
   Unable to hide their photogenic nature from the after show euphoria. 
 ---
 
-They've been playing the Philly diy circuit for quite a while now. You should know them by now, but if you don't that's okay because I decided to catch up with them after [Over Yonder](https://www.instagram.com/overyonder.phl/)'s penultimate house show. I'm talking of course about the Philly indie sing-along ensemble [All the Flowers](https://www.instagram.com/alltheflowersband/)! All the Flowers from left to right is comprised of Esther Joy Landis on violin, Ryan David Hankins on guitar, Riley Hall on vocals and guitar, and Patrick Joseph Sinisgalli on drums. Although its safe to say that Riley is the lead vocalist, ATF makes sure everyone's vocal chops are put on display in their music as well as their live performances.
+They've been playing the Philly diy circuit for quite a while now. You should know them by now, but if you don't that's okay because I decided to catch up with them after [Over Yonder](https://www.instagram.com/overyonder.phl/)'s penultimate house show. I'm talking of course about the Philly indie sing-along ensemble [AlltheFlowers](https://www.instagram.com/alltheflowersband/)! AlltheFlowers from left to right is comprised of Esther Joy Landis on violin, Ryan David Hankins on guitar, Riley Hall on vocals and guitar, and Patrick Joseph Sinisgalli on drums. Although its safe to say that Riley is the lead vocalist, ATF makes sure everyone's vocal chops are put on display in their music as well as their live performances.
 
 Also later on there is a special guest appearance and question for Over Yonder's sound tech [Ariel](https://www.instagram.com/shower_wrench/)!
 
@@ -278,7 +278,7 @@ ___
 **Patrick:** Oh, alright.
 
 **Riley:** We were going for a walk with his dogs in the neighborhood. We've been dating for almost five years now,
-and we were like, "What if we made music together, because we're both musicians?" And we were like, "Yeah, that could be cool." While we walked more we were like, "Well, if we became a band, what would our band name be?" And we were looking at his mother's beautiful garden, and I suggested All the Flowers!
+and we were like, "What if we made music together, because we're both musicians?" And we were like, "Yeah, that could be cool." While we walked more we were like, "Well, if we became a band, what would our band name be?" And we were looking at his mother's beautiful garden, and I suggested AlltheFlowers!
 
 **Patrick:** Sure.
 
@@ -307,7 +307,7 @@ and we were like, "What if we made music together, because we're both musicians?
 
 **All:**  *Laughing.*
 
-**Patrick:** We were like, let's write music. It's not gonna sound anything like what either one of us had done before. So new band. And then God reached his finger down and touched my brain: <u>All the Flowers</u>
+**Patrick:** We were like, let's write music. It's not gonna sound anything like what either one of us had done before. So new band. And then God reached his finger down and touched my brain: <u>AlltheFlowers</u>
 
 **Riley:** *Hahahah.*
 
@@ -509,7 +509,7 @@ ___
 
 **What's up Ariel?** 
 
-**Ryan:** What do you think about All the Flowers? 
+**Ryan:** What do you think about AlltheFlowers? 
 
 **Patrick:** Ariel, genius of the hour. 
 
@@ -597,7 +597,7 @@ ___
 
 **Riley:** Valid. 
 
-**Ariel:** I feel like reflecting on it on that night, I was like, "I could have just seen All the Flowers."
+**Ariel:** I feel like reflecting on it on that night, I was like, "I could have just seen AlltheFlowers."
 
 **Patrick:** Seen us enough man, seen us enough. 
 
@@ -686,7 +686,7 @@ house.
 
 **The end.**
 ______
-Go listen to <u>All the Flowers:</u>
+Go listen to <u>AlltheFlowers:</u>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0Xuwfh0b3rx4lRl0h1TwBS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ___
