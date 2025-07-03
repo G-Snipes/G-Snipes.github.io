@@ -37,11 +37,16 @@ jobs:
           echo "Checking specific partial file:"
           ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html not found at expected path"
           echo "Permissions for themes/congo/layouts/partials/functions/:"
-          ls -ld themes/congo/layouts/partials/functions/
+          # Added '|| true' to this line to prevent the step from failing if the directory is still missing
+          ls -ld themes/congo/layouts/partials/functions/ || true
           echo "Permissions for themes/congo/layouts/partials/:"
           ls -ld themes/congo/layouts/partials/
           echo "Permissions for themes/congo/layouts/:"
           ls -ld themes/congo/layouts/
+          echo "--- Submodule Commit Hash on Runner ---"
+          # This command gets the current commit hash of the submodule
+          cd themes/congo && git rev-parse HEAD && cd -
+          echo "--- End Submodule Commit Hash ---"
       
       - name: Build
         run: hugo --minify --themesDir themes
