@@ -30,7 +30,7 @@ jobs:
           hugo-version: "0.145.0"
           extended: true
 
-       - name: Debug: List theme contents
+      - name: Debug: List theme contents
         run: |
           echo "Listing contents of 'themes/' directory:"
           ls -alR themes/ # List all files and directories recursively
