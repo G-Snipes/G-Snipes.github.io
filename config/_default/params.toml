@@ -19,7 +19,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  header.logo = "img/gsnipe_normal_logo.png"
+  logo = "img/gsnipe_normal_logo.png"
   logoDark = "img/gsnipe_darklogo.png"
   showTitle = true
 
