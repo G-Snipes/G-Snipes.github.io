@@ -49,7 +49,12 @@ jobs:
       - name: Explicitly Get Theme Module
         # IMPORTANT: This command needs to match what's actually in your config.toml and module.toml
         # Based on your commit message, it's likely 'congo' again.
-        run: hugo mod get github.com/jpanther/congo/v2 # <--- Adjust this if your config files show Ananke
+        run: hugo mod get github.com/jpanther/congo/v2 
+
+      # --- NEW DIAGNOSTIC STEP: Inspect the module graph ---
+      - name: Inspect Hugo Module Graph
+        run: hugo mod graph
+      # --- END NEW DIAGNOSTIC STEP ---
 
       - name: Build site
         run: hugo --minify --cleanDestinationDir --theme "congo" --debug
