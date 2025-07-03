@@ -52,7 +52,7 @@ jobs:
         run: hugo mod get github.com/jpanther/congo/v2 # <--- Adjust this if your config files show Ananke
 
       - name: Build site
-        run: hugo --minify --cleanDestinationDir
+        run: hugo --minify --cleanDestinationDir --themesDir "" --debug
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
