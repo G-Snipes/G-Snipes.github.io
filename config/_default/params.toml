@@ -19,15 +19,15 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/gsnipe_normal_logo.png"
+  header.logo = "img/gsnipe_normal_logo.png"
   logoDark = "img/gsnipe_darklogo.png"
   showTitle = true
 
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
-  showScrollToTop = true
+  footer.showAppearanceSwitcher = false
+  footer.showScrollToTop = true
 
 [homepage]
   layout = "profile" 
