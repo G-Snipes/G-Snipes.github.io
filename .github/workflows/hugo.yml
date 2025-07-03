@@ -15,7 +15,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # --- MODIFIED STEP: More aggressive cleanup and .gitmodules check ---
       - name: Ensure themes/ directory state and check .gitmodules
         run: |
           echo "Attempting to remove entire themes/ directory to ensure no remnants."
@@ -27,6 +26,17 @@ jobs:
           cat .gitmodules || echo ".gitmodules not found (this is desired for Hugo Modules)."
           echo "--- End .gitmodules check ---"
 
+          # --- RE-ADDING THESE CRUCIAL CONFIG FILE DUMPS ---
+          echo "--- Content of root go.mod ---"
+          cat go.mod || echo "go.mod not found or empty."
+
+          echo "--- Content of root module.toml ---"
+          cat module.toml || echo "module.toml not found or empty."
+
+          echo "--- Content of config/_default/config.toml (for theme setting) ---"
+          cat config/_default/config.toml || echo "config/_default/config.toml not found."
+          # --- END OF RE-ADDED CONFIG FILE DUMPS ---
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -37,11 +47,11 @@ jobs:
         run: hugo mod clean || true
 
       - name: Explicitly Get Theme Module
-        # KEEP THIS AS ANANKE for now, until it works, then switch back to Congo
-        run: hugo mod get github.com/theNewDynamic/gohugo-theme-ananke/v2
+        # IMPORTANT: This command needs to match what's actually in your config.toml and module.toml
+        # Based on your commit message, it's likely 'congo' again.
+        run: hugo mod get github.com/jpanther/congo/v2 # <--- Adjust this if your config files show Ananke
 
       - name: Build site
-        # Keep 'theme = "ananke"' in config.toml for this test
         run: hugo --minify --cleanDestinationDir
 
       - name: Deploy to GitHub Pages
