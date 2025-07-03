@@ -13,6 +13,11 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+    - name: Force clean repository
+        run: |
+          git clean -dfx # Removes all untracked files and directories
+          git reset --hard HEAD # Ensures working directory matches the last commit
+          
       - name: Checkout
         uses: actions/checkout@v4
         with:
