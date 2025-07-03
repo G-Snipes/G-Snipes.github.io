@@ -11,6 +11,9 @@ tags:
   - Diy
   - Over Yonder
   - Skrillex
+  - Green Day
+  - Mumblr
+  - Rowtone
 title: The All the Flowers Interview
 coverCaption: |
   Unable to hide their photogenic nature from the after show euphoria. 
