@@ -321,7 +321,7 @@ and we were like, "What if we made music together, because we're both musicians?
 
 ___
 
-## Q5: So what's some what's up with the current lineup? 
+## Q5: So what's up with the current lineup? 
 
 **Patrick:** Oh, we're mixing and bobbing in bassists right now. Everybody's going through some big life changes. Esther is currently living in New York for the summer. 
 
