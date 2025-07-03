@@ -15,30 +15,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Ensure themes/congo is completely gone
+      # --- MODIFIED STEP: More aggressive cleanup and .gitmodules check ---
+      - name: Ensure themes/ directory state and check .gitmodules
         run: |
-          echo "Attempting to remove themes/congo directory (if any lingering remnants exist)."
-          rm -rf themes/congo
-          echo "Listing themes/ after cleanup attempt:"
-          ls -al themes/ || true
-          echo "Cleanup attempt complete."
+          echo "Attempting to remove entire themes/ directory to ensure no remnants."
+          rm -rf themes/ # Remove the entire themes directory
+          echo "Listing themes/ after aggressive removal (should be empty or non-existent):"
+          ls -al themes/ || echo "themes/ directory is gone or empty (expected)."
+
+          echo "--- Checking .gitmodules file ---"
+          cat .gitmodules || echo ".gitmodules not found (this is desired for Hugo Modules)."
+          echo "--- End .gitmodules check ---"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.127.0' # Or your desired version
+          hugo-version: '0.127.0'
           extended: true
 
       - name: Clean Hugo Modules Cache
-        run: hugo mod clean || true # Keep || true so it doesn't stop the workflow if it still hits the error.
+        run: hugo mod clean || true
 
-      # --- NEW STEP: Explicitly Get Congo Module ---
-      - name: Explicitly Get Congo Theme Module
-        run: hugo mod get github.com/jpanther/congo/v2
-        # This forces Hugo to download the module from the specified path.
+      - name: Explicitly Get Theme Module
+        # KEEP THIS AS ANANKE for now, until it works, then switch back to Congo
+        run: hugo mod get github.com/theNewDynamic/gohugo-theme-ananke/v2
 
       - name: Build site
-        run: hugo --minify --cleanDestinationDir # Keep theme commented out for now
+        # Keep 'theme = "ananke"' in config.toml for this test
+        run: hugo --minify --cleanDestinationDir
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -49,4 +53,3 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           force_orphan: true
-          
