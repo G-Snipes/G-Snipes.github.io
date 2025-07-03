@@ -6,20 +6,62 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jun 2025 19:13:16 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Connecticut</title>
-      <link>http://localhost:1313/tags/connecticut/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/connecticut/</guid>
+      <title>All the Flowers</title>
+      <link>http://localhost:1313/tags/all-the-flowers/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/all-the-flowers/</guid>
       <description></description>
     </item>
     <item>
       <title>Diy</title>
       <link>http://localhost:1313/tags/diy/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>http://localhost:1313/tags/interview/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Over Yonder</title>
+      <link>http://localhost:1313/tags/over-yonder/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/over-yonder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philly</title>
+      <link>http://localhost:1313/tags/philly/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skrillex</title>
+      <link>http://localhost:1313/tags/skrillex/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/skrillex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Connecticut</title>
+      <link>http://localhost:1313/tags/connecticut/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/connecticut/</guid>
       <description></description>
     </item>
     <item>
@@ -30,31 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Interview</title>
-      <link>http://localhost:1313/tags/interview/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interview/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Microgoblet</title>
       <link>http://localhost:1313/tags/microgoblet/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/microgoblet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philly</title>
-      <link>http://localhost:1313/tags/philly/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philly/</guid>
       <description></description>
     </item>
     <item>
@@ -289,24 +310,10 @@
       <description></description>
     </item>
     <item>
-      <title>All the Flowers</title>
-      <link>http://localhost:1313/tags/all-the-flowers/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/all-the-flowers/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mormon Toasterhead</title>
       <link>http://localhost:1313/tags/mormon-toasterhead/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mormon-toasterhead/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Over Yonder</title>
-      <link>http://localhost:1313/tags/over-yonder/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/over-yonder/</guid>
       <description></description>
     </item>
     <item>
