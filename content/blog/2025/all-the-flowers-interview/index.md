@@ -1,6 +1,6 @@
 ---
 author: Gary Snipes
-date: '2025-07-01'
+date: '2025-07-03'
 summary: |
   An absurdly admirable interview with All the Flowers. 
 tags: 
@@ -18,7 +18,7 @@ title: The All the Flowers Interview
 coverCaption: |
   Unable to hide their photogenic nature from the after show euphoria. 
 ---
-dd
+
 They've been playing the Philly diy circuit for quite a while now. You should know them by now, but if you don't that's okay because I decided to catch up with them after [Over Yonder](https://www.instagram.com/overyonder.phl/)'s penultimate house show. I'm talking of course about the Philly indie sing-along ensemble [All the Flowers](https://www.instagram.com/alltheflowersband/)! All the Flowers from left to right is comprised of Esther Joy Landis on violin, Ryan David Hankins on guitar, Riley Hall on vocals and guitar, and Patrick Joseph Sinisgalli on drums. Although its safe to say that Riley is the lead vocalist, ATF makes sure everyone's vocal chops are put on display in their music as well as their live performances.
 
 Also later on there is a special guest appearance and question for Over Yonder's sound tech [Ariel](https://www.instagram.com/shower_wrench/)!
