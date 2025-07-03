@@ -1,60 +1,45 @@
-# .github/workflows/gh-pages.yml
-
-name: GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main # Change this to your default branch (main or master)
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write # To push to gh-pages branch
+
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
-          submodules: true
-          fetch-depth: 0
+          # If your repository is private, you might need a token here
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Force clean repository
-        run: |
-          git clean -dfx # Removes all untracked files and directories
-          git reset --hard HEAD # Ensures working directory matches the last commit
+      # Initialize Hugo Modules if go.mod/module.toml exist
+      # This step handles downloading the theme
+      - name: Initialize Hugo Modules
+        run: hugo mod tidy
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.145.0"
+          hugo-version: '0.127.0' # Or your desired version, ensure it's >= Congo's min (0.87.0)
           extended: true
 
-      - name: Debug List theme contents
-        run: |
-          echo "Listing contents of 'themes/' directory:"
-          ls -alR themes/ # List all files and directories recursively
-          echo "--- Submodule Commit Hash on Runner ---"
-          cd themes/congo && git rev-parse HEAD && cd - || echo "Could not get submodule commit hash" # Make this non-failing
-          echo "--- End Submodule Commit Hash ---"
-          echo "Checking specific partial file:"
-          ls -l themes/congo/layouts/partials/functions/warnings.html || echo "warnings.html NOT found by direct check." # Changed message
-          echo "Permissions for themes/congo/layouts/partials/functions/:"
-          ls -ld themes/congo/layouts/partials/functions/ || echo "functions directory NOT found for permissions check by direct check." # Make non-failing
-          echo "Permissions for themes/congo/layouts/partials/:"
-          ls -ld themes/congo/layouts/partials/ || echo "partials directory NOT found for permissions check by direct check." # Make non-failing
-          echo "Permissions for themes/congo/layouts/:"
-          ls -ld themes/congo/layouts/
-          echo "--- Content of themes/congo/config/_default/module.toml ---"
-          cat themes/congo/config/_default/module.toml || echo "themes/congo/config/_default/module.toml not found"
-          echo "--- End module.toml content ---"
-      
-      - name: Build
-        run: hugo --minify --cleanDestinationDir
+      - name: Build site
+        run: hugo --minify --cleanDestinationDir # No --themesDir needed with modules
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
           publish_dir: ./public
+          # The branch your site will be published to (often gh-pages)
+          publish_branch: gh-pages
+          # User/email for the commit
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          force_orphan: true # Recommended for clean deploy
