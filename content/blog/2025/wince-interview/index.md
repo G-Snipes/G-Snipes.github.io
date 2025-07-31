@@ -452,3 +452,6 @@ ___
 ## Q12: Wait! What music you be listening to? 
 
 A lot of [Bartok](https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k). And [Shoshstakovich](https://en.wikipedia.org/wiki/Dmitri_Shostakovich). And [Ligeti](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti). And [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) hehehe.
+
+___
+If you liked this interview and you want to see more you can always help by buying me a [sexy ko-fi](https://ko-fi.com/gsnipe) ;)
