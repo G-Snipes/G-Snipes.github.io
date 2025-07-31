@@ -17,7 +17,7 @@ title: The Microgoblet Interview
 coverCaption: |
   In their natural state. Before Peter's second visitation that evening. 
 ---
-
+<audio controls src="microgoblet.m4a" style="width: 350px;"></audio>
 Below is my long conversation with the Philly/Connecticut diy trio [Microgoblet](https://www.instagram.com/microgoblet/). From my point of view this band seemed to pop up out of nowhere, bringing a unique and mysterious energy that I couldn’t quite put my tongue on. Instead of letting them become another victim of obscurity by my mind’s ideas, I decided to ask them for an interview. They politely agreed. So on a late weeknight evening after seeing a wonderful bill which was the [Walker Rider](https://www.instagram.com/walkerrider444/) show at *Abyssinia*, I made my way to their turf in West Philly to ask some questions, get some answers, and shoot the shit. Comprised of Luke Shroeder on bass (left), Adam Cohen on guitar and vocals (middle), and Myles Vincent on drums (right), Microgoblet let loose... in the chillest way possible. 
 
 _______

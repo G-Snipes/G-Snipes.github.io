@@ -20,6 +20,7 @@ title: An Interview & Conversation with Wince's Dave Hernandez.
 coverCaption: |
   We got Dave cheesin.
 ---
+Audio Interview: <audio controls src="Wince.m4a" style="width: 350px;"></audio>
 
 I traveled to Brooklyn and sat down with Dave from the one and only NYC noise assault team: [Wince](https://www.instagram.com/wincebandnyc/). Arriving with a guitar on his back and one of the most friendly and conversational attitudes I've ever seen, I knew we were going to get really into it. Dave noticed we had the same Casio watch. (It was almost the same watch.) It was a brief and effective nod to how the energy in the room felt like the stars had aligned to bring us together for this interview. The L train rumbled past the windows from [Jeb's](https://www.instagram.com/worldofjeb/) third floor bedroom which would suit as our studio for our linguistic adventure. 
 
