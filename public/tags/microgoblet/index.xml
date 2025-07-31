@@ -6,7 +6,7 @@
     <description>Recent content in Microgoblet on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Jul 2025 12:23:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 15:21:36 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/microgoblet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Interview &amp; Conversation with Wince&#39;s Dave Hernandez.</title>
@@ -16,10 +16,24 @@
       <description>A wickedly winsome interview with Wince&amp;rsquo;s David Hernandez.</description>
     </item>
     <item>
+      <title>An Interview &amp; Conversation with Wince&#39;s Dave Hernandez.</title>
+      <link>http://localhost:1313/interviews/2025/wince-interview/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/2025/wince-interview/</guid>
+      <description>A wickedly winsome interview with Wince&amp;rsquo;s David Hernandez.</description>
+    </item>
+    <item>
       <title>The Microgoblet Interview</title>
       <link>http://localhost:1313/blog/2025/microgoblet-interview/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2025/microgoblet-interview/</guid>
+      <description>An interesting inquisitive interview with Microgoblet.</description>
+    </item>
+    <item>
+      <title>The Microgoblet Interview</title>
+      <link>http://localhost:1313/interviews/2025/microgoblet-interview/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/2025/microgoblet-interview/</guid>
       <description>An interesting inquisitive interview with Microgoblet.</description>
     </item>
   </channel>

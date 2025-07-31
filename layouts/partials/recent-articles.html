@@ -1,0 +1,22 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{/* Optionally change the heading text to "Recent Interviews" */}}
+  <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+
+  {{/*
+    Original line (commented out or removed):
+    {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+  */}}
+
+  {{/*
+    New logic: Get recent interviews.
+    We'll get all pages in the 'interviews' section, sort them by date (newest first),
+    and then take the limit specified in .Site.Params.homepage.recentLimit.
+  */}}
+  {{ $limit := .Site.Params.homepage.recentLimit | default 3 }} {{/* Use the param or default to 3 if not set */}}
+  {{ $interviews := where .Site.RegularPages "Section" "interviews" }}
+  {{ $recentInterviews := $interviews.ByDate.Reverse }}
+
+  {{ range first $limit $recentInterviews }}
+    {{ partial "article-link.html" . }}
+  {{ end }}
+{{ end }}

@@ -6,13 +6,20 @@
     <description>Recent content in Over Yonder on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jul 2025 15:06:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 12:59:48 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/over-yonder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The AlltheFlowers Interview</title>
       <link>http://localhost:1313/blog/2025/all-the-flowers-interview/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2025/all-the-flowers-interview/</guid>
+      <description>An absurdly admirable interview with AlltheFlowers.</description>
+    </item>
+    <item>
+      <title>The AlltheFlowers Interview</title>
+      <link>http://localhost:1313/interviews/2025/all-the-flowers-interview/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/2025/all-the-flowers-interview/</guid>
       <description>An absurdly admirable interview with AlltheFlowers.</description>
     </item>
     <item>

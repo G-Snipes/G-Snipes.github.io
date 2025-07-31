@@ -14,7 +14,7 @@
 [[main]]
   name = "Discord"
   url = "https://discord.com/invite/RG4xVUKs"
-  weight = 5
+  weight = 6
   [main.params]
     icon = "discord"
     showName = false
@@ -23,7 +23,7 @@
  [[main]]
   name = "YouTube"
   url = "https://www.youtube.com/channel/UCeSCs3awP_eWH0TwvqH4j9Q"
-  weight = 4
+  weight = 5
   [main.params]
     icon = "youtube"
     showName = false
@@ -32,17 +32,22 @@
 [[main]]
   name = "Services"
   pageRef = "services"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Blog"
   pageRef = "blog"
+  weight = 2
+
+[[main]]
+  name = "Interviews"
+  pageRef = "interviews"
   weight = 1
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = ""
