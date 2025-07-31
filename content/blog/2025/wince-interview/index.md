@@ -72,7 +72,9 @@ ___
 
 Thou, who shall not be named... No, I'm joking. [Ryan Palmer](https://www.instagram.com/irishexitmusic/), [Kyra Horario](https://www.instagram.com/kyrahorario/), and [Wil Ren](https://www.instagram.com/willlren/) do not have the pleasure of coming here tonight. God bless. I will vouch for them or speak for them as much as I can. They're in a recording session right now...
 
-### So do all you guys come from New York? 
+___
+
+## Q3: So do all you guys come from New York? 
 
 Yeah, actually. So I met Ryan in high school and we played musicals together, and Kyra went to another high school kind of north of ours, and I asked her to join. We had like a rotating bassist situation. I asked her to join, and she's from Queens, but Wil was actually from Pennsylvania. He's from Pittsburgh. But he lives the New York experience pretty hard. I'll tell you that. 
 
@@ -80,7 +82,7 @@ Yeah, actually. So I met Ryan in high school and we played musicals together, an
 
 ___
 
-## Q3: How did Wince form? 
+## Q4: How did Wince form? 
 
 So Ryan and I were in a bunch of different bands when we were teenagers and then COVID happened. So about every band that was in that scene, like broke up... So I kind of started going to music school and I was kind of like, "Oh man, like I really want to be able to write a bunch of music and rehearse it for, like, months because we have the time to get tighter and everything." So I was just trying to kind of write a bunch of music and work on a new project. I do write all the parts and all the music and everyone kind of interprets it in their own way, but Ryan and I were meeting up. He is one of the best drummers I know, and I have a lot of experience playing in a band with him or adjacent bands and we kind of just met up and were jamming and like practicing songs and then when COVID started we started rehearsing and recording demos. So that's pretty much how it started. It was a kind of a COVID project. We were all like, so depressed.
 
@@ -110,7 +112,9 @@ Yeah, the three-piece days. Those are the most cursed.
 
 **Why?**
 
-### Why the three-piece days were cursed.
+___
+
+### Why the three-piece days were cursed:
 
 I think one of the most cursed three-piece shows... It was just one of those things where when you're in a band with less people there's less confirmation. If you're in a band with one person, like a two-piece you can kind of be like, "Yo, you want to do this crazy gig tomorrow?" And it'd be like, "Yeah." So there's more people you have to check in with to see if they're available. So as a three-piece coming out of COVID, still in school, we were always playing the most cursed shows. Maybe the most cursed one I could say was umm... It's by the graveyard at the end of Bushwick, kind of bordering Brownsville and Bushwick. It was by this venue called [Purgatory](https://www.instagram.com/purgatory.bk/), and it was the week of Halloween 2022, and it was in a railroad tunnel. Literally. Everyone was like, "Yeah come play a show. Like, we'll bring all the amps and generators and it's going to be in the train tunnel."
 
@@ -146,7 +150,7 @@ ___
 
 **All right. Speaking of shows...**
 
-## Q4: We actually played a show together a while ago at the Cosmic Arts Studio. How did you guys get that gig? 
+## Q5: We actually played a show together a while ago at the Cosmic Arts Studio. How did you guys get that gig? 
 
 (*The L rumbles by...*)
 
@@ -170,7 +174,9 @@ We literally got those new boards on the way there. It was like $40 for two peda
 
 **Speaking of that...**
 
-### You just posted a photo from that show, from that green room with your pedal board because it got stolen?
+___
+
+### You just posted a photo from that show, from that green room with your pedal board because it got stolen...
 
 ![](pedal.png)
 
@@ -208,7 +214,7 @@ I appreciate it.
 
 ___
 
-## Q5: Where does the energy come for your music and specifically your album: [To Be a Fly in the Rain?](https://wincebandnyc.bandcamp.com/album/to-be-a-fly-in-the-rain)
+## Q6: Where does the energy come for your music and specifically your album: [To Be a Fly in the Rain?](https://wincebandnyc.bandcamp.com/album/to-be-a-fly-in-the-rain)
 
 I was in another band called [Big Pity](https://www.instagram.com/bigpity.uwu/?hl=en) from end of high school up until I was like 19. We were working on recording a couple singles and then COVID happened. So some of the songs were never recorded and I was studying classical music at Brooklyn College via Zoom and I was learning a lot of different new concepts of music and theory and harmony. And I was being exposed to a lot of new music, so I was kind of like, "Wow, I have the time to really sit in isolation and really care and put a lot of time into this thing." I wrote all these songs and it took a long time. [Sleepy](https://wincebandnyc.bandcamp.com/track/sleepy-2) was like the first song on the album...
 
@@ -221,7 +227,9 @@ You know, it took like two years.
 
 Oh, thank you. It's not because of that. It's because I'm really slow at working on music hehe. I was never the kind of person who's like, "Oh, I'm really fast at this." I have friends who could write songs with lyrics and the whole vocal melody in one day. It takes a long ass time because I'm just like a very slow writer. 
 
-### You write all the lyrics and all the music, right? 
+___
+
+## Q7: You write all the lyrics and all the music, right? 
 
 The whole thing, except for the drums, essentially. It's actually written on sheet music. Everything. It was like the only way to really make it work because I think everyone in the band would really hate me if I asked them to write the parts to my guitar part. It'd be like, "What what the hell am I supposed to do with this?" But it's just something about visually seeing it on paper. It really makes it less muddy and jumbled. It's very easy to get kind of lost. It was kind of a necessity. I don't know.
 
@@ -267,7 +275,7 @@ I always love seeing a band where I hear the recording and maybe the recording i
 
 ___
 
-## Q6: What could we expect for upcoming Wince releases?
+## Q8: What could we expect for upcoming Wince releases?
 
 Actually, this might be the first reveal of it ever. So I'm gonna just say it in this interview for people reading it.
 
@@ -279,7 +287,7 @@ It's probably production-wise going to sound exactly the same just different son
 
 ___
 
-## Q7: Are you guys going to be playing another tour sometime soon?
+## Q9: Are you guys going to be playing another tour sometime soon?
 
  Um, we were planning something in the fall... I don't really know what's going on with that. I think more than anything we want to really focus on recording and getting new music out before touring because we spent a lot of time playing shows for the last two weeks trying to support the album that we can't really do justice to it if we're playing so much, you know? I really want to give the album the time it deserves. The respect to the people who are listening to it. We want to make sure that it's  presentable for listeners. I felt like the first album was definitely very rushed in that process. It was kind of like, "Let's get this out as soon as possible." This one, I think we're gonna take our time, but we're hoping to aim for end of summer 2026. So, like, in a year. But maybe some singles before then, a couple singles. It's like penis music. 
  
@@ -299,13 +307,13 @@ Like, if you listen to the songs and you come out you're going to be like, "Fuck
 
 ___
 
-## Q8: What could one expect at a Wince rehearsal? 
+## Q10: What could one expect at a Wince rehearsal? 
 
 A lot of Diet Coke. A lot of a lot of farting. 120 decibels. And a lot of burritos. But also, earplugs... is what you could expect. A lot of banter. 
 
 ___
 
-## Q9: How was the Wiring release show? 
+## Q11: How was the Wiring release show? 
 
 **I saw some good bands on that bill.**
 
@@ -319,13 +327,13 @@ And the AC was broken and it was so hot and stinky, but it didn't matter. It was
 
 ___
 
-## Q10: How was Philly Porch Fest? What are some of your favorite Philly bands? 
+## Q12: How was Philly Porch Fest? What are some of your favorite Philly bands? 
 
 Okay, so [Porch Fest](https://www.instagram.com/westphillyporchfest/) almost did not happen, and it was mostly me who was delaying it because I didn't want to go. I thought all our equipment was going to get rained on because they didn't say they had a tent, but we showed up and we played and it was like one of the best shows we've ever played.
 
 ____
 
-### Smelling sidestory
+### Smelling sidestory:
 
 **Jeb:** *(opens door)* You smell good. Just wanted to say that. *(closes door)*
 
@@ -422,7 +430,9 @@ Yes. That's all I know.
 
 Ohhh, okay, wow. That's crazy. I didn't know both were in. I didn't know Paul. 
 
-### Do you want to shout out Lahnah?
+___
+
+## Q13: Do you want to shout out Lahnah?
 
 Yes. My favorite band, and Philly band of all time is [Lahnah](https://www.instagram.com/lahnahband/). They are crazy. I really want to shout out Thomas's [painting Lois daily](https://www.instagram.com/painting_lois_daily/) instagram account. He's a huge inspiration, and he actually ended up coming to that second show and painting a Lois painting of Master Chief sitting on Lois's lap on a bench that he was sitting on, and he was wearing a leather jacket with a Lois on it that he painted himself. Hehehe!
 
@@ -434,7 +444,7 @@ And it was great. They were fantastic. We want to play with you, Thomas and Ashe
 
 ___
 
-## Q11: Do you have any last words, maybe about NYC? 
+## Q14: Do you have any last words, maybe about NYC? 
 
 Uh.. Let me pick my words carefully hahaha. 
 
@@ -449,7 +459,7 @@ Raw! Hahaha. No douche.
 ![](last.jpg)
 ___
 
-## Q12: Wait! What music you be listening to? 
+## Q15: Wait! What music you be listening to? 
 
 A lot of [Bartok](https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k). And [Shoshstakovich](https://en.wikipedia.org/wiki/Dmitri_Shostakovich). And [Ligeti](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti). And [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) hehehe.
 
