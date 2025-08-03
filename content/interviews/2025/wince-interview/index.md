@@ -16,7 +16,7 @@ tags:
   - Penis Music
   - Diy
   - Cosmic Arts Studio
-title: An Interview & Conversation with Wince's Dave Hernandez.
+title: An Interview & Conversation with Wince's Dave Hernandez
 coverCaption: |
   We got Dave cheesin.
 ---
