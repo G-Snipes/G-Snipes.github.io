@@ -18,6 +18,8 @@ title: The AlltheFlowers Interview
 coverCaption: |
   Unable to hide their photogenic nature from the after show euphoria. 
 ---
+
+Interviewed on 6.28.25
 <audio controls src="atf.m4a" style="width: 350px;"></audio>
 
 ___

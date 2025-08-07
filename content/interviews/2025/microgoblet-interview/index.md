@@ -17,6 +17,8 @@ title: The Microgoblet Interview
 coverCaption: |
   In their natural state. Before Peter's second visitation that evening. 
 ---
+
+Interviewed on 6.4.25
 <audio controls src="microgoblet.m4a" style="width: 350px;"></audio>
 
 ___

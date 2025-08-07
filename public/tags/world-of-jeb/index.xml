@@ -9,7 +9,14 @@
     <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/world-of-jeb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An interview with Jeb McCormick. (@worldofjeb)</title>
+      <title>The interview of Jeb (@worldofjeb)</title>
+      <link>http://localhost:1313/hidden/2025/world-of-jeb-interview/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/2025/world-of-jeb-interview/</guid>
+      <description>A journey inside world of Jeb&amp;rsquo;s inner world of Jeb.</description>
+    </item>
+    <item>
+      <title>The interview of Jeb (@worldofjeb)</title>
       <link>http://localhost:1313/interviews/2025/world-of-jeb-interview/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/interviews/2025/world-of-jeb-interview/</guid>

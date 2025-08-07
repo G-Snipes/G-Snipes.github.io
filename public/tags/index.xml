@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Jul 2025 16:31:39 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 15:53:35 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brooklyn</title>
@@ -100,10 +100,45 @@
       <description></description>
     </item>
     <item>
+      <title>Ari Aster</title>
+      <link>http://localhost:1313/tags/ari-aster/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ari-aster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>David Lynch</title>
+      <link>http://localhost:1313/tags/david-lynch/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/david-lynch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/tags/film/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Jeb</title>
       <link>http://localhost:1313/tags/jeb/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/jeb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modest Mouse</title>
+      <link>http://localhost:1313/tags/modest-mouse/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modest-mouse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>http://localhost:1313/tags/social-media/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/social-media/</guid>
       <description></description>
     </item>
     <item>

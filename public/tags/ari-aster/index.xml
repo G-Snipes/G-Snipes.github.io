@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ari Aster on </title>
+    <link>http://localhost:1313/tags/ari-aster/</link>
+    <description>Recent content in Ari Aster on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ari-aster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The interview of Jeb (@worldofjeb)</title>
+      <link>http://localhost:1313/hidden/2025/world-of-jeb-interview/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/2025/world-of-jeb-interview/</guid>
+      <description>A journey inside world of Jeb&amp;rsquo;s inner world of Jeb.</description>
+    </item>
+    <item>
+      <title>The interview of Jeb (@worldofjeb)</title>
+      <link>http://localhost:1313/interviews/2025/world-of-jeb-interview/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/2025/world-of-jeb-interview/</guid>
+      <description>A journey inside world of Jeb&amp;rsquo;s inner world of Jeb.</description>
+    </item>
+  </channel>
+</rss>
