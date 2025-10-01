@@ -23,7 +23,6 @@ title = ""
   bio = "I make stuff."
   links = [
   #   { email = "gsnipe721@gmail.com" },
-      { link = "https://bsky.app/profile/g-snipe.bsky.social" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -39,6 +38,7 @@ title = ""
   #   { hashnode = "https://username.hashnode.dev" },
       { youtube = "https://www.youtube.com/@g_snipe?sub_confirmation=1" },
       { instagram = "https://www.instagram.com/g_snipe_/" },
+      { bluesky = "https://bsky.app/profile/g-snipe.bsky.social" },
       { discord = "https://discord.gg/7a6X2Ffn" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
