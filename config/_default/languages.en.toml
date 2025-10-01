@@ -23,7 +23,7 @@ title = ""
   bio = "I make stuff."
   links = [
   #   { email = "gsnipe721@gmail.com" },
-  #   { link = "https://link-to-some-website.com/" },
+      { link = "https://bsky.app/profile/g-snipe.bsky.social" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -37,9 +37,8 @@ title = ""
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-      { soundcloud = "https://soundcloud.com/gary-snipes-911910897" },
-      { instagram = "https://www.instagram.com/g_snipe_/" },
       { youtube = "https://www.youtube.com/@g_snipe?sub_confirmation=1" },
+      { instagram = "https://www.instagram.com/g_snipe_/" },
       { discord = "https://discord.gg/7a6X2Ffn" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
@@ -63,7 +62,8 @@ title = ""
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
       { kofi = "https://ko-fi.com/gsnipe" },
-      { linkedin = "https://www.linkedin.com/in/gary-snipes-07b6821b9/" },
-      { github = "https://github.com/G-Snipes" },
-      { x-twitter = "https://x.com/GSnipe_" },
+  #   { linkedin = "https://www.linkedin.com/in/gary-snipes-07b6821b9/" },
+  #   { soundcloud = "https://soundcloud.com/gary-snipes-911910897" },
+  #   { github = "https://github.com/G-Snipes" },
+  #   { x-twitter = "https://x.com/GSnipe_" },
   ]
