@@ -1,6 +1,6 @@
 ---
 author: Gary Snipes
-date: '2025-07-29'
+date: '2025-10-01'
 summary: |
   A journey inside world of Jeb's inner world of Jeb. 
 tags: 
