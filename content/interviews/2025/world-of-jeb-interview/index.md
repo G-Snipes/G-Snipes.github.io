@@ -236,7 +236,7 @@ ___
 
 I think uh, this sounds cliché, I think but:
 
-> 'really, really, really, truly, like, just be be yourself with it.' 
+> 'Really, really, really, truly, like, just be be yourself with it.' 
 
 Be yourself and don't have any holdbacks or regrets. You can definitely have regrets, but certainly go for it. Do all you can. Like, I just planned to move to New York, I moved to New York. I made a film, I forced myself to make a film. I didn't force, I loved it, but it's really hard. That's the one thing. It's just so hard. And there's so much love into it, and it's like, you don't see the fruits of your labors for a while. So that roots out anyone who's not doing it for the love of it. 
 
