@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diy on </title>
-    <link>http://localhost:1313/tags/diy/</link>
+    <link>http://localhost:63152/tags/diy/</link>
     <description>Recent content in Diy on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Aug 2025 20:56:48 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63152/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Interview &amp; Conversation with Wince&#39;s Dave Hernandez</title>
-      <link>http://localhost:1313/interviews/2025/wince-interview/</link>
+      <link>http://localhost:63152/interviews/2025/wince-interview/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/2025/wince-interview/</guid>
+      <guid>http://localhost:63152/interviews/2025/wince-interview/</guid>
       <description>A wickedly winsome interview with Wince&amp;rsquo;s David Hernandez.</description>
     </item>
     <item>
       <title>The AlltheFlowers Interview</title>
-      <link>http://localhost:1313/interviews/2025/all-the-flowers-interview/</link>
+      <link>http://localhost:63152/interviews/2025/all-the-flowers-interview/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/2025/all-the-flowers-interview/</guid>
+      <guid>http://localhost:63152/interviews/2025/all-the-flowers-interview/</guid>
       <description>An absurdly admirable interview with AlltheFlowers.</description>
     </item>
     <item>
       <title>The Microgoblet Interview</title>
-      <link>http://localhost:1313/interviews/2025/microgoblet-interview/</link>
+      <link>http://localhost:63152/interviews/2025/microgoblet-interview/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/2025/microgoblet-interview/</guid>
+      <guid>http://localhost:63152/interviews/2025/microgoblet-interview/</guid>
       <description>An interesting inquisitive interview with Microgoblet.</description>
     </item>
   </channel>
