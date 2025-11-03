@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milly on </title>
-    <link>http://localhost:63152/tags/milly/</link>
+    <link>http://localhost:1313/tags/milly/</link>
     <description>Recent content in Milly on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 17:21:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63152/tags/milly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/milly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Thursday Friday &amp; Ephiphanies</title>
-      <link>http://localhost:63152/blog/2024/thursday-friday/</link>
+      <link>http://localhost:1313/blog/2024/thursday-friday/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63152/blog/2024/thursday-friday/</guid>
+      <guid>http://localhost:1313/blog/2024/thursday-friday/</guid>
       <description>Two epiphanies come together to make me stop and realize I&amp;rsquo;m not going to be that entrepreneur-bro-sigma-male-grindset.</description>
     </item>
   </channel>

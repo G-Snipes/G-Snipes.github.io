@@ -32,7 +32,7 @@
 [[main]]
   name = "Video Services"
   pageRef = "services"
-  weight = 2
+  weight = 1
 
 [[main]]
   name = "Blog"
@@ -42,7 +42,7 @@
 [[main]]
   name = "Interviews"
   pageRef = "interviews"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Contact"
