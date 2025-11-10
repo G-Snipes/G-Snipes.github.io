@@ -6,8 +6,22 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 22:37:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dreams</title>
+      <link>http://localhost:1313/tags/dreams/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dreams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Title Fight</title>
+      <link>http://localhost:1313/tags/title-fight/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/title-fight/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Alex G</title>
       <link>http://localhost:1313/tags/alex-g/</link>
@@ -622,13 +636,6 @@
       <link>http://localhost:1313/tags/teethe/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/teethe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Title Fight</title>
-      <link>http://localhost:1313/tags/title-fight/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/title-fight/</guid>
       <description></description>
     </item>
     <item>

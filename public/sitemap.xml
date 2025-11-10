@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>http://localhost:1313/blog/</loc>
+            <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.6</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/blog/2025/earth-is-a-human-zoo-and-im-sad/</loc>
+            <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.6</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -19,8 +43,6 @@
             <changefreq>daily</changefreq>
             <priority>0.6</priority>
           </url>
-    
-  
     
   
     
@@ -106,15 +128,6 @@
       <url>
             <loc>http://localhost:1313/interviews/2025/microgoblet-interview/</loc>
             <lastmod>2025-08-06T20:56:48-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.6</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/blog/</loc>
-            <lastmod>2025-06-18T19:13:16-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.6</priority>
           </url>
@@ -320,8 +333,6 @@
             <changefreq>daily</changefreq>
             <priority>0.6</priority>
           </url>
-    
-  
     
   
     
