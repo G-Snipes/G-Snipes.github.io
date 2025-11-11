@@ -18,7 +18,7 @@ title = ""
 
 [params.author]
   name = "Gary Snipes"
-  image = "img/mainphoto.png"
+  image = "img/mainphoto.jpg"
   headline = "Artist"
   bio = "I make stuff."
   links = [
