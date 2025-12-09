@@ -1,8 +1,8 @@
 ---
 author: Gary Snipes
-date: '2025-12-05'
+date: '2025-12-08'
 summary: |
-  (FINISH LATER)
+  For being static, these guys delievered a stellarly supercharged interview.
 tags: 
   - Static Brian
   - Music

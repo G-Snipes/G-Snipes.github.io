@@ -6,8 +6,15 @@
     <description>Recent content in Interviews on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 22:37:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Static Brian Interview</title>
+      <link>http://localhost:1313/interviews/2025/static-brian-interview/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/2025/static-brian-interview/</guid>
+      <description>For being static, these guys delievered a stellarly supercharged interview.</description>
+    </item>
     <item>
       <title>The interview of Jeb (@worldofjeb)</title>
       <link>http://localhost:1313/interviews/2025/world-of-jeb-interview/</link>
