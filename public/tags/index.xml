@@ -6,8 +6,36 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Nov 2025 13:49:32 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NYC</title>
+      <link>http://localhost:1313/tags/nyc/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nyc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philly</title>
+      <link>http://localhost:1313/tags/philly/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Brian</title>
+      <link>http://localhost:1313/tags/static-brian/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/static-brian/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dreams</title>
       <link>http://localhost:1313/tags/dreams/</link>
@@ -69,27 +97,6 @@
       <link>http://localhost:1313/tags/modest-mouse/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/modest-mouse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NYC</title>
-      <link>http://localhost:1313/tags/nyc/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nyc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philly</title>
-      <link>http://localhost:1313/tags/philly/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philly/</guid>
       <description></description>
     </item>
     <item>
