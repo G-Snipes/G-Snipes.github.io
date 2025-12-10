@@ -62,17 +62,9 @@ ___
 
 **Jasmine:** No comment!
 
-**Brandon:** And that was like the 1st one you pulled up to, it was like, fuck, like... Because I feel like I saw you after the [dimmer](https://www.instagram.com/dimmer.phl/) show at Page. I was like, "Yo, we got a show in like a month you should definitely pull up.  
+**Brandon:** And that was like the 1st one you pulled up to, it was like, fuck, like... Because I feel like I saw you after the [dimmer](https://www.instagram.com/dimmer.phl/) show at Page. I was like, "Yo, we got a show in like a month you should definitely pull up and... 
 
-**Aidan:** Definitely not the vibe. 
-
-**Brandon:** Unfortunately, you did pull up and that was... 
-
-**Jasmine:** **laughing*
-
-**Wait Aidan what you say about it?**
-
-**Aidan:** Oh, no, I mean, it was just a weird place, man. It's definitely like... it's one of those things where you just kind of doing whatever show you can get. Because I think we just recorded our fucking, you know, EP that time. Wasn't it out?
+**Aidan:** It's definitely like... it's one of those things where you just kind of doing whatever show you can get. Because I think we just recorded our fucking, you know, EP that time. Wasn't it out?
 
 **Anwar:** No, that was way before we recorded anything. 
 
@@ -82,7 +74,7 @@ ___
 
 **Aidan:** Oh damn. Oh, never mind. Never mind. 
 
-**Well, that's not usually, I usually start off with this question, okay?**
+**That's not usually..., I usually start off with this question, okay?**
 
 ___
 
