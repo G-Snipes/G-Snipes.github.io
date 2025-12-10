@@ -17,7 +17,7 @@ Interviewed on 11.29.25
 <audio controls src="staticbrian.m4a" style="width: 350px;"></audio>
 
 ___
-The holidays ended and I left my hometown at 7 in the morning because I had a 2 hour drive back to Philly to scoop up Anwar and Aidan and than a drive straight to the gig in NYC. In NYC, where Brooklyn meets Queens was this eclectic screaming monster of a bill held at the [Stone Circle Theatre](https://www.instagram.com/sctrpc/?hl=en) and presented by [Persephone Rises](https://www.instagram.com/persephone.rises.diy/?hl=en&g=5). Before the gig, [Static Brian](https://www.instagram.com/staticbr1an/?hl=en) and I sat down nice and cozy outside in a running car on quiet street so I may extract the information I and others might desire to know. 
+The holidays ended and I left my hometown at 7 in the morning because I had a 2-hour drive back to Philly to scoop up Anwar and Aidan and then a drive straight to the gig in NYC. In NYC, where Brooklyn meets Queens was this eclectic screaming monster of a bill held at the [Stone Circle Theatre](https://www.instagram.com/sctrpc/?hl=en) and presented by [Persephone Rises](https://www.instagram.com/persephone.rises.diy/?hl=en&g=5). Before the gig, [Static Brian](https://www.instagram.com/staticbr1an/?hl=en) and I sat down nice and cozy outside in a running car on quiet street, so I may extract the information I and others might desire to know. 
 
 ![](flyer.png)
 
@@ -42,7 +42,7 @@ ___
 
 **What's up, Bratic Stian?** 
 
-**Aidan:** What up? 
+**Aidan:** What uppp? 
 
 **Jasmine:** Boyyyyyyyy, what the hell, boy? 
 
@@ -80,10 +80,11 @@ ___
 
 ## Q1: What's your name? What do you play, and what's your musical background? 
 
-**Jasmine:** Um, my name is Jasmine. I play guitar and vocals as well. I haven't really been playing guitar that much. But I've been playing piano since I was 5 and then I went to a music school for like 4 years. I've played so many different instruments. I started playing guitar in 2020. I actually initially wanted to be a drummer. I was telling Jason that today. I initially wanted to be a drummer, so I would go to the band room during lunch and, like, try and drum by myself. It was so bad. I gave up.
+**Jasmine:** Um, my name is Jasmine. I play guitar and vocals as well. I haven't really been playing guitar that much. But I've been playing piano since I was 5, and then I went to a music school for like 4 years. I've played so many different instruments. I started playing guitar in 2020, and I actually initially wanted to be a drummer. I was telling Jason that today. I initially wanted to be a drummer, so I would go to the band room during lunch and, like, try and drum by myself. It was so bad. I gave up.
+
 **I feel that.**
 
-**Jasmine:** Hehe and I play guitar. So yeah, that's my musical background.
+**Jasmine:** Hehe, and I play guitar. So yeah, that's my musical background.
 
 **Brandon:** Uh, my name's Brandon. I play bass for Static Brian, and sometimes back up vocals now. And a little bit of guitar, hopefully, soon. And my background is primarily in saxophone. Like I started playing saxophone in band when I was 9, and then did band and marching band, and that's how I met Aidan in middle school. Transitioned to bass in high school. And then I've kind of only been playing bass ever since. And, oh, I wanna play guitar, and I have a drum set, and I've been kind of grinding on drums, because Aidan's really inspiring. Try and play some drums, you know, trying to do it all. 
 
@@ -91,17 +92,17 @@ ___
 
 **Jasmine:** I love Bjork. (*<- I thinks that's what was said.*)
 
-**Anwar:** My name is Anwar. I play guitar and do backup vocals sometimes. Not that much anymore, but I..., my music background is... I actually sang in the choir in like elementary school, and then I played drums through middle and like early high school, like percussion and band and orchestra from my school. Then I stopped early high school. I stopped everything for a while and then I picked up guitar my senior year of high school after quarantine. And, yeah.
+**Anwar:** My name is Anwar. I play guitar and do backup vocals sometimes. Not that much anymore, but I..., my music background is... I actually sang in the choir in like elementary school, and then I played drums through middle and like early high school, like percussion and band and orchestra from my school. Then I stopped early high school. I stopped everything for a while, and then I picked up guitar my senior year of high school after quarantine. And, yeah.
 
 **Aidan:** So mine is a little bit less interesting. I didn't do a lot of jumps.
 
-**Jasmine:** **whispering*: Who are you though? 
+**Jasmine:** **whispering* 'Who are you though?' 
 
 **Aidan:** Oh, sorry, Aiden, I'm the drummer. 
 
 **All:** **Chuckling*
 
-**Aidan:** I forgot about the 1st question. Um, I've been drumming since I was like in the 4th grade, so I've been in different circles regarding drumming. So like marching band, drum line, jazz band, you know, symphonic bands. So I've been a percussionist for like, yeah, over 10 years. I got into drum so when I was in 5th grade, just doing like private lessons and just wanted to be in the jazz band. That how I met Brandon too. It was like in the middle school Jazz band kind of thing. And then I took a break from drum set, and I actually really focused on doing drum corps for a couple years because I was really into playing snare and just doing that kind of stuff. Then I stopped doing that to prioritize being in a band, and that's why I'm here. And so I'm pretty happy about it! 
+**Aidan:** I forgot about the 1st question. Um, I've been drumming since I was like in the 4th grade, so I've been in different circles regarding drumming. So like marching band, drum line, jazz band, you know, symphonic bands. So I've been a percussionist for like, yeah, over 10 years. I got into drums when I was in 5th grade, just doing private lessons and just wanted to be in the jazz band. That's how I met Brandon too. It was like in the middle school Jazz band kind of thing. And then I took a break from drum set, and I actually really focused on doing drum corps for a couple of years because I was really into playing snare and just doing that kind of stuff. Then I stopped doing that to prioritize being in a band, and that's why I'm here. And so I'm pretty happy about it! 
 
 **Word up.**
 
@@ -111,11 +112,11 @@ ___
 
 **Brandon:** Uh... 
 
-**Aidan:** Okay so I'm kind of the middleman in this, where you know... I met Brandon in middle school. We've been jamming for like a couple years. Just like drum set. That's when he started getting into bass and guitar, and so we would jam a little bit. And then in 2020, I met Jasmine through Brandon and it was funny because we used to play outside during quarantine, so we'd be like socially distanced. We're all playing outside in my backyard. My parents were super down for it. So I brought my kit out and then we would kind of just dick around honestly. And then a couple years later I'm at Temple now, and I met Anwar when was a freshman, and then we moved, you know, moved in together. Then sophomore year, we formed [80hd](https://www.instagram.com/80hd.dh08/), our 1st band with like all of our roommates. It was like a 6 person band.
+**Aidan:** Okay, so I'm kind of the middleman in this, where you know... I met Brandon in middle school. We've been jamming for like a couple of years. Just like drum set. That's when he started getting into bass and guitar, and so we would jam a little bit. And then in 2020, I met Jasmine through Brandon, and it was funny because we used to play outside during quarantine, so we'd be like socially distanced. We're all playing outside in my backyard. My parents were super down for it. So I brought my kit out, and then we would kind of just dick around, honestly. And then a couple years later I'm at Temple now, and I met Anwar when was a freshman, and then we moved, you know, moved in together. Then sophomore year, we formed [80hd](https://www.instagram.com/80hd.dh08/), our 1st band with like all of our roommates. It was like a 6-person band.
 
 **I remember.** 
 
-**Aidan:** So we had a couple shows there, it was cool. So I've already been playing with Anwar for like a year at that point. And then Jasmine had a birthday party and she had someone originally play during her birthday party but then they had the drop or something. And then she was like, "Uh, can anyone come in to jam?" And so Brandon and I, wanted to do it, and I asked Anwar, and he was like, "I'm fucking down." He didn't even know Jasmine at that point. So it was cool where we just kind of fucked around during her birthday party and then Jasmine came up and started to sing and stuff. I don't know, just like, we have good vibes within the band. So I feel like that's why we kind of just started from there and kind of never stopped. You know what I mean? 
+**Aidan:** So we had a couple shows there, it was cool. So I've already been playing with Anwar for like a year at that point. And then Jasmine had a birthday party, and she had someone originally play during her birthday party, but then they had to drop or something. And then she was like, "Uh, can anyone come in to jam?" And so Brandon and I, wanted to do it, and I asked Anwar, and he was like, "I'm fucking down." He didn't even know Jasmine at that point. So it was cool where we just kind of fucked around during her birthday party and then Jasmine came up and started to sing and stuff. I don't know, just like, we have good vibes within the band. So I feel like that's why we kind of just started from there and kind of never stopped. You know what I mean? 
 
 **Cool. Well said.**
 
@@ -129,9 +130,10 @@ ___
 ___
 
 **So you guys have amassed a lot of followers on social media very quickly. I'm wondering if this has changed or affected things in the band dynamics and going forward?**
+
 ## Q3: Has the growing social media following changed or affected things in the band dynamics and going forward?
 
-**Jasmine:** I think the only time that it's ever, like, affected things is when we actually were getting shat on on TikTok, and that's when we were, like, "All right, we gotta figure out how we're gonna go about this."
+**Jasmine:** I think the only time that it's ever, like, affected things is when we actually were getting shat on, on TikTok, and that's when we were like, "All right, we gotta figure out how we're gonna go about this."
 
 **Yeah, tell me what happened on your TikTok!**
 
@@ -181,9 +183,9 @@ ___
 
 **Jasmine:** I mean, you got to take every opportunity. That's one thing I'm definitely like I push about. I always have. I've always been like, every opportunity we get we got to really make it the absolute best. And I think us working so hard on each opportunity that we've received is the reason that we are on the route that we are with things with the van. So, yeah. 
 
-**Anwar:** Also, like, one interesting thing about us like blowing up so much on social media specifically, like Instagram, is it's happening so quickly that it's not translating over to Spotify as much. So that's something that I'm trying to figure out. You know, people fuck with us, you know? I just gotta get them to move over. 
+**Anwar:** Also, like, one interesting thing about us blowing up so much on social media specifically, like Instagram, is it's happening so quickly that it's not translating over to Spotify as much. So that's something that I'm trying to figure out. You know, people fuck with us, you know? I just gotta get them to move over. 
 
-**Jasmine:**Yeah. 
+**Jasmine:** sYeah. 
 
 **Yeah, I know what you mean.**
 
@@ -195,7 +197,7 @@ ___
 
 **Brandon:** That we're posting, and that's the pull. 
 
-**Anware:** I'm not posting music that isn't out yet right now.
+**Anwar:** I'm not posting music that isn't out yet right now.
 
 **Jasmine:** I think the mixes that we have for our last project, like the sound doesn't really match the vibe that we're putting out now on social media.
 
@@ -223,11 +225,11 @@ ___
 
 **Yeah.** 
 
-**Jasmine:** So yeah, we've been mixing it at our place. Last time Aden and Ally mixed it. And it was great. They just you know they don't have the exact idea of what we're going for because they don't really listen to the type of shit that we make. Um, but me and Jason, obviously, I'm making it, so I know what I'm going for. And Jason is emo as fuck, so it's definitely gonna sound different. We're adding a lot more electronic elements to it too.
+**Jasmine:** So yeah, we've been mixing it at our place. Last time Aden and [Aly](https://www.instagram.com/alyson.witt/) mixed it. And it was great. They just you know they don't have the exact idea of what we're going for because they don't really listen to the type of shit that we make. Um, but me and Jason, obviously, I'm making it, so I know what I'm going for. And Jason is emo as fuck, so it's definitely gonna sound different. We're adding a lot more electronic elements to it too.
 
 **Oh, cool.**
 
-**Jasmine:** Everything, everything, we have this, like, reverse snare in one of the parts. It's like, "*shyuuugttttt*" And then it, like, goes into the song. And then in Secrets, you can hear like a synth in the background, which is a lot different from our first project. Our 1st project was a lot more indie, and like softer. 
+**Jasmine:** Everything, everything, we have this, like, reverse snare in one of the parts. It's like, "*shyuuugttttt*" And then it, like, goes into the song. And then in Secrets, you can hear like a synth in the background, which is a lot different from our first project. Our 1st project was a lot more indie, and softer. 
 
 ### Q: You guys are already hopping on the EDM wave? 
 
@@ -259,7 +261,7 @@ ___
 
 **Anwar:** He's trying to create a new genre. 
 
-**Brandon:** I'm trying to soft watch a new genre. 
+**Brandon:** I'm trying to soft launch a new genre. 
 
 **Aidan:** Dude, I got three words for you: 
 
@@ -289,7 +291,7 @@ ___
 
 **Aidan:** Hahaha mouth sounds!
 
-**Brandon:** ASMR! Asmr
+**Brandon:** ASMR! Asmr.
 
 **Anwar:** Broooooo!
 
@@ -318,9 +320,9 @@ ___
 
 **Eww.**
 
-**Jasmine:** Yeah. I go to school here. I'm here fairly often. I'm studying... I don't even know. Like, right now, I'm still in my psych major, but before I transferred, I was doing business, so I think I'm gonna do finance with an art and media management minor. Um, but I go to Pace University and it's on Wall Street, so that's like my plan. Because it's, like, on Wall Street, so, like, finance, Wall Street, you know? I live in Philly in Center City. Don't dox me. Uh... 
+**Jasmine:** Yeah. I go to school here. I'm here fairly often. I'm studying... I don't even know. Like, right now, I'm still in my psych major, but before I transferred I was doing business, so I think I'm gonna do finance with an art and media management minor. Um, but I go to Pace University, and it's on Wall Street, so that's like my plan. Because it's, like, on Wall Street, so, like, finance, Wall Street, you know? I live in Philly in Center City. Don't dox me. Uh... 
 
-**Anwart:** I'll do it. 
+**Anwar:** I'll do it. 
 
 **Jasmine:** Don't, bro. You know those followers are gonna pop out to my fucking house! And yeah so I'm unemployed as fuck. I'm in school, and all I do is play Fortnite, do homework, sleep, and play shows. And cook a lot. Smoke a lot of cigarettes.
 
@@ -330,7 +332,7 @@ ___
 
 **Mmm.**
 
-**Anwar:** She be cheffing it up, bro. I cannot lie she be cheffing it.
+**Anwar:** She be chefing it up, bro. I cannot lie she be chefing it.
 
 **Jasmine:** I make a lot of steak. I make chicken tinga. I made, um, pastina the other day, but with mushrooms, so, like, a fresh, French mushroom soup pastina. It's really good. A lot of different cuisines. Indian food. Anything literally. I used to be sous chef, so I'd be whipping it bruh. 
 
@@ -338,15 +340,15 @@ ___
 
 **Brandon:** We all live together. I work... **pauses*
 
-**Aidan:** I'm in school. 
+**Aidan:** I'm in school... 
 
 **All:** Haha.
 
-**Aidan:** Yeah I'm in school. Yeah, so I'm in school in Philly. I'm pursuing my bachelor's in communications studies and I'm pursuing my master's, like a 4 +one program to get my master's in media studies in production. I'm currently like a freelance photojournalist too. So that's kind of what I picked up over the last couple years when I stopped doing drum corps. I do freelance work when I can, and I'm mostly in school doing work that kind of takes up like most of my time, but it is kind of interesting seeing the rise of people fucking with our music at Temple, like North Philly. 
+**Aidan:** Yeah I'm in school. Yeah, so I'm in school in Philly. I'm pursuing my bachelor's in communications studies, and I'm pursuing my master's, like a 4 +one program to get my master's in media studies in production. I'm currently like a freelance photojournalist too. So that's kind of what I picked up over the last couple of years when I stopped doing drum corps. I do freelance work when I can, and I'm mostly in school doing work that kind of takes up like most of my time, but it is kind of interesting seeing the rise of people fucking with our music at Temple, like North Philly. 
 
 **Jasmine:** Yeah for sure. 
 
-<u>Sidenote 2:</u> As a perfect example I ran into my friend [Jere](https://www.instagram.com/omgitsjere_/), and told him I was on my way to the library to write up this interview for Static Brian to which he said, "No fucking way." and pulled out his phone to reveal In God's Eyes playing.
+<u>Sidenote 2:</u> As a perfect example I ran into my friend [Jere](https://www.instagram.com/omgitsjere_/), and told him I was on my way to the library to write up this interview for Static Brian to which he said, "No fucking way." and pulled out his phone to reveal he was listening to In God's Eyes at that moment. I had no idea.
 
 **Aidan:** Because we live a couple blocks away from a lot of the venues. You know, so, yeah, it's cool. 
 
@@ -385,11 +387,11 @@ ___
 
 **Because it's hot?**
 
-**Aidan:** Because this is the thing. It's like, when you're doing drum corps, there's some divisions where you spend like an entire summer just rehearsing and performing for like 90 days. And so essentially a lot of drum corps, they travel around the country to perform, and along with that comes the practices at different, like, football fields, schools, high schools, and whatnot. So there's times when I've personally been in drum corps where I'm practicing outside in a field marching for like 10 hours a day. So I feel like it's very different, obviously, than being in a band...
+**Aidan:** Because this is the thing. It's like, when you're doing drum corps, there are some divisions where you spend like an entire summer just rehearsing and performing for like 90 days. And so essentially a lot of drum corps, they travel around the country to perform, and along with that comes the practices at different, like, football fields, schools, high schools, and whatnot. So there are times when I've personally been in drum corps where I'm practicing outside in a field marching for like 10 hours a day. So I feel like it's very different, obviously, than being in a band...
 
 **Oh absolutely.**
 
-**Aidan:** Which I appreciate, and I feel like I got what I got out of it... I don't think I would be the kind of drummer I am without my influence from Drumcore. I think it also comes to like my endurance too. Because, you know, when you're marching for like 10 hours, you just kind of learn to suck it up. You know what I mean? And that's kind of the culture is just like, all right, figure it out, whatever. Don't pass out. You know what I mean? So, yeah, I don't know. It's interesting. I take different things from drum corps for the band musically, and I guess even like discipline wise. 
+**Aidan:** Which I appreciate, and I feel like I got what I got out of it... I don't think I would be the kind of drummer I am without my influence from drum corps. I think it also comes to like my endurance too. Because, you know, when you're marching for like 10 hours, you just kind of learn to suck it up. You know what I mean? And that's kind of the culture is just like, all right, figure it out, whatever. Don't pass out. You know what I mean? So, yeah, I don't know. It's interesting. I take different things from drum corps for the band musically, and I guess even like discipline wise. 
 
 **Cool. I think I could see it. With the endurance, especially.** 
 
@@ -397,7 +399,7 @@ ___
 
 **Jasmine:** U B Ight. 
 
-**Branond:** Yo, you sent me something about Michael Jackson, bro?
+**Brandon:** Yo, you sent me something about Michael Jackson, bro?
 
 **Jasmine:** Chill, bro, chill. That was for after.
 
@@ -419,7 +421,7 @@ ___
 
 **Hahaha!**
 
-**Anwar:** My secret is I use uh, leaving conditioner and curling cream. 
+**Anwar:** My secret is I use uh, leave in conditioner and curling cream. 
 
 **Jasmine:** He uses the [Shea Moisture](https://www.google.com/aclk?sa=L&ai=DChsSEwjEvMe4_rCRAxXxckcBHfcAPSUYACICCAEQDBoCcXU&co=1&ase=2&gclid=Cj0KCQiArt_JBhCTARIsADQZaymXs7hbWbc35hLSpQ58bC222e2YLglGWoe1LkkrpiPPUdHK73jktv8aAue6EALw_wcB&cid=CAASWuRojWobI6JTE1hJjd6l322BsCUqvpMGrhnChq7JNRDYJrIwvvMX4kgDln6RGSD5-J948ZJfYCz9HyzfuvxxfZfL65X1mceLnkFlNmcezLpDhkAAkwku53c2zA&cce=2&category=acrcp_v1_32&sig=AOD64_3GYNhQAZlii-Y3MCvgXgaV4gz-gA&ctype=46&q=&ved=2ahUKEwjotr64_rCRAxWzD1kFHZVzE3cQ9aACKAB6BAgLEDU&adurl=) leave in conditioner, the repair one. 
 
@@ -485,7 +487,7 @@ ___
 
 **Aidan:** Fuck yeah.
 
-**Jasmine:** I am vocally trained for singing. Like I said I went to a music school and I've been in choir since I was in 3rd grade and then when I was in choir, I had a music teacher named Mrs. Muse and I loved her. She taught me everything I know. Not everything I know, but she taught me how to listen to music. I vividly remember being in like 3rd grade or 2nd grade and having music class and she would play us songs and she'd be like, what do you hear? And that was my first time, or one of the first times I recognized how I listened to music... whatever that's a whole different story. But your know I was in choir 3rd grade, and then I auditioned to get into my music school because they like audition and you have to take choir there. There's a basic choir for everybody that's in the school, and then there's concert choir for like the better singers. It's very very classical training of music. Like, we did a lot of classical chorus songs, and I was a soprano one surprisingly. I smoked way too many cigarettes now, and I am not a soprano at all. I'm an alto. 
+**Jasmine:** I am vocally trained for singing. Like I said I went to a music school, and I've been in choir since I was in 3rd grade and then when I was in choir, I had a music teacher named Mrs. Muse and I loved her. She taught me everything I know. Not everything I know, but she taught me how to listen to music. I vividly remember being in like 3rd grade or 2nd grade and having music class, and she would play us songs, and she'd be like, what do you hear? And that was my first time, or one of the first times I recognized how I listened to music... whatever that's a whole different story. But your know I was in choir 3rd grade, and then I auditioned to get into my music school because they like audition, and you have to take choir there. There's a basic choir for everybody that's in the school, and then there's concert choir for like the better singers. It's very very classical training of music. Like, we did a lot of classical chorus songs, and I was a soprano one surprisingly. I smoked way too many cigarettes now, and I am not a soprano at all. I'm an alto. 
 
 **Aidan:** Ah ha.
 
@@ -507,11 +509,11 @@ ___
 
 **Anwar:** Kratom. 
 
-**Jasmine:** So, as much as I still use my vocal training for singing, because that was all for singing, my voice is not as great as it used to be. But for screaming, um, I sort of just had researched some ways to go about screaming. I researched it. And, you know, I used it for a little bit, but I also sort of just like did my own way of it. I went about it just like finding the sound that I wanted to produce. When I first started screaming, I didn't like how sounded. It wasn't good enough to me. It wasn't exactly where I wanted it to be. And I noticed as I went on, it sounded better and better. And it's funny cause it developed... like the trajectory of my screaming has gone the way it has gone because of what I started listening to in the process. Like, the genre that I started getting into, as well as me practicing more. So, when I first started screaming, I wanted to sound more like [Catalyst](https://www.instagram.com/catalystgmail.com2/), but now I want to sound more like, super post-hardcore, like metalcore you know?
+**Jasmine:** So, as much as I still use my vocal training for singing, because that was all for singing, my voice is not as great as it used to be. But for screaming, um, I sort of just had researched some ways to go about screaming. I researched it. And, you know, I used it for a little bit, but I also sort of just like did my own way of it. I went about it just like finding the sound that I wanted to produce. When I first started screaming, I didn't like how sounded. It wasn't good enough to me. It wasn't exactly where I wanted it to be. And I noticed as I went on, it sounded better and better. And it's funny cause it developed... like the trajectory of my screaming has gone the way it has gone because of what I started listening to in the process. Like, the genre that I started getting into, as well as me practicing more. So, when I first started screaming, I wanted to sound more like [Catalyst](https://www.instagram.com/catalystgmail.com2/), but now I want to sound more like, super post-hardcore, like metal-core you know?
 
 **Yeah.**
 
-**Jasmine:** I went from like wanting to sound like screamo and skramz, like metalcore. So it sort of just has gone through those phases with me of like what I want to sound like. I think the way I really found the exact scream I wanted was one show we played at Fontain I was like super sick. I had a really bad UTI or something and, my whole body was just shutting the fuck down. And I also, had the flu and like, a fever. It was like so bad, but that was like the best scream that I've ever had. And I remembe looking at the videos and being like, "Oh, my God." Whatever I did there I need to figure out how to channel that in my vocal chords. I sort of just kept trying to recreate that and then it sort of just transcended into what it is now. Sorry, that's not a very straightforward answer cause it wasn't a very straightforward process. It was sort of just like me trying to figure out what I wanted, and what sound fit within the music that they were making too. So, yeah, I don't know. I don't think it's ever gonna be done either. I don't think this is my final scream. I think I could still...
+**Jasmine:** I went from like wanting to sound like screamo and skramz, like metal-core. So it sort of just has gone through those phases with me of like what I want to sound like. I think the way I really found the exact scream I wanted was one show we played at Fontain I was like super sick. I had a really bad UTI or something and, my whole body was just shutting the fuck down. And I also, had the flu and like, a fever. It was like so bad, but that was like the best scream that I've ever had. And I remember looking at the videos and being like, "Oh, my God." Whatever I did there I need to figure out how to channel that in my vocal cords. I sort of just kept trying to recreate that and then it sort of just transcended into what it is now. Sorry, that's not a very straightforward answer because it wasn't a very straightforward process. It was sort of just like me trying to figure out what I wanted, and what sound fit within the music that they were making too. So, yeah, I don't know. I don't think it's ever gonna be done either. I don't think this is my final scream. I think I could still...
 
 **It's not your final form?**
 
@@ -539,11 +541,11 @@ ___
 
 **Mm-hmm**
 
-**Jasmine:** And I would go with her when I first lived with her. I was going to church with her almost every day. And I went to CCD twice a week. I was going to church. I lived with a nun. I would pray every morning. I would pray every night. I'd say the rosary twice a day. And my grandma listens to Medjugorje Church. So, Medjugorje is this place in Croatia where there's a lot of like... It's very orthodox Catholic, but we don't call ourselves that. We're like Roman Catholic, but my grandma's sort of bordering it. Medjugorje is like this holy place. It's like the Vatican, but it's different. Some holy shit happened there. Somebody saw Mary and all this stuff, whatever. So she listens to that live stream of church every single day in Croatian. So I was like listening to that my whole life, and you know when you're 6 years old, and you're sitting in church, and they're telling you that you have to be like this. You're taught the Bible and you have to repent. When you're 7 years old you have to repent for your sins. So you have to go up to the priest and tell him all the things that you did wrong. And I remember, like, the amount of fear that I felt when I was walking up to the altar, getting on my knees, and being like, "Forgive me Father, I have sinned. This is what I've done." And him being mad and, like, "You need to say this amount of prayers." That never sat right with me. Um, that like fear. 
+**Jasmine:** And I would go with her when I first lived with her. I was going to church with her almost every day. And I went to CCD twice a week. I was going to church. I lived with a nun. I would pray every morning. I would pray every night. I'd say the rosary twice a day. And my grandma listens to Medjugorje Church. So, Medjugorje is this place in Croatia where there's a lot of like... It's very orthodox Catholic, but we don't call ourselves that. We're like Roman Catholic, but my grandma's sort of bordering it. Medjugorje is like this holy place. It's like the Vatican, but it's different. Some holy shit happened there. Somebody saw Mary and all this stuff, whatever. So she listens to that live stream of church every single day in Croatian. So I was like listening to that my whole life, and you know when you're 6 years old, and you're sitting in church, and they're telling you that you have to be like this. You're taught the Bible and you have to repent. When you're 7 years old you have to repent for your sins. So you have to go up to the priest and tell him all the things that you did wrong. And I remember, like, the amount of fear that I felt when I was walking up to the altar, getting on my knees, and being like, "Forgive me Father, I have sinned. This is what I've done." And him being mad and, like, "You need to say this amount of prayers." That never sat right with me. That like fear. 
 
 **Yeah.**
 
-**Jasmine:** And that manifested into a bunch of different aspects of my life when I was developing into who I am as like a very alternative lifestyle individual. And so, I don't know, I became an adult, and I looked back, and I was like, "Damn, a lot of the things that I've done, and a lot of the ways that I felt have..." The source of that has been feeling guilty for not being... for not fitting into the paradigm of being a good Christian, you know? 
+**Jasmine:** And that manifested into a bunch of different aspects of my life when I was developing into who I am as like a very alternative lifestyle individual. And so, I don't know, I became an adult, and I looked back, and I was like, "Damn, a lot of the things that I've done, and a lot of the ways that I felt have..." The source of that has been feeling guilty of not being... for not fitting into the paradigm of being a good Christian, you know? 
 
 **Yeah I...**
 
@@ -551,7 +553,7 @@ ___
 
 **There's no guilt like Catholic guilt.**
 
-**Jasmine:** Yeah dude, and I don't even believe in God. I was 14 when I stopped believing in God. Maybe even a little bit younger, but I was 14 when I finally made the decision. Like, to myself, I'm like, "This is it. I don't believe in this shit." But, you know, you start developing sexually. You start developing into a woman. You start being around drugs. You start being around, like, Philadelphia. Like I live in the hood, and then I'm like trying to be Catholic? That just not gonna work, bruh the fuck? But in ways it's like what's it called? That Stockholm syndrome, where sometimes I'm like, should I go back to church? Like, should I be better? Like, should I believe in God? Like, will it make me feel better about how the world is functioning right now, or is it just my way out of reality? Like, I don't know. And that's something I still struggle with. But anyway.
+**Jasmine:** Yeah dude, and I don't even believe in God. I was 14 when I stopped believing in God. Maybe even a little bit younger, but I was 14 when I finally made the decision. Like, to myself, I'm like, "This is it. I don't believe in this shit." But, you know, you start developing sexually. You start developing into a woman. You start being around drugs. You start being around, like, Philadelphia. Like I live in the hood, and then I'm like trying to be Catholic? That just not gonna work, bruh the fuck? But in ways it's like what's it called? That Stockholm syndrome, where sometimes I'm like, should I go back to church? Like, should I be better? Like, should I believe in God? Like, will it make me feel better about how the world is functioning right now, or is it just my way out of reality? I don't know. And that's something I still struggle with. But anyway.
 
 **I can relate to all that.** 
 
@@ -591,7 +593,7 @@ Back to Brandon.
 
 **Jasmine:** Good fucking question. 
 
-**Brandon:** Uh, yeah, I've actually been getting a little bit back into visual art. I just think that Static Brian's been taking most of my energy, it's something I'm really excited about. So I've just been kind of like more in a music headspace rather than visual art. But I hope to be in a position where we're, I don't know where we can make more one of one merch and I can put some of my visual art into some of the stuff that we're doing as a band. Um, and I don't know, I think I haven't really been on Instagram. I think it's just kind of like a weird place for art. It's a really competitive like, I don't know... It's just like, I don't think it's the best place for your art. Like, it's not the place where 
+**Brandon:** Uh, yeah, I've actually been getting a little bit back into visual art. I just think that Static Brian's been taking most of my energy, it's something I'm really excited about. So I've just been kind of like more in a music headspace rather than visual art. But I hope to be in a position where we're, I don't know where we can make more one-of-one merch and I can put some of my visual art into some of the stuff that we're doing as a band. Um, and I don't know, I think I haven't really been on Instagram. I think it's just kind of like a weird place for art. It's a really competitive like, I don't know... It's just like, I don't think it's the best place for your art. Like, it's not the place where... 
 
 **Instagram Instagram?**
 
@@ -635,7 +637,7 @@ ___
 
 **Anwar:** Literally every fucking weekend.
 
-**Jasmine:** Yeah dude and we're all fucking busy. 
+**Jasmine:** Yeah dude, and we're all fucking busy. 
 
 **Anwar:** So yeah we're gonna take a little bit of a break from shows, just like slow down on shows. 
 
@@ -679,7 +681,7 @@ ___
 
 **Aidan:** Damn right. 
 
-**Jasmine:** That's all I got to say to y'all. 
+**Jasmine:** That's all I got to say to ya'll. 
 
 **Shword** 
 
@@ -688,7 +690,7 @@ ___
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6cd3Btb5wEPJJuGbI2nC1m?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ___
-*Also Quick shoutout to [Lily Saperstein](https://www.instagram.com/lilysaperstein/). I realize she didn't get mentioned in this interview but I don't think one can get this deep in a Static Brian interview without shouting out all the concert photography/videography she's done for them! 
+*Also Quick shoutout to [Lily Saperstein](https://www.instagram.com/lilysaperstein/). I realize she didn't get mentioned in this interview, but I don't think one can get this deep in a Static Brian interview without shouting out all the concert photography/videography she's done for them! 
 
 So follow Static Brian, stream their new music, and get ready for their new record. 
 
