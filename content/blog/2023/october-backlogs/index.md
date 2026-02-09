@@ -30,7 +30,7 @@ Words still say a lot though. They're a powerful medium of expression. I mean I�
 I’m so damn excited for this blog. I can already feel that it's been 2Long. We’re going to get INTO IT here. Philadelphia is my kryptonite in a good way. 
 
 ### 10/30/2023 Noise
-![](noise.jpeg)
+![](noise.png)
 [Mitchell Jorstad ](https://x.com/OfficialMitchll/status/1382709940352135175) via X (Twitter)
 
 In my office at my desk there is this terrible noise ringing above my head from the rumbling of the central air system. It's very annoying, and not exciting to read about I’m sure, but I figured Nardwaur could ask me about it one day. And I’ll say, “yeah, that was annoying”.

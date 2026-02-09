@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epstein on </title>
+    <link>http://localhost:1313/tags/epstein/</link>
+    <description>Recent content in Epstein on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Feb 2026 23:29:53 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/epstein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It&#39;s Been a While</title>
+      <link>http://localhost:1313/blog/2026/its-been-a-while/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2026/its-been-a-while/</guid>
+      <description>I&amp;rsquo;m pursuing music and also Jeffrey Epstein&amp;rsquo;s emails :)</description>
+    </item>
+  </channel>
+</rss>
