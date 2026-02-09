@@ -23,3 +23,7 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params]
+[params.markup]
+  renderImage = false
