@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://g-snipes.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "congo"
+title = 'G Snipe Site'
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
