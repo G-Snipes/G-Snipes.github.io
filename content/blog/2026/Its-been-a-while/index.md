@@ -150,7 +150,7 @@ Courage and bravery is not having no fear, it’s going through with whatever is
 
 One day it will end, so be present and happy day to day. You don’t get time back. 
 
-Momemnts are only beautiful because they're fleeting. 
+Moments are only beautiful because they're fleeting. 
 
 I promise that you can run laps around these fucks. These manchildren can’t throw money at their problems forever. Soon they're going to have to face that they face the same fate as the cattle they think they control. 
 
