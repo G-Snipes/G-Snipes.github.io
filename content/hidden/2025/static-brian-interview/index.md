@@ -13,7 +13,7 @@ coverCaption: |
   Trying to get them to cheese. L -> R Anwar, Jasmine, Aidan
 ---
 
-Interviewed on 11.29.25
+Interviewed on 11.29.25 *before their new member [Henrietta](https://www.instagram.com/henri._.etta/) joined.
 ___
 The holidays ended and I left my hometown at 7 in the morning because I had a 2-hour drive back to Philly to scoop up Anwar and Aidan and then a drive straight to the gig in NYC. In NYC, where Brooklyn meets Queens was this eclectic screaming monster of a bill held at the [Stone Circle Theatre](https://www.instagram.com/sctrpc/?hl=en) and presented by [Persephone Rises](https://www.instagram.com/persephone.rises.diy/?hl=en&g=5). Before the gig, [Static Brian](https://www.instagram.com/staticbr1an/?hl=en) and I sat down nice and cozy outside in a running car on quiet street, so I may extract the information I and others might desire to know. 
 
