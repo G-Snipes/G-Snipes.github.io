@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 
-[[main]]
-  name = "Discord"
-  url = "https://discord.com/invite/RG4xVUKs"
-  weight = 6
-  [main.params]
-    icon = "discord"
-    showName = false
-    target = "_blank"
+#[[main]]
+#  name = "Discord"
+# url = "https://discord.com/invite/RG4xVUKs"
+#  weight = 6
+# [main.params]
+#   icon = "discord"
+#   showName = false
+#   target = "_blank"
 
  [[main]]
   name = "YouTube"
