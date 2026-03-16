@@ -10,12 +10,10 @@ tags:
   - NYC
 title: The Static Brian Interview
 coverCaption: |
-  Trying to get them to cheese. L->R Brandon, Anwar, Jasmine, Aidan
+  Trying to get them to cheese. L -> R Anwar, Jasmine, Aidan
 ---
 
 Interviewed on 11.29.25
-<audio controls src="staticbrian.m4a" style="width: 350px;"></audio>
-
 ___
 The holidays ended and I left my hometown at 7 in the morning because I had a 2-hour drive back to Philly to scoop up Anwar and Aidan and then a drive straight to the gig in NYC. In NYC, where Brooklyn meets Queens was this eclectic screaming monster of a bill held at the [Stone Circle Theatre](https://www.instagram.com/sctrpc/?hl=en) and presented by [Persephone Rises](https://www.instagram.com/persephone.rises.diy/?hl=en&g=5). Before the gig, [Static Brian](https://www.instagram.com/staticbr1an/?hl=en) and I sat down nice and cozy outside in a running car on quiet street, so I may extract the information I and others might desire to know. 
 
@@ -54,25 +52,15 @@ ___
 
 **Aidan:** Jesus Christ. That was a whole year ago. 
 
-**Brandon:** I just remember telling you to come to that shit. That was like...
-
 **Anwar:** That was probably our worst show ever. 
 
-**Brandon:** That was the weirdest show ever, for sure. 
-
 **Jasmine:** No comment!
-
-**Brandon:** And that was like the 1st one you pulled up to, it was like, fuck, like... Because I feel like I saw you after the [dimmer](https://www.instagram.com/dimmer.phl/) show at Page. I was like, "Yo, we got a show in like a month you should definitely pull up and... 
 
 **Aidan:** It's definitely like... it's one of those things where you just kind of doing whatever show you can get. Because I think we just recorded our fucking, you know, EP that time. Wasn't it out?
 
 **Anwar:** No, that was way before we recorded anything. 
 
-**Brandon:** That was like 2 months before we recorded. That was in September. 
-
 **Anwar:** That was one of our 1st shows. 
-
-**Aidan:** Oh damn. Oh, never mind. Never mind. 
 
 **That's not usually..., I usually start off with this question, okay?**
 
@@ -85,12 +73,6 @@ ___
 **I feel that.**
 
 **Jasmine:** Hehe, and I play guitar. So yeah, that's my musical background.
-
-**Brandon:** Uh, my name's Brandon. I play bass for Static Brian, and sometimes back up vocals now. And a little bit of guitar, hopefully, soon. And my background is primarily in saxophone. Like I started playing saxophone in band when I was 9, and then did band and marching band, and that's how I met Aidan in middle school. Transitioned to bass in high school. And then I've kind of only been playing bass ever since. And, oh, I wanna play guitar, and I have a drum set, and I've been kind of grinding on drums, because Aidan's really inspiring. Try and play some drums, you know, trying to do it all. 
-
-**Nice.**
-
-**Jasmine:** I love Bjork. (*<- I thinks that's what was said.*)
 
 **Anwar:** My name is Anwar. I play guitar and do backup vocals sometimes. Not that much anymore, but I..., my music background is... I actually sang in the choir in like elementary school, and then I played drums through middle and like early high school, like percussion and band and orchestra from my school. Then I stopped early high school. I stopped everything for a while, and then I picked up guitar my senior year of high school after quarantine. And, yeah.
 
@@ -109,8 +91,6 @@ ___
 ___
 
 ## Q2: So, how did this band form?
-
-**Brandon:** Uh... 
 
 **Aidan:** Okay, so I'm kind of the middleman in this, where you know... I met Brandon in middle school. We've been jamming for like a couple of years. Just like drum set. That's when he started getting into bass and guitar, and so we would jam a little bit. And then in 2020, I met Jasmine through Brandon, and it was funny because we used to play outside during quarantine, so we'd be like socially distanced. We're all playing outside in my backyard. My parents were super down for it. So I brought my kit out, and then we would kind of just dick around, honestly. And then a couple years later I'm at Temple now, and I met Anwar when was a freshman, and then we moved, you know, moved in together. Then sophomore year, we formed [80hd](https://www.instagram.com/80hd.dh08/), our 1st band with like all of our roommates. It was like a 6-person band.
 
@@ -161,8 +141,6 @@ ___
 
 **Anwar:** Yeah, are you cold?
 
-**Brandon:** Yeah lol. 
-
 **Aidan:** Hehe.
 
 **Anwar:** Can we put the things up? 
@@ -194,10 +172,6 @@ ___
 **Jasmine:** I think our next album is gonna do that. 
 
 **Anwar:** Yeah, because people fuck with all of our music. 
-
-**Brandon:** That we're posting, and that's the pull. 
-
-**Anwar:** I'm not posting music that isn't out yet right now.
 
 **Jasmine:** I think the mixes that we have for our last project, like the sound doesn't really match the vibe that we're putting out now on social media.
 
@@ -235,8 +209,6 @@ ___
 
 **Jasmine:** Yeah, lowkey, let's make dubstep set bro that's my next move.  
 
-**Brandon:** IDM, bro like... or IMM.
-
 **Aidan:** Hehe. 
 
 **Anwar:** Dubstep, dubstep, dubstep, dubstep, dubstep. 
@@ -245,33 +217,19 @@ ___
 
 **What's I. M. M.?**
 
-**Brandon:** Oh. 
-
 **Aidan:** Oh. Uh...
-
-**Brandon:** We don't really have to get into that right now.
 
 **Anwar:** It's a can of worms. 
 
 **Aidan:** It's a can of worms. 
 
-**Brandon:** It's a new... it's a new genre. I'm trying to branch. 
-
 **All:** Hahaha!
-
-**Anwar:** He's trying to create a new genre. 
-
-**Brandon:** I'm trying to soft launch a new genre. 
 
 **Aidan:** Dude, I got three words for you: 
 
 > Intellectual Masturbation Music
 
 **Anwar:** Oh my fucking Goddddd. 
-
-**Brandon:** I. M. M. You know it's like IDM, but it's more... it's more sensual.
-
-**Anwar:** *Groans* 
 
 **Aidan:** I got 3 words for you!
 
@@ -281,29 +239,11 @@ ___
 
 **Anwar:** *Ohhh*
 
-**Brandon:** No, oh, no, no, no. It's like.
-
 **Jasmine:** Yeah yesss! Weezer bruh! Skrillex!
 
 **Aidan:** Yes!
 
-**Brandon:** It's like Aphex Twin meets like mouth sounds. 
-
-**Aidan:** Hahaha mouth sounds!
-
-**Brandon:** ASMR! Asmr.
-
-**Anwar:** Broooooo!
-
-**Brandon:** ASMR meets like intellectual dance music.
-
-**Oh okay.**
-
-**Brandon:** Yeah.
-
-**Alright, cool.**
-
-**Anwar:** Please bro next question bro please.  
+**Anwar:** Broooooo! Please bro next question bro please.  
 
 ![](window.png) From IG. Caption: "900!!!! holy shit if i could physically kiss all 900 of you i would. Only 100 more till 1k followers we got this 🤘🏼❤️‍🔥🫶🏼🙏🏼❤️‍🔥💪🏼🤘🏼"
 ___
@@ -338,11 +278,7 @@ ___
 
 **All right, how about you guys?**
 
-**Brandon:** We all live together. I work... **pauses*
-
 **Aidan:** I'm in school... 
-
-**All:** Haha.
 
 **Aidan:** Yeah I'm in school. Yeah, so I'm in school in Philly. I'm pursuing my bachelor's in communications studies, and I'm pursuing my master's, like a 4 +one program to get my master's in media studies in production. I'm currently like a freelance photojournalist too. So that's kind of what I picked up over the last couple of years when I stopped doing drum corps. I do freelance work when I can, and I'm mostly in school doing work that kind of takes up like most of my time, but it is kind of interesting seeing the rise of people fucking with our music at Temple, like North Philly. 
 
@@ -375,13 +311,7 @@ ___
 
 **Jasmine:** Why are they always naked? 
 
-**Aidan:** Huh? 
-
-**Brandon:** You mean during their practices? 
-
-**Jamine:** **Drops something* Fuck! Yeah.
-
-**Aidan:** Yeah, because it's hot as fuck. Yeah, because...
+**Aidan:** Huh? Yeah, because it's hot as fuck. 
 
 **Jasmine:** That's pretty gay bruh.
 
@@ -398,10 +328,6 @@ ___
 **Aidan:** Yeah, dude. That's what it teaches you, man. Fucking sucks. My homeostasis is all fucked up. 
 
 **Jasmine:** U B Ight. 
-
-**Brandon:** Yo, you sent me something about Michael Jackson, bro?
-
-**Jasmine:** Chill, bro, chill. That was for after.
 
 ___
 
@@ -585,25 +511,6 @@ ___
 
 ___
 
-Back to Brandon. 
-
-## Q10 (Brandon): How long have you been making art and are we going to see any more new pieces on [your IG](https://www.instagram.com/_.donronovan_._/) anytime soon. 
-
-**Brandon:** Ooh.
-
-**Jasmine:** Good fucking question. 
-
-**Brandon:** Uh, yeah, I've actually been getting a little bit back into visual art. I just think that Static Brian's been taking most of my energy, it's something I'm really excited about. So I've just been kind of like more in a music headspace rather than visual art. But I hope to be in a position where we're, I don't know where we can make more one-of-one merch and I can put some of my visual art into some of the stuff that we're doing as a band. Um, and I don't know, I think I haven't really been on Instagram. I think it's just kind of like a weird place for art. It's a really competitive like, I don't know... It's just like, I don't think it's the best place for your art. Like, it's not the place where... 
-
-**Instagram Instagram?**
-
-**Brandon:** It's not the place where someone's gonna sit with your art and really look at it. You know you have like 15 seconds of engagement where someone's going to look at this and be like, "Oh, that's cool." And, you know, move on? And that's cool. I think that's cool. So hopefully you'll see my art in person if you come to a show, or you'll see it in real life, like on a building or the Statue of Liberty or... the fucking Empire State Building or something, you know? So hopefully you see some physical art and, I don't know. I'm not worried about the page. 
-
-**Cool. Thanks for sharing. We're almost done.**
-
-{{< instagram C9MCETwNanc>}}
-
-___
 
 ## Q11: What could fans expect to see in the next year? 
 
@@ -627,21 +534,15 @@ ___
 
 **Anwar:** Less shows! Definitely. 
 
-**Brandon:** You guys gotta pop out!
-
 **Jasmine:** Less shows, but bigger shows.
 
 **Anwar:** Less shows, but bigger shows and also that means music videos too because we've been trying to do music videos for so long, but it's hard to do that when you have a show every fucking... 
-
-**Brandon:** Every weekend. 
 
 **Anwar:** Literally every fucking weekend.
 
 **Jasmine:** Yeah dude, and we're all fucking busy. 
 
 **Anwar:** So yeah we're gonna take a little bit of a break from shows, just like slow down on shows. 
-
-**Brandon:** But you can expect more music.
 
 **Aidan:** Yeah.
 
