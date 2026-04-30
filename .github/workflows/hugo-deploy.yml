@@ -42,11 +42,11 @@ jobs:
 
       - name: Build
         run: |
-          # Ensure modules are downloaded to the runner
-          hugo mod download
-          # Clean up go.sum and verify dependencies
+          # Clean up any partial state
           hugo mod tidy
-          # Build the site with full visibility of the modules
+          # Explicitly pull the Congo theme into the project
+          hugo mod get github.com/jpanther/congo/v2
+          # Build the site
           hugo --minify
 
       - name: Upload artifact
