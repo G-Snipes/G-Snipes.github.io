@@ -2,6 +2,9 @@ baseURL = 'https://g-snipes.github.io/'
 languageCode = 'en-us'
 title = 'G Snipe Site'
 
+[author]
+  name = "Gary"
+
 [module]
   [[module.imports]]
     path = "github.com/jpanther/congo/v2"
