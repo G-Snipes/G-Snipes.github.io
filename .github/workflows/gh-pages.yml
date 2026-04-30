@@ -6,6 +6,9 @@ on:
       - main  # Make sure this matches your default branch name
   workflow_dispatch: {} 
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
