@@ -32,7 +32,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 0.145.0
+          hugo-version: 0.155.0
           extended: true
 
       - name: Install Dependencies
@@ -47,15 +47,17 @@ jobs:
 
       - name: Build
         run: |
-          # 1. Clean up and force a fresh fetch
-          hugo mod tidy
-          hugo mod get -u github.com/jpanther/congo/v2
+          # 1. Clear out any broken cache or old module files
+          rm -rf _vendor
+          rm -f go.mod go.sum
           
-          # 2. Re-verify the module graph
-          hugo mod graph
+          # 2. Re-init and force a local vendor of the theme
+          hugo mod init github.com/G-Snipes/G-Snipes.github.io
+          hugo mod get github.com/jpanther/congo/v2@v2.13.0
+          hugo mod vendor
           
-          # 3. Build the site
-          hugo --minify
+          # 3. Build using the local vendor folder
+          hugo --minify --environment production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
