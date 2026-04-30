@@ -40,11 +40,20 @@ jobs:
           hugo mod get -u
           hugo mod tidy
 
+      - name: Fix Congo Layouts
+        run: |
+          mkdir -p layouts/partials/functions
+          touch layouts/partials/functions/warnings.html
+
       - name: Build
         run: |
-          # Force Hugo to download the theme and place it in a local _vendor folder
-          hugo mod vendor
-          # Build using the local vendor folder instead of the hidden cache
+          # Remove any old vendor or cache junk
+          rm -rf _vendor
+          hugo mod clean
+          # Force a deep tidy and get
+          hugo mod tidy
+          hugo mod get -u
+          # Build without the vendor folder to let Hugo Modules handle the mapping
           hugo --minify
 
       - name: Upload artifact
