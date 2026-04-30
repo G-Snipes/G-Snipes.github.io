@@ -47,13 +47,14 @@ jobs:
 
       - name: Build
         run: |
-          # Remove any old vendor or cache junk
-          rm -rf _vendor
-          hugo mod clean
-          # Force a deep tidy and get
+          # 1. Clean up and force a fresh fetch
           hugo mod tidy
-          hugo mod get -u
-          # Build without the vendor folder to let Hugo Modules handle the mapping
+          hugo mod get -u github.com/jpanther/congo/v2
+          
+          # 2. Re-verify the module graph
+          hugo mod graph
+          
+          # 3. Build the site
           hugo --minify
 
       - name: Upload artifact
