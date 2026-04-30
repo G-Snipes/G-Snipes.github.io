@@ -14,7 +14,7 @@ coverCaption: |
 
 ### 2/6/26 I'm Doing Music
 
-Hey... I'm back. 
+Hey, I'm back. 
 
 Let’s catch you all up, dearest readers. 
 
