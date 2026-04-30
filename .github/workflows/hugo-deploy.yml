@@ -42,11 +42,9 @@ jobs:
 
       - name: Build
         run: |
-          # Clean up any partial state
-          hugo mod tidy
-          # Explicitly pull the Congo theme into the project
-          hugo mod get github.com/jpanther/congo/v2
-          # Build the site
+          # Force Hugo to download the theme and place it in a local _vendor folder
+          hugo mod vendor
+          # Build using the local vendor folder instead of the hidden cache
           hugo --minify
 
       - name: Upload artifact
