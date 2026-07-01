@@ -1,0 +1,76 @@
+name: Hugo Custom Build
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+# Grant permissions to allow the deployment to happen
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 0.155.0
+          extended: true
+
+      - name: Install Dependencies
+        run: |
+          hugo mod get -u
+          hugo mod tidy
+
+      - name: Fix Congo Layouts
+        run: |
+          mkdir -p layouts/partials/functions
+          touch layouts/partials/functions/warnings.html
+
+      - name: Build
+        run: |
+          # 1. Clear out any broken cache or old module files
+          rm -rf _vendor
+          rm -f go.mod go.sum
+          
+          # 2. Re-init and force a local vendor of the theme
+          hugo mod init github.com/G-Snipes/G-Snipes.github.io
+          hugo mod get github.com/jpanther/congo/v2@v2.13.0
+          hugo mod vendor
+          
+          # 3. Build using the local vendor folder
+          hugo --minify --environment production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

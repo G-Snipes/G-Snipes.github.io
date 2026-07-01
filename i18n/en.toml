@@ -1,0 +1,6 @@
+# i18n/en.toml
+
+# ... other translations ...
+
+[shortcode.recent_articles]
+other = "Recent"
